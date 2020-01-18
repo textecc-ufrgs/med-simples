@@ -1,0 +1,35 @@
+## tagger training invoked at Mon Mar 26 10:37:50 CEST 2018 with arguments:
+                   model = POS_output/ud-pt-pos_tagger_0.dat
+                    arch = left3words,bidirectional,generic,words(-1,1), unicodeshapes(-1,1), suffix(4), prefix(4)
+            wordFunction = 
+               trainFile = format=TSV,wordColumn=1,tagColumn=4,train_and_test/pt-ud_train_POS_0.conll
+         closedClassTags = 
+ closedClassTagThreshold = 40
+ curWordMinFeatureThresh = 2
+                   debug = false
+             debugPrefix = 
+            tagSeparator = /
+                encoding = UTF-8
+              iterations = 100
+                    lang = 
+    learnClosedClassTags = True
+        minFeatureThresh = 5
+           openClassTags = 
+rareWordMinFeatureThresh = 10
+          rareWordThresh = 5
+                  search = qn
+                    sgml = false
+            sigmaSquared = 0.5
+                   regL1 = 1.0
+               tagInside = 
+                tokenize = false
+        tokenizerFactory = 
+        tokenizerOptions = 
+                 verbose = false
+          verboseResults = true
+    veryCommonWordThresh = 250
+                xmlInput = 
+              outputFile = 
+            outputFormat = tsv
+     outputFormatOptions = 
+                nthreads = 1

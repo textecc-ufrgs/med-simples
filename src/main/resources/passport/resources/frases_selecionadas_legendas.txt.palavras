@@ -1,0 +1,903 @@
+É 	[ser] <fmc> <*> <mv> V PR 3S IND VFIN @FS-STA  #1->0
+por=isso=que 	[por=isso=que] <clb> <clb-fs> KS @SUB  #2->6
+a 	[o] <artd> DET F S @>N  #3->4
+arte 	[arte] <domain> N F S @SUBJ>  #4->6
+nos 	[nós] <refl> PERS M/F 1P DAT @DAT>  #5->6
+pertence 	[pertencer] <mv> V PR 3S IND VFIN @FS-<ADVL  #6->1
+também 	[também] ADV @<ADVL  #7->6
+$. #8->0
+</s>
+
+$'  #1->0
+ele 	[ele] PERS M 3S NOM @SUBJ>  #2->4
+me 	[eu] PERS M/F 1S ACC @ACC>  #3->4
+chutou 	[chutar] <fmc> <vH> <mv> V PS 3S IND VFIN @FS-STA  #4->0
+em 	[em] <sam-> PRP @<ADVL  #5->4
+o 	[o] <-sam> <artd> DET M S @>N  #6->7
+lado 	[lado] <Labs> N M S @P<  #7->5
+$. #8->0
+</s>
+
+Quatro 	[quatro] <*> <card> NUM M/F P @>N  #1->2
+vivas 	[vivo] <n> <jh> ADJ F P @NPHR  #2->0
+por 	[por] <sam-> <np-close> PRP @N<  #3->0
+a 	[o] <-sam> <artd> DET F S @>N  #4->5
+noiva 	[noiva] <Htit> N F S @P<  #5->3
+de 	[de] <sam-> <np-close> PRP @N<  #6->5
+o 	[o] <-sam> <artd> DET M S @>N  #7->8
+ano=que=vem 	[ano=que=vem] <temp> N M S @P<  #8->6
+$! #9->0
+</s>
+
+</s>
+
+Eu 	[eu] <*> PERS F 1S NOM @SUBJ>  #1->2
+sei 	[saber] <cjt-head> <fmc> <mv> V PR 1S IND VFIN @FS-STA  #2->0
+$, #3->0
+mas 	[mas] <clb> KC @CO  #4->2
+é 	[ser] <nosubj> <cjt> <fmc> <vK> <mv> V PR 3S IND VFIN @FS-STA  #5->2
+a 	[o] <artd> DET F S @>N  #6->7
+lei 	[lei] <conv> <percep-f> N F S @<SC  #7->5
+$. #8->0
+</s>
+
+Mas 	[mas] <*> KC @CO  #1->0
+senhora 	[senhora] <Htit> N F S @SUBJ>  #2->0
+$...  #3->0
+</s>
+
+se 	[se] <clb> <clb-fs> KS @SUB  #1->3
+você 	[você] PERS F 3S NOM @SUBJ>  #2->3
+baixasse 	[baixar] <mv> V IMPF 3S SUBJ VFIN @FS-ADVL>  #3->9
+suas 	[seu] <poss 3S> DET F P @>N  #4->5
+percianas 	[percianas] <n> <col> <DERP> <jh> ADJ F P @<ACC  #5->3
+$, #6->0
+você 	[você] PERS F 3S NOM @SUBJ>  #7->9
+não 	[não] ADV @ADVL>  #8->9
+estaria 	[estar] <fmc> <vK> <mv> V COND 3S VFIN @FS-STA  #9->0
+chateada 	[chatear] V PCP F S @<SC  #10->9
+$. #11->0
+</s>
+
+$--  #1->0
+O 	[o] <*> <dem> <np-close> DET M S @APP  #2->0
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @ACC>  #3->4
+houve 	[haver] <mv> <np-close> V PS 1/3S IND VFIN @FS-N<  #4->2
+$, #5->0
+Antônio 	[Antônio] <hum> <newlex> <*> <np-close> PROP M S @APP  #6->3
+$:  #7->0
+</s>
+
+$--  #1->0
+O 	[o] <*> <artd> DET M S @>N  #2->3
+que 	[que] <clb> <interr> SPEC M S @ACC>  #3->6
+ela 	[ela] PERS F 3S NOM @SUBJ>  #4->5
+está 	[estar] <fmc> <aux> V PR 3S IND VFIN @FS-QUE  #5->0
+tentando 	[tentar] <vH> <mv> V GER @ICL-AUX<  #6->5
+fazer 	[fazer] <mv> V INF @ICL-<ACC  #7->6
+$? #8->0
+</s>
+
+Ordenaram 	[ordenar] <fmc> <*> <vH> <mv> V PS/MQP 3P IND VFIN @FS-STA  #1->0
+voltar 	[voltar] <mv> V INF @ICL-<ACC  #2->1
+para 	[para] PRP @<OA  #3->2
+Washington 	[Washington] <hum> <*> PROP M/F S @P<  #4->3
+$. #5->0
+</s>
+
+$--  #1->0
+Cristãos 	[cristão] <*> <Hideo> N M P @NPHR  #2->0
+$! #3->0
+</s>
+
+</s>
+
+$--  #1->0
+Pronta 	[pronto] <*> <jh> ADJ F S @NPHR  #2->0
+$? #3->0
+</s>
+
+Ele 	[ele] <*> PERS M 3S NOM @SUBJ>  #1->3
+não 	[não] ADV @ADVL>  #2->3
+teve 	[ter] <fmc> <mv> V PS 3S IND VFIN @FS-STA  #3->0
+sorte 	[sorte] <am> <f-psych> <event> <mon> <meta> N F S @<ACC  #4->3
+$. #5->0
+</s>
+
+Em 	[em] <*> <sam-> PRP @ADVL>  #1->6
+este 	[este] <-sam> <dem> DET M S @>N  #2->3
+semestre 	[semestre] <per> N M S @P<  #3->1
+$, #4->0
+já 	[já] ADV @ADVL>  #5->6
+faltou 	[faltar] <fmc> <mv> V PS 3S IND VFIN @FS-STA  #6->0
+nove 	[nove] <card> NUM F P @>N  #7->8
+vezes 	[vez] <temp> N F P @<ADVL  #8->6
+$. #9->0
+</s>
+
+Ele 	[ele] <*> PERS M 3S NOM @SUBJ>  #1->2
+vai 	[ir] <fmc> <aux> V PR 3S IND VFIN @FS-STA  #2->0
+fazer 	[fazer] <mv> V INF @ICL-AUX<  #3->2
+mesmo 	[mesmo] <quant> ADV @<ADVL  #4->3
+$. #5->0
+</s>
+
+E 	[e] <*> KC @CO  #1->3
+eu 	[eu] PERS M 1S NOM @SUBJ>  #2->3
+sou 	[ser] <fmc> <vK> <mv> V PR 1S IND VFIN @FS-STA  #3->0
+Fred=Leinster 	[Fred=Leinster] <hum> <*> PROP M S @<SC  #4->3
+$! #5->0
+</s>
+
+</s>
+
+Johan 	[Johan] <cjt-head> <hum> <*> PROP M S @NPHR  #1->0
+$, #2->0
+drama 	[drama] <cjt> <sem-w> N M S @NPHR  #3->1
+em 	[em] <np-close> PRP @N<  #4->3
+cinco 	[cinco] <card> NUM M P @>N  #5->6
+atos 	[ato] <act> <cc-r> N M P @P<  #6->4
+de 	[de] <np-close> PRP @N<  #7->6
+um 	[um] <arti> DET M S @>N  #8->9
+romance 	[romance] <sem-r> N M S @P<  #9->7
+de 	[de] <np-long> PRP @N<  #10->6
+Juhani=Aho 	[Juhani=Aho] <hum> <*> PROP M S @P<  #11->10
+$. #12->0
+</s>
+
+para 	[para] PRP @ADVL  #1->0
+colocar 	[colocar] <vH> <mv> V INF @ICL-P<  #2->1
+a 	[o] <artd> DET F S @>N  #3->5
+sua 	[seu] <poss 3S> <si> DET F S @>N  #4->5
+frente 	[frente] <Labs> <dir> <an> <wea-c> N F S @<ACC  #5->2
+$. #6->0
+</s>
+
+Me 	[eu] <*> <refl> PERS M/F 1S ACC @ACC>  #1->2
+trouxe 	[trazer] <fmc> <mv> <v-pron> V PS 1/3S IND VFIN @FS-STA  #2->0
+de 	[de] <sam-> PRP @<ADVL  #3->2
+a 	[o] <-sam> <artd> DET F S @>N  #4->5
+Florida 	[Florida] <civ> <*> PROP F S @P<  #5->3
+$. #6->0
+</s>
+
+Por=que 	[por=que] <clb> <interr> <*> ADV @SA>  #1->3
+está 	[estar] <fmc> <aux> V PR 3S IND VFIN @FS-QUE  #2->0
+rindo 	[rir] <vH> <mv> V GER @ICL-AUX<  #3->2
+$? #4->0
+</s>
+
+Olhe 	[olhar] <nosubj> <cjt-head> <fmc> <*> <vH> <mv> V PR 1/3S SUBJ VFIN @FS-STA  #1->0
+$, #2->0
+isso 	[isso] <dem> SPEC M S @SUBJ>  #3->4
+foi 	[ser] <cjt> <fmc> <vK> <mv> V PS 3S IND VFIN @FS-STA  #4->1
+ideia 	[ideia] <sem-c> N F S @<SC  #5->4
+sua 	[seu] <poss 3S> <np-close> DET F S @N<  #6->5
+$. #7->0
+</s>
+
+Há 	[há] <*> PRP @ADVL>  #1->0
+20 	[20] <card> NUM M P @>N  #2->3
+anos 	[ano] <dur> <temp> <per> <unit> N M P @P<  #3->1
+$...  #4->0
+</s>
+
+ele 	[ele] PERS M 3S NOM @SUBJ>  #1->2
+está 	[estar] <fmc> <mv> V PR 3S IND VFIN @FS-STA  #2->0
+em 	[em] <sam-> PRP @<SA  #3->2
+a 	[o] <-sam> <artd> DET F S @>N  #4->5
+Prisão=Spandau 	[Prisão=Spandau] <inst> <*> <heur> PROP F S @P<  #5->3
+em 	[em] <sam-> PRP @<ADVL  #6->2
+os 	[o] <artd> <-sam> DET M P @>N  #7->8
+arredores 	[arredores] <Ltop> N M P @P<  #8->6
+de 	[de] <np-close> PRP @N<  #9->8
+Berlim 	[Berlim] <civ> <*> PROP M S @P<  #10->9
+$. #11->0
+</s>
+
+Gosta 	[gostar] <fmc> <*> <vH> <mv> V PR 3S IND VFIN @FS-QUE  #1->0
+de 	[de] <sam-> PRP @<PIV  #2->1
+essa 	[esse] <-sam> <dem> DET F S @>N  #3->4
+luz 	[luz] <am> <cc-light> N F S @P<  #4->2
+$? #5->0
+</s>
+
+$--  #1->0
+Boa 	[bom] <*> ADJ F S @>N  #2->3
+noite 	[noite] <per> <temp> N F S @NPHR  #3->0
+$. #4->0
+</s>
+
+Estamos 	[estar] <fmc> <*> <vK> <mv> V PR 1P IND VFIN @FS-QUE  #1->0
+prontos 	[pronto] <jh> ADJ M P @<SC  #2->1
+para 	[para] PRP @<ADVL  #3->1
+esta 	[este] <dem> DET F S @>N  #4->5
+noite 	[noite] <per> <temp> N F S @P<  #5->3
+$? #6->0
+</s>
+
+Anteo=Fallaspy 	[Anteo=Fallaspy] <org> <*> <heur> <foreign> PROP M S @SUBJ>  #1->2
+usou 	[usar] <fmc> <vH> <mv> V PS 3S IND VFIN @FS-STA  #2->0
+uma 	[um] <arti> DET F S @>N  #3->4
+identidade 	[identidade] <f-psych> N F S @<ACC  #4->2
+falsa 	[falso] <np-close> ADJ F S @N<  #5->4
+de 	[de] <sam-> <np-close> PRP @N<  #6->4
+a 	[o] <-sam> <artd> DET F S @>N  #7->8
+Comissão 	[comissão] <org> <*> PROP F S @P< 	[Comissão] <newlex> <*> PROP F S @P<  #8->6
+de 	[de] <sam-> <np-close> PRP @N<  #9->8
+o 	[o] <-sam> <artd> DET M S @>N  #10->11
+EVD 	[EVD] <inst> <*> PROP M S @P<  #11->9
+$. #12->0
+</s>
+
+Cuidado 	[cuidado] <*> <am> <act-d> N M S <ac> @NPHR  #1->0
+$! #2->0
+</s>
+
+Alguma 	[algum] <*> <quant> DET F S @>N  #1->2
+coisa 	[coisa] <cc> <ac> N F S @SUBJ>  #2->3
+vai 	[ir] <fmc> <aux> V PR 3S IND VFIN @FS-STA  #3->0
+acontecer 	[acontecer] <vN> <mv> V INF @ICL-AUX<  #4->3
+$! #5->0
+</s>
+
+</s>
+
+Está 	[estar] <fmc> <*> <mv> V PR 3S IND VFIN @FS-STA  #1->0
+bem 	[bem] <quant> ADV @<SA  #2->1
+$. #3->0
+</s>
+
+Há 	[haver] <fmc> <*> <mv> V PR 3S IND VFIN @FS-STA  #1->0
+um 	[um] <arti> DET M S @>N  #2->3
+colar 	[colar] <cloH-beauty> N M S @<ACC  #3->1
+muito 	[muito] <quant> ADV @>A  #4->5
+caro 	[caro] <np-close> ADJ M S @N<  #5->3
+em 	[em] <sam-> PRP @<ADVL  #6->1
+o 	[o] <-sam> <artd> DET M S @>N  #7->8
+cofre 	[cofre] <furn> <con> N M S @P<  #8->6
+de 	[de] <sam-> <np-close> PRP @N<  #9->8
+o 	[o] <-sam> <artd> DET M S @>N  #10->11
+Sr.Fakirchand 	[Sr.Fakirchand] <inst> <*> <heur> <foreign> PROP M S @P<  #11->9
+$. #12->0
+</s>
+
+Vou 	[ir] <fmc> <*> <aux> V PR 1S IND VFIN @FS-STA  #1->0
+lhe 	[ele] PERS M/F 3S DAT @DAT>  #2->3
+dizer 	[dizer] <vH> <mv> V INF @ICL-AUX<  #3->1
+sem 	[sem] PRP @<ADVL  #4->3
+rodeios 	[rodeio] <occ> N M P @P<  #5->4
+$, #6->0
+Sr.=Ballon 	[Sr.=Ballon] <top> <*> <foreign> <np-close> PROP M S @APP  #7->5
+$, #8->0
+que 	[que] <clb> <clb-fs> KS @SUB  #9->10
+foi 	[ser] <vK> <mv> V PS 3S IND VFIN @FS-<ACC  #10->3
+o 	[o] <artd> DET M S @>N  #11->12
+senhor 	[senhor] <Htit> N M S @<SC  #12->10
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @ACC>  #13->14
+matou 	[matar] <mv> <np-close> V PS 3S IND VFIN @FS-N<  #14->12
+Miguel=Ostos 	[Miguel=Ostos] <hum> <*> PROP M S @<SUBJ  #15->14
+$. #16->0
+</s>
+
+Legal 	[legal] <*> <nh> ADJ M/F S @NPHR  #1->0
+$. #2->0
+</s>
+
+$--  #1->0
+E 	[e] <*> KC @CO  #2->5
+o 	[o] <artd> DET M S @>N  #3->4
+que 	[que] <clb> <interr> SPEC M S @SUBJ>  #4->5
+poderia 	[poder] <fmc> <aux> V COND 3S VFIN @FS-QUE  #5->0
+ser 	[ser] <vK> <mv> V INF @ICL-AUX<  #6->5
+em 	[em] PRP @<SC  #7->6
+Inglês 	[inglês] <prop> <*> <Hnat> <ling> N M S @P<  #8->7
+simples 	[simples] <jh> <np-close> ADJ M S @N<  #9->8
+$? #10->0
+</s>
+
+Mas 	[mas] <*> KC @CO  #1->4
+eu 	[eu] PERS M/F 1S NOM @SUBJ> 	[eu] <SYN:também> <newlex> ADV @ADVL>  #2->4
+não 	[não] ADV @ADVL>  #3->4
+concordo 	[concordar] <fmc> <vH> <mv> V PR 1S IND VFIN @FS-STA  #4->0
+</s>
+
+Bom 	[bom] <*> <jh> ADJ M S @NPHR  #1->0
+$. #2->0
+</s>
+
+Quem 	[quem] <clb> <*> <interr> SPEC M/F S/P @SC>  #1->2
+é 	[ser] <fmc> <mv> V PR 3S IND VFIN @FS-QUE  #2->0
+Helen 	[Helen] <hum> <newlex> <*> PROP F S @<SUBJ  #3->2
+$? #4->0
+</s>
+
+E 	[e] <*> KC @CO  #1->4
+uma 	[um] <arti> DET F S @>N  #2->4
+bela 	[belo] <jh> ADJ F S @>N  #3->4
+peça 	[peça] <sem-c> <cc-h> <amount> <cc-gun> <furn> N F S @NPHR  #4->0
+$. #5->0
+</s>
+
+Logo 	[logo] <cjt-head> <*> <kc> ADV @ADVL  #1->0
+após 	[após] <cjt> PRP @ADVL  #2->1
+a 	[o] <artd> DET F S @>N  #3->4
+chamada 	[chamada] <act-s> N F S @P<  #4->2
+noturna 	[noturno] <nh> <np-close> ADJ F S @N<  #5->4
+$. #6->0
+</s>
+
+Tenho 	[ter] <nosubj> <cjt-head> <fmc> <*> <mv> V PR 1S IND VFIN @FS-STA  #1->0
+a 	[o] <artd> DET F S @>N  #2->3
+sensação 	[sensação] <percep-f> N F S @<ACC  #3->1
+mais 	[mais] <quant> <KOMP> ADV @>A  #4->5
+engraçada 	[engraçar] <vH> <np-close> V PCP F S @N<  #5->3
+que 	[que] <clb> KS @SUB  #6->8
+não 	[não] ADV @ADVL>  #7->8
+estamos 	[estar] <nosubj> <cjt> <fmc> <vK> <mv> V PR 1P IND VFIN @FS-STA  #8->1
+sozinhos 	[sozinho] <jh> ADJ M P @<SC  #9->8
+$. #10->0
+</s>
+
+E 	[e] <*> KC @CO  #1->3
+minha 	[meu] <poss 1S> DET F S @>N  #2->3
+criança 	[criança] <H> N F S @NPHR  #3->0
+$. #4->0
+</s>
+
+$--  #1->0
+Obrigado 	[obrigado] <*> <jh> ADJ M S @PRED>  #2->0
+$, #3->0
+Diana 	[Diana] <hum> <newlex> <*> PROP F S @NPHR  #4->2
+$. #5->0
+</s>
+
+Paul 	[paul] <*> <Ltop> N M S @NPHR  #1->0
+$...  #2->0
+$'  #3->0
+</s>
+
+Dama 	[dama] <*> <Htit> <cc-h> N F S @PRED>  #1->5
+$, #2->0
+oh 	[oh] IN @ADVL 	[oh] <newlex> IN @ADVL  #3->0
+$, #4->0
+leia 	[ler] <fmc> <vH> <mv> V PR 1/3S SUBJ VFIN @FS-STA  #5->3
+a 	[o] <artd> DET F S @>N  #6->8
+minha 	[meu] <poss 1S> DET F S @>N  #7->8
+carta 	[carta] <sem-r> N F S @<ACC  #8->5
+com 	[com] PRP @<ADVL  #9->5
+seus 	[seu] <poss 3S> DET M P @>N  #10->11
+lábios 	[lábio] <anmov> N M P @P<  #11->9
+$. #12->0
+$'  #13->0
+</s>
+
+Salvamento 	[salvamento] <*> <act> N M S @NPHR  #1->0
+Internacional 	[internacional] <prop> <*> <nh> <np-close> ADJ M S @N<  #2->1
+$. #3->0
+</s>
+
+Disse 	[dizer] <fmc> <*> <vH> <mv> V PS 1/3S IND VFIN @FS-STA  #1->0
+$:  #2->0
+</s>
+
+$"  #1->0
+Não 	[não] <*> <*1> ADV @ADVL  #2->0
+que 	[que] <clb> KS @SUB  #3->4
+tenha 	[ter] <fmc> <aux> V PR 1/3S SUBJ VFIN @FS-STA  #4->2
+deixado 	[deixar] <aux> V PCP @ICL-AUX<  #5->4
+de 	[de] PRP @PRT-AUX<  #6->5
+fazer 	[fazer] <mv> V INF @ICL-AUX<  #7->5
+suas 	[seu] <poss 3S> DET F P @>N  #8->9
+obrigações 	[obrigação] <act> N F P @<ACC  #9->7
+$. #10->0
+</s>
+
+Aí 	[aí] <*> <kc> ADV @ADVL>  #1->2
+vem 	[vir] <fmc> <mv> V PR 3S IND VFIN @FS-STA  #2->0
+eles 	[eles] PERS M 3P NOM @<SUBJ  #3->2
+$! #4->0
+</s>
+
+</s>
+
+$...  #1->0
+Contrabando 	[contrabando] <*> <activity> <cm> N M S @NPHR  #2->0
+$. #3->0
+</s>
+
+Sou 	[ser] <fmc> <*> <vK> <mv> V PR 1S IND VFIN @FS-STA  #1->0
+um 	[um] <arti> DET M S @>N  #2->3
+animal 	[animal] <Azo> N M S @<SC  #3->1
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ>  #4->5
+tenta 	[tentar] <vH> <mv> <np-close> V PR 3S IND VFIN @FS-N<  #5->3
+sobreviver 	[sobreviver] <vH> <mv> V INF @ICL-<ACC  #6->5
+$. #7->0
+</s>
+
+não 	[não] ADV @ADVL>  #1->2
+é 	[ser] <fmc> <vK> <mv> V PR 3S IND VFIN @FS-STA  #2->0
+bom 	[bom] <jh> ADJ M S @<SC  #3->2
+$. #4->0
+</s>
+
+E 	[e] <topkc> <*> KC @CO  #1->4
+se 	[se] <clb> <clb-fs> KS @SUB  #2->4
+ele 	[ele] PERS M 3S NOM @SUBJ>  #3->4
+está 	[estar] <mv> V PR 3S IND VFIN @FS-ADVL>  #4->0
+aqui 	[aqui] ADV @<SA  #5->4
+$...  #6->0
+</s>
+
+que 	[que] <clb> <rel> SPEC M S @SUBJ>  #1->2
+acredito 	[acreditar] <cjt-head> <fmc> <vH> <mv> V PR 1S IND VFIN @FS-STA  #2->0
+estar 	[estar] <mv> V INF @ICL-<ACC  #3->2
+$, #4->0
+eu 	[eu] PERS M/F 1S NOM @SUBJ> 	[eu] <SYN:também> <newlex> ADV @ADVL>  #5->7
+o 	[ele] PERS M 3S ACC @ACC>  #6->7
+pegarei 	[pegar] <cjt> <fmc> <mv> V FUT 1S IND VFIN @FS-STA  #7->2
+$. #8->0
+</s>
+
+Também 	[também] <*> ADV @>A  #1->2
+estrelado 	[estrelar] <jh> V PCP M S @NPHR  #2->0
+por 	[por] PRP @<PASS  #3->0
+Barry=Morse 	[Barry=Morse] <hum> <*> PROP M S @P<  #4->3
+como 	[como] <com> <adv-rel> PRP @ADVL  #5->2
+Tenente=Gerard 	[Tenente=Gerard] <hum> <asarg> <*> <foreign> PROP M/F S @P<  #6->5
+$. #7->0
+</s>
+
+Paddy 	[Paddy] <hum> <*> PROP M S @NPHR  #1->0
+$! #2->0
+</s>
+
+</s>
+
+Oliver 	[Oliver] <hum> <*> PROP M S @NPHR  #1->0
+$? #2->0
+</s>
+
+Estão 	[estar] <fmc> <*> <vK> <mv> V PR 3P IND VFIN @FS-QUE  #1->0
+servidos 	[servir] <jh> V PCP M P @<SC  #2->1
+$? #3->0
+</s>
+
+Limpar 	[limpar] <*> <mv> V INF @ICL-UTT  #1->0
+esta 	[este] <dem> DET F S @>N  #2->3
+casa 	[casa] <build> N F S @SUBJ> @<ACC  #3->5
+enorme 	[enorme] <np-close> ADJ F S @N<  #4->3
+cozinhar 	[cozinhar] <vH> <mv> V INF 3S @ICL-<ACC  #5->1
+para 	[para] PRP @<ADVL  #6->5
+10 	[10] <card> NUM F P @>N  #7->8
+pessoas 	[pessoa] <H> N F P @P<  #8->6
+</s>
+
+Saia 	[saia] <*> <cloH> <H> <anzo> <anbo> N F S @NPHR  #1->0
+$! #2->0
+</s>
+
+</s>
+
+Querido 	[querer] <*> <vH> <jh> V PCP M S @>N  #1->2
+Patrick 	[Patrick] <hum> <*> PROP M S @NPHR  #2->0
+$. #3->0
+</s>
+
+$--  #1->0
+Não 	[não] <*> ADV @ADVL>  #2->4
+se 	[se] <refl> PERS M/F 3S ACC @ACC>  #3->4
+preocupe 	[preocupar] <fmc> <mv> <v-pron> V PR 1/3S SUBJ VFIN @FS-STA  #4->0
+$. #5->0
+</s>
+
+$--  #1->0
+Mais 	[mais] <*> <quant> <KOMP> ADV @>A  #2->3
+para=cima 	[para=cima] ADV @ADVL  #3->0
+$. #4->0
+</s>
+
+$--  #1->0
+Fique 	[ficar] <fmc> <*> <mv> V PR 1/3S SUBJ VFIN @FS-STA  #2->0
+fora=de 	[fora=de] <sam-> PRP @<SA  #3->2
+isto 	[isto] <dem> <-sam> SPEC M S @P<  #4->3
+$. #5->0
+</s>
+
+Só 	[só] <*> ADV @ADVL>  #1->2
+quero 	[querer] <fmc> <vH> <mv> V PR 1S IND VFIN @FS-STA  #2->0
+ver 	[ver] <vH> <mv> V INF @ICL-<ACC  #3->2
+o 	[o] <artd> DET M S @>N  #4->5
+comandante 	[comandante] <Hprof> N M S @<ACC  #5->3
+de 	[de] <np-close> PRP @N<  #6->5
+um 	[um] <card> NUM M S @>N  #7->8
+momento 	[momento] <dur> <f-q> N M S @P<  #8->6
+$. #9->0
+</s>
+
+Não 	[não] <*> ADV @ADVL>  #1->2
+ligo 	[ligar] <fmc> <mv> V PR 1S IND VFIN @FS-STA  #2->0
+para 	[para] PRP @<PIV  #3->2
+o 	[o] <dem> DET M S @P<  #4->3
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @SUBJ> @ACC>  #5->6
+fez 	[fazer] <cjt-head> <mv> <np-close> V PS 3S IND VFIN @FS-N<  #6->4
+$, #7->0
+mas 	[mas] <co-fin> KC @CO  #8->6
+para 	[para] PRP @<ADVL  #9->6
+o 	[o] <artd> DET M S @>N  #10->11
+jeito 	[jeito] <act-trick> <f-h> <ac> N M S @P<  #11->9
+como 	[como] <clb> <clb-fs> <rel> <ks> ADV @ADVL>  #12->13
+fez 	[fazer] <nosubj> <cjt> <mv> <np-close> V PS 3S IND VFIN @FS-<ADVL @FS-N<  #13->6
+$. #14->0
+</s>
+
+Sim 	[sim] <*> IN @ADVL  #1->0
+$. #2->0
+</s>
+
+Para 	[para] <*> PRP @ADVL  #1->0
+me 	[eu] <refl> PERS M/F 1S ACC @ACC>  #2->3
+isolar 	[isolar] <mv> <v-pron> V INF @ICL-P<  #3->1
+de 	[de] <sam-> PRP @<PIV  #4->3
+o 	[o] <-sam> <artd> DET M S @>N  #5->6
+resto 	[resto] <amount> N M S @P<  #6->4
+de 	[de] <sam-> <np-close> PRP @N<  #7->6
+o 	[o] <-sam> <artd> DET M S @>N  #8->9
+mundo 	[mundo] <L> N M S @P<  #9->7
+$. #10->0
+</s>
+
+Servimos 	[servir] <fmc> <*> <mv> V PR 1P IND VFIN @FS-STA  #1->0
+em 	[em] <sam-> PRP @<ADVL  #2->1
+a 	[o] <-sam> <artd> DET F S @>N  #3->4
+Líbia 	[Líbia] <civ> <*> PROP F S @P<  #4->2
+$. #5->0
+</s>
+
+Desculpe- 	[desculpar] <fmc> <*> <hyfen> <vH> <mv> <v-pron> V PR 1/3S SUBJ VFIN @FS-STA  #1->0
+me 	[eu] <refl> PERS M/F 1S ACC @<ACC  #2->1
+$. #3->0
+</s>
+
+O 	[o] <*> <artd> DET M S @>N  #1->2
+Michael 	[Michael] <hum> <newlex> <*> PROP M S @NPHR  #2->0
+$! #3->0
+</s>
+
+</s>
+
+$--  #1->0
+Não 	[não] <*> ADV @ADVL>  #2->6
+$, #3->0
+não 	[não] ADV @ADVL>  #4->6
+$, #5->0
+confie 	[confiar] <fmc> <vH> <mv> V PR 1/3S SUBJ VFIN @FS-STA  #6->0
+em 	[em] PRP @<PIV  #7->6
+mim 	[eu] PERS M/F 1S PIV @P<  #8->7
+$! #9->0
+</s>
+
+</s>
+
+$--  #1->0
+Por 	[por] <*> <sam-> PRP @ADVL  #2->0
+a 	[o] <-sam> <artd> DET F S @>N  #3->4
+janela 	[janela] <part-build> <Lopening> N F S @P<  #4->2
+$. #5->0
+</s>
+
+E 	[e] <*> KC @CO  #1->7
+então 	[então] <kc> ADV @ADVL>  #2->7
+de 	[de] <sam-> PRP @PIV>  #3->0
+o 	[o] <-sam> <artd> DET M S @>N  #4->5
+está 	[estar] V PR 3S IND VFIN @P<  #5->3
+se 	[se] <refl> PERS M/F 3S/P ACC @ACC>  #6->7
+queixando 	[queixar] <mv> <v-pron> V GER @ICL-UTT  #7->0
+$? #8->0
+</s>
+
+Penny 	[Penny] <hum> <*> PROP M/F S @NPHR  #1->0
+$! #2->0
+</s>
+
+</s>
+
+Por=que 	[por=que] <interr> <*> ADV @ADVL>  #1->0
+não 	[não] ADV @ADVL  #2->0
+$? #3->0
+</s>
+
+$--  #1->0
+Talvez 	[talvez] <*> ADV @ADVL>  #2->6
+o 	[o] <artd> DET M S @>N  #3->4
+Derek 	[Derek] <inst> <*> PROP M S @SUBJ>  #4->5
+deva 	[dever] <fmc> <aux> V PR 3S SUBJ VFIN @FS-STA  #5->0
+ligar 	[ligar] <mv> V INF @ICL-AUX<  #6->5
+$. #7->0
+</s>
+
+Aqui 	[aqui] <*> ADV @SA>  #1->2
+está 	[estar] <fmc> <mv> V PR 3S IND VFIN @FS-STA  #2->0
+$, #3->0
+Buck 	[Buck] <hum> <*> PROP M S @<SUBJ  #4->2
+$. #5->0
+</s>
+
+Desculpe 	[desculpar] <nosubj> <cjt-head> <fmc> <*> <vH> <mv> V PR 1/3S SUBJ VFIN @FS-STA  #1->0
+$, #2->0
+eu 	[eu] PERS M/F 1S NOM @SUBJ> 	[eu] <SYN:também> <newlex> ADV @ADVL>  #3->4
+perdi 	[perder] <cjt> <fmc> <mv> V PS 1S IND VFIN @FS-STA  #4->1
+a 	[o] <artd> DET F S @>N  #5->6
+cabeça 	[cabeça] <anmov> <cc> <pos-soc> <Azo> N F S @<ACC  #6->4
+$. #7->0
+</s>
+
+Talvez 	[talvez] <*> ADV @ADVL>  #1->3
+você 	[você] PERS M/F 3S NOM @SUBJ>  #2->3
+ganhar 	[ganhar] <vH> <mv> V INF 3S @ICL-UTT  #3->0
+algo 	[algo] <quant> SPEC M S @<ADVL @<ACC  #4->3
+com 	[com] PRP @<ADVL  #5->3
+isso 	[isso] <dem> SPEC M S @P<  #6->5
+$. #7->0
+</s>
+
+Anda 	[andar] <fmc> <*> <vK> <vH> <mv> V PR 3S IND VFIN @FS-STA  #1->0
+menino 	[menino] <Hbio> N M S @<SC  #2->1
+$. #3->0
+</s>
+
+Anda 	[andar] <fmc> <*> <vH> <mv> V PR 3S IND VFIN @FS-STA  #1->0
+$. #2->0
+</s>
+
+Cinco 	[cinco] <*> <card> NUM M P @>N  #1->2
+anos 	[ano] <dur> <temp> <per> <unit> N M P @ADVL  #2->0
+$. #3->0
+</s>
+
+Não 	[não] <cjt-head> <*> IN @ADVL  #1->0
+$, #2->0
+mais 	[mais] <cjt> <quant> <KOMP> ADV @ADVL  #3->1
+$. #4->0
+</s>
+
+Odeio 	[odiar] <fmc> <*> <vH> <mv> V PR 1S IND VFIN @FS-STA  #1->0
+mesmo 	[mesmo] <quant> ADV @<ADVL  #2->1
+$. #3->0
+</s>
+
+Depressa 	[depressa] <*> ADV @ADVL  #1->0
+$! #2->0
+</s>
+
+</s>
+
+Espere 	[esperar] <fmc> <*> <vH> <mv> V PR 1/3S SUBJ VFIN @FS-STA  #1->0
+quatro 	[quatro] <card> NUM F P @>N  #2->3
+horas 	[hora] <dur> <temp> <unit> N F P @<ACC  #3->1
+$. #4->0
+</s>
+
+Nada 	[nada] <*> <quant> SPEC M S @NPHR  #1->0
+além=de 	[além=de] <np-close> PRP @N<  #2->0
+registros 	[registro] <cc-r> N M P @P<  #3->2
+de 	[de] <np-close> PRP @N<  #4->3
+exportação 	[exportação] <act> N F S @P<  #5->4
+$. #6->0
+</s>
+
+$--  #1->0
+Olá 	[olá] <*> IN @ADVL  #2->0
+garotos 	[garoto] <Hbio> N M P @VOK  #3->0
+$! #4->0
+</s>
+
+</s>
+
+Já 	[já] <*> ADV @ADVL>  #1->2
+fez 	[fazer] <fmc> <mv> V PS 3S IND VFIN @FS-STA  #2->0
+todo=o 	[todo=o] <quant> DET M S @>N  #3->4
+possível 	[possível] <n> <nh> ADJ M S @<ACC  #4->2
+$. #5->0
+</s>
+
+Cintilante 	[cintilante] <*> <nh> ADJ M/F S @NPHR  #1->0
+$! #2->0
+</s>
+
+</s>
+
+$--  #1->0
+Sim 	[sim] <*> ADV @ADVL  #2->0
+$. #3->0
+</s>
+
+É 	[ser] <fmc> <*> <mv> V PR 3S IND VFIN @FS-STA  #1->0
+por=que 	[por=que] <clb> <clb-fs> <interr> ADV @ADVL>  #2->5
+não 	[não] ADV @ADVL>  #3->5
+posso 	[poder] <aux> V PR 1S IND VFIN @FS-<SC  #4->1
+andar 	[andar] <vH> <mv> V INF @ICL-AUX<  #5->4
+$. #6->0
+</s>
+
+Não 	[não] <*> ADV @ADVL>  #1->2
+sabe 	[saber] <fmc> <mv> V PR 3S IND VFIN @FS-STA  #2->0
+o 	[o] <artd> DET M S @>N  #3->4
+que 	[que] <clb> <clb-fs> <interr> SPEC M S @ACC>  #4->7
+está 	[estar] <aux> V PR 3S IND VFIN @FS-<ACC  #5->2
+a 	[a] PRP @PRT-AUX<  #6->5
+fazer 	[fazer] <mv> V INF @ICL-AUX<  #7->5
+$. #8->0
+</s>
+
+Professor 	[professor] <*> <Hprof> N M S @NPHR  #1->0
+Yagiahara 	[Yagiahara] <hum> <*> <heur> <foreign> <np-close> PROP M S @N<  #2->1
+Expulso 	[expulsar] <prop> <*> <vH> <mv> <np-close> V PCP M S @ICL-N<  #3->2
+De 	[de] <*> <sam-> PRP @<PIV  #4->3
+A 	[o] <*> <-sam> <artd> DET F S @>N  #5->6
+Universidade 	[universidade] <prop> <*> <inst> N F S @P<  #6->4
+</s>
+
+Eu 	[eu] <*> PERS M/F 1S NOM @SUBJ> 	[eu] <SYN:também> <*> <newlex> ADV @ADVL>  #1->2
+preciso 	[precisar] <fmc> <mv> V PR 1S IND VFIN @FS-STA  #2->0
+ver 	[ver] <vH> <mv> V INF @ICL-<ACC  #3->2
+os 	[o] <artd> DET M P @>N  #4->5
+dois 	[dois] <card> NUM M P @<ACC  #5->3
+$. #6->0
+</s>
+
+$--  #1->0
+Dormindo 	[dormir] <*> <vH> <mv> V GER @ICL-ADVL  #2->0
+$? #3->0
+</s>
+
+Só 	[só] <*> ADV @ADVL>  #1->2
+consegue 	[conseguir] <fmc> <vH> <mv> V PR 3S IND VFIN @FS-STA  #2->0
+chegar 	[chegar] <mv> V INF @ICL-<ACC  #3->2
+a 	[a] PRP @<ADVL  #4->3
+um 	[um] <arti> DET M S @>N  #5->6
+raio 	[raio] <ac> <percep-w> <geom> <cc> N M S @P<  #6->4
+de 	[de] <np-close> PRP @N<  #7->6
+5 	[5] <card> NUM M P @>N  #8->9
+metros 	[metro] <unit> <ac-cat> N M P @P<  #9->7
+de 	[de] <sam-> <np-close> PRP @N<  #10->9
+ele 	[ele] <-sam> PERS M 3S NOM/PIV @P<  #11->10
+$. #12->0
+</s>
+
+Como 	[como] <clb> <*> <interr> ADV @ADVL>  #1->5
+é=que 	[é=que] <foc> ADV @<FOC  #2->5
+eu 	[eu] PERS M/F 1S NOM @SUBJ> 	[eu] <SYN:também> <newlex> ADV @ADVL>  #3->4
+vou 	[ir] <fmc> <aux> V PR 1S IND VFIN @FS-QUE  #4->0
+saber 	[saber] <mv> V INF @ICL-AUX<  #5->4
+$? #6->0
+</s>
+
+$--  #1->0
+Está 	[estar] <fmc> <*> <mv> V PR 3S IND VFIN @FS-STA  #2->0
+bem 	[bem] <quant> ADV @<SA  #3->2
+$, #4->0
+Sra.=Femm 	[Sra.=Femm] <hum> <*> <foreign> <np-close> PROP F S @APP  #5->0
+$. #6->0
+</s>
+
+Sim. 	[Sim.] <org> <*> <heur> PROP F S @SUBJ>  #1->2
+é 	[ser] <fmc> <vK> <mv> V PR 3S IND VFIN @FS-STA  #2->0
+a 	[o] <artd> DET F S @>N  #3->5
+minha 	[meu] <poss 1S> DET F S @>N  #4->5
+garrafa 	[garrafa] <con> N F S @<SC  #5->2
+de 	[de] <np-close> PRP @N<  #6->5
+água 	[água] <cm-liq> <drink> <f-q> N F S @P<  #7->6
+quente 	[quente] <np-close> ADJ F S @N<  #8->7
+$. #9->0
+</s>
+
+Devemos 	[dever] <fmc> <*> <aux> V PR 1P IND VFIN @FS-STA  #1->0
+resgatar 	[resgatar] <vH> <mv> V INF @ICL-AUX<  #2->1
+Tsing 	[Tsing] <hum> <*> <heur> <foreign> PROP M/F S @<ACC  #3->2
+$. #4->0
+</s>
+
+Quando 	[quando] <clb> <clb-fs> <*> <rel> <ks> ADV @ADVL>  #1->2
+termino 	[terminar] <mv> V PR 1S IND VFIN @FS-ADVL>  #2->7
+um 	[um] <arti> DET M S @>N  #3->4
+filme 	[filme] <sem-w> <cc> N M S @<SUBJ  #4->2
+$, #5->0
+algo 	[algo] <quant> SPEC M S @SUBJ>  #6->7
+acontece 	[acontecer] <fmc> <vN> <mv> V PR 3S IND VFIN @FS-STA  #7->0
+com 	[com] <sam-> PRP @<ADVL  #8->7
+mim 	[eu] <-sam> PERS M/F 1S PIV @P<  #9->8
+$. #10->0
+</s>
+
+Enfim 	[enfim] <*> ADV @ADVL>  #1->4
+$, #2->0
+eu 	[eu] PERS M/F 1S NOM @SUBJ> 	[eu] <SYN:também> <newlex> ADV @ADVL>  #3->4
+percebi 	[perceber] <fmc> <vH> <mv> V PS 1S IND VFIN @FS-STA  #4->0
+que 	[que] <clb-fs> KS @SUB  #5->0
+$...  #6->0
+</s>
+
+ser 	[ser] <vK> <mv> V INF @ICL-SUBJ> @ICL-<ACC  #1->3
+rainha 	[rainha] <Htit> N F S @<SC  #2->1
+faz 	[fazer] <mv> V PR 3S IND VFIN @FS-STA  #3->0
+parte 	[parte] <part> <amount> <L> <HH> <sem-l> <ac> N F S @<ACC  #4->3
+de 	[de] <sam-> <np-close> PRP @N<  #5->4
+o 	[o] <-sam> DET M S @P<  #6->5
+que 	[que] <clb> <clb-fs> <rel> SPEC M S @ACC>  #7->9
+você 	[você] PERS M/F 3S NOM @SUBJ>  #8->9
+é 	[ser] <mv> <np-close> V PR 3S IND VFIN @FS-N<  #9->6
+$. #10->0
+</s>
+
+Assim=como 	[assim=como] <com> <rel> <*> ADV @AS-ADVL  #1->0
+você 	[você] PERS M/F 3S NOM/PIV @AS<  #2->1
+$, #3->0
+meu 	[meu] <poss 1S> DET M S @>N  #4->5
+amor 	[amor] <am> <H> <ac> N M S @NPHR @AS<  #5->1
+$. #6->0
+</s>
+
+Vá 	[ir] <fmc> <*> <mv> V PR 1/3S SUBJ VFIN @FS-STA  #1->0
+em=frente 	[em=frente] <pp> ADV @<ADVL  #2->1
+$. #3->0
+</s>
+
+Bem 	[bem] <*> <quant> ADV @ADVL>  #1->6
+$, #2->0
+eu 	[eu] PERS M/F 1S NOM @SUBJ> 	[eu] <SYN:também> <newlex> ADV @ADVL>  #3->5
+só 	[só] ADV @ADVL>  #4->6
+tenho 	[ter] <fmc> <aux> V PR 1S IND VFIN @FS-STA  #5->0
+transferido 	[transferir] <vH> <mv> V PCP @ICL-AUX<  #6->5
+para 	[para] PRP @<ADVL  #7->6
+Tan=Son=Nhut 	[Tan=Son=Nhut] <hum> <*> <heur> <foreign> PROP M/F S @P<  #8->7
+$. #9->0
+</s>
+
+Única 	[único] <*> <jh> ADJ F S @NPHR  #1->0
+$. #2->0
+</s>
+
+Vocês 	[você] <*> PERS M/F 3P NOM @SUBJ>  #1->4
+não 	[não] ADV @ADVL>  #2->4
+se 	[se] PERS M/F 3P ACC @ACC>-PASS  #3->4
+conhecem 	[conhecer] <fmc> <vH> <mv> V PR 3P IND VFIN @FS-STA  #4->0
+$. #5->0
+</s>
+
+Não 	[não] <*> IN @ADVL  #1->0
+$. #2->0
+</s>
+
+Nós 	[nós] <*> PERS M/F 1P NOM @SUBJ>  #1->3
+não 	[não] ADV @ADVL>  #2->3
+temos 	[ter] <fmc> <mv> V PR 1P IND VFIN @FS-STA  #3->0
+nenhum 	[nenhum] <quant> DET M S @>N  #4->5
+cartão 	[cartão] <cm> <cc-r> N M S @<ACC  #5->3
+em 	[em] <sam-> PRP @<ADVL  #6->3
+ele 	[ele] <-sam> PERS M 3S NOM/PIV @P<  #7->6
+$. #8->0
+</s>
+
+Eu 	[eu] <*> PERS M/F 1S NOM @SUBJ> 	[eu] <SYN:também> <*> <newlex> ADV @ADVL>  #1->3
+não 	[não] ADV @ADVL>  #2->3
+acho 	[achar] <fmc> <vH> <mv> V PR 1S IND VFIN @FS-STA  #3->0
+que 	[que] <clb> <clb-fs> KS @SUB  #4->5
+podemos 	[poder] <aux> V PR 1P IND VFIN @FS-<ACC  #5->3
+fazer 	[fazer] <mv> V INF @ICL-AUX<  #6->5
+isso 	[isso] <dem> SPEC M S @<ACC  #7->6
+$. #8->0
+</s>
+
+Querida 	[querido] <*> <jh> ADJ F S @PRED>  #1->6
+$, #2->0
+eu 	[eu] PERS M/F 1S NOM @SUBJ> 	[eu] <SYN:também> <newlex> ADV @ADVL>  #3->6
+já 	[já] ADV @ADVL>  #4->6
+lhe 	[ele] PERS M/F 3S DAT @DAT>  #5->6
+disse 	[dizer] <fmc> <vH> <mv> V PS 1S IND VFIN @FS-STA  #6->0
+$, #7->0
+nenhuma 	[nenhum] <quant> DET F S @>N  #8->9
+chamada 	[chamada] <act-s> N F S @<PRED  #9->6
+$. #10->0
+</s>
+
