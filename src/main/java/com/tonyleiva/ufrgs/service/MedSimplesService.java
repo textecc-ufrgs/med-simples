@@ -15,7 +15,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.tonyleiva.ufrgs.model.LemaWord;
-import com.tonyleiva.ufrgs.passport.PassportService;
 
 @Service
 public class MedSimplesService {

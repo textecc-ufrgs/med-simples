@@ -1,5 +1,10 @@
 package com.tonyleiva.ufrgs.controller;
 
+import static com.tonyleiva.ufrgs.constant.MedSimplesConstants.FILE_FORMAT;
+import static com.tonyleiva.ufrgs.constant.MedSimplesConstants.FILE_PREFIX;
+
+import java.util.List;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
@@ -11,11 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.tonyleiva.ufrgs.model.LemaWord;
 import com.tonyleiva.ufrgs.service.MedSimplesService;
-import static com.tonyleiva.ufrgs.constant.MedSimplesConstants.FILE_PREFIX;
 
-import java.util.List;
-
-import static com.tonyleiva.ufrgs.constant.MedSimplesConstants.FILE_FORMAT;
 @RestController
 @RequestMapping(value = "/med-simples")
 public class MedSimplesController {
@@ -35,7 +36,7 @@ public class MedSimplesController {
 		} catch (Exception e) {
 			response = ResponseEntity.status(500).body(e.getMessage());
 		}
-		
+
 		return response;
 	}
 
