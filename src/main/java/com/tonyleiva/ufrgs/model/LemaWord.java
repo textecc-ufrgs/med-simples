@@ -19,20 +19,31 @@ public class LemaWord {
     private List<String> synonyms;
     private List<String> examples;
     private int key;
+    private boolean newLine;
 
-	public LemaWord(String passportLine) {
+	public LemaWord(String passportLine, int index) {
 		if (passportLine.equals("")) {
-			new LemaWord();
+			this.setIndex(index);
+			this.setPalavra("");
+			this.setLema("");
+			this.setNewLine(true);
 		} else {
 			String[] passportLineArray = passportLine.split("\\t");
-			this.setPalavra(passportLineArray[1]);
-			this.setLema(passportLineArray[2]);
+			if (passportLineArray.length == 10) {
+				this.setIndex(index);
+				this.setPalavra(passportLineArray[1]);
+				this.setLema(passportLineArray[2]);
+				this.setPosition(passportLineArray[3]);
+				this.setTag(passportLineArray[4]);
+	            this.setMorfologia(passportLineArray[5]);
+	            this.setOutros(passportLineArray[6]);
+	            this.setDependencia(passportLineArray[7]);
+	            this.setRotulo(passportLineArray[8]);
+	            this.setContraction(passportLineArray[9]);
+	            this.setKey(Integer.valueOf(passportLineArray[0]));
+	            this.setNewLine(false);
+            }
 		}
-	}
-
-	private LemaWord() {
-		this.setPalavra("");
-		this.setLema("");
 	}
 
 	public int getIndex() {
@@ -153,6 +164,14 @@ public class LemaWord {
 
 	public void setKey(int key) {
 		this.key = key;
+	}
+
+	public boolean isNewLine() {
+		return newLine;
+	}
+
+	public void setNewLine(boolean newLine) {
+		this.newLine = newLine;
 	}
 
 	@Override

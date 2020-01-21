@@ -1,6 +1,6 @@
 package com.tonyleiva.ufrgs.service;
 
-import static com.tonyleiva.ufrgs.constant.MedSimplesConstants.PASSPORT_FILES;
+import static com.tonyleiva.ufrgs.constant.MedSimplesConstants.PASSPORT_FILES_PATH;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
@@ -11,11 +11,11 @@ import java.nio.file.Paths;
 import org.springframework.stereotype.Service;
 
 @Service
-public class TextFileService {
+public class PassportFileService {
 
 	public boolean createTextFile(String filename, String fileContent) {
 		boolean fileCreated = false;
-		Path path = Paths.get(PASSPORT_FILES, filename);
+		Path path = Paths.get(PASSPORT_FILES_PATH, filename);
 		try {
 			Files.writeString(path, fileContent, StandardCharsets.ISO_8859_1);
 			fileCreated = true;
@@ -29,7 +29,7 @@ public class TextFileService {
 
 	public boolean deleteTextFile(String filename) {
 		boolean fileDeleted = false;
-		Path path = Paths.get(PASSPORT_FILES, filename);
+		Path path = Paths.get(PASSPORT_FILES_PATH, filename);
 
 		try {
 			if (existTextFile(filename)) {
@@ -45,7 +45,7 @@ public class TextFileService {
 	}
 
 	public boolean existTextFile(String filename) {
-		Path path = Paths.get(PASSPORT_FILES, filename);
+		Path path = Paths.get(PASSPORT_FILES_PATH, filename);
 		return Files.exists(path);
 	} 
 }

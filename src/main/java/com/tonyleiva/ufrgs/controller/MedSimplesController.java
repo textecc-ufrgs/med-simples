@@ -15,14 +15,14 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.tonyleiva.ufrgs.model.LemaWord;
-import com.tonyleiva.ufrgs.service.MedSimplesService;
+import com.tonyleiva.ufrgs.process.MedSimplesProcessor;
 
 @RestController
 @RequestMapping(value = "/med-simples")
 public class MedSimplesController {
 
 	@Autowired
-	MedSimplesService medSimplesService;
+	MedSimplesProcessor medSimplesProcessor;
 
 	@GetMapping(value = "/simplify", produces = MediaType.TEXT_PLAIN_VALUE)
 	public ResponseEntity<String> simplify(@RequestHeader(value = "Accept-Language") String acceptLanguage,
@@ -31,7 +31,7 @@ public class MedSimplesController {
 		String filename = FILE_PREFIX + String.valueOf(System.currentTimeMillis()) + FILE_FORMAT;
 
 		try {
-			List<LemaWord> lemaWordList = medSimplesService.process(filename, textBody);
+			List<LemaWord> lemaWordList = medSimplesProcessor.process(filename, textBody);
 			response = ResponseEntity.ok().body(lemaWordList.toString());
 		} catch (Exception e) {
 			response = ResponseEntity.status(500).body(e.getMessage());

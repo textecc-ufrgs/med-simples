@@ -1,12 +1,13 @@
 package com.tonyleiva.ufrgs.service;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
 public class TextFileServiceTest {
 
-	private TextFileService textFileService = new TextFileService();
+	private PassportFileService passportFileService = new PassportFileService();
 
 	@Test
 	public void testCreateTextFile() {
@@ -15,10 +16,10 @@ public class TextFileServiceTest {
 				"\r\n" + 
 				"Não há formas de se prevenir do Parkinson a doença progressiva";
 
-		assertTrue(textFileService.createTextFile(filename, fileContent));
-		assertTrue(textFileService.existTextFile(filename));
-		assertTrue(textFileService.deleteTextFile(filename));
-		assertFalse(textFileService.existTextFile(filename));
+		assertTrue(passportFileService.createTextFile(filename, fileContent));
+		assertTrue(passportFileService.existTextFile(filename));
+		assertTrue(passportFileService.deleteTextFile(filename));
+		assertFalse(passportFileService.existTextFile(filename));
 	}
 
 }
