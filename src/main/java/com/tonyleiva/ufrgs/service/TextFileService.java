@@ -15,9 +15,9 @@ public class TextFileService {
 
 	public boolean createTextFile(String filename, String fileContent) {
 		boolean fileCreated = false;
-		Path file = Paths.get(PASSPORT_FILES, filename);
+		Path path = Paths.get(PASSPORT_FILES, filename);
 		try {
-			Files.writeString(file, fileContent, StandardCharsets.ISO_8859_1);
+			Files.writeString(path, fileContent, StandardCharsets.ISO_8859_1);
 			fileCreated = true;
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
@@ -27,4 +27,25 @@ public class TextFileService {
 		return fileCreated;
 	}
 
+	public boolean deleteTextFile(String filename) {
+		boolean fileDeleted = false;
+		Path path = Paths.get(PASSPORT_FILES, filename);
+
+		try {
+			if (existTextFile(filename)) {
+				Files.delete(path);
+				fileDeleted = true;
+			}
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+		return fileDeleted;
+	}
+
+	public boolean existTextFile(String filename) {
+		Path path = Paths.get(PASSPORT_FILES, filename);
+		return Files.exists(path);
+	} 
 }

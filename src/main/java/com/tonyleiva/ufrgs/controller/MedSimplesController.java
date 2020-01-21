@@ -32,7 +32,7 @@ public class MedSimplesController {
 
 		try {
 			List<LemaWord> lemaWordList = medSimplesService.process(filename, textBody);
-			response = ResponseEntity.ok().body(textBody);
+			response = ResponseEntity.ok().body(lemaWordList.toString());
 		} catch (Exception e) {
 			response = ResponseEntity.status(500).body(e.getMessage());
 		}

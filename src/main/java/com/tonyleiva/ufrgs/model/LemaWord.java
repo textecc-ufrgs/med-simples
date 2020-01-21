@@ -20,6 +20,21 @@ public class LemaWord {
     private List<String> examples;
     private int key;
 
+	public LemaWord(String passportLine) {
+		if (passportLine.equals("")) {
+			new LemaWord();
+		} else {
+			String[] passportLineArray = passportLine.split("\\t");
+			this.setPalavra(passportLineArray[1]);
+			this.setLema(passportLineArray[2]);
+		}
+	}
+
+	private LemaWord() {
+		this.setPalavra("");
+		this.setLema("");
+	}
+
 	public int getIndex() {
 		return index;
 	}
@@ -138,6 +153,11 @@ public class LemaWord {
 
 	public void setKey(int key) {
 		this.key = key;
+	}
+
+	@Override
+	public String toString() {
+		return "LemaWord [index=" + index + ", palavra=" + palavra + ", lema=" + lema + "]";
 	}
 
 }

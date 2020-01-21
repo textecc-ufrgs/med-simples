@@ -45,11 +45,25 @@ public class MedSimplesService {
 
 	public List<LemaWord> process(String filename, String text) throws Exception {
 		List<LemaWord> lemaWordList = new ArrayList<>();
+		//create file
 		if (textFileService.createTextFile(filename, text)) {
+			//get Lemas into list
 			lemaWordList = passportService.getLemas(filename);
+
+			//delete file used by passportService
+			if (textFileService.existTextFile(filename))
+				textFileService.deleteTextFile(filename);
+
+			//findTerms
+			//findEasyWords
+			//findSimpleDic
+			//find in (Sinonimos)
+	        //find in (Exemplos)
+			
 		} else {
 			throw new Exception("Erro na criação do arquivo");
 		}
+
 		return lemaWordList;
 	}
 }

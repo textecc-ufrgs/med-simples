@@ -27,8 +27,13 @@ public class PassportService {
 	public List<LemaWord> getLemas(String filename) {
 		List<LemaWord> lemaWordList = new ArrayList<>();
 
+		int index = 0;
 		List<String> passportOutput = executePassport(filename);
-		passportOutput.stream().forEach(e -> System.out.println(e));
+		for (String passportLine : passportOutput) {
+			LemaWord lemaWord = new LemaWord(passportLine);
+			lemaWord.setIndex(index++);
+			lemaWordList.add(lemaWord);
+		}
 
 		return lemaWordList;
 	}
@@ -108,4 +113,6 @@ public class PassportService {
 		String ret = ""; // or = null;
 		return ret;
 	}
+
+	private List<LemaWord> transform
 }
