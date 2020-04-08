@@ -1,9 +1,9 @@
 package com.tonyleiva.ufrgs.service;
 
 import static com.tonyleiva.ufrgs.constant.MedSimplesConstants.PASSPORT_FILES_PATH;
+import static com.tonyleiva.ufrgs.constant.MedSimplesConstants.PASSPORT_WRITE_FILE_CHARSET;
 
 import java.io.IOException;
-import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -17,7 +17,7 @@ public class PassportFileService {
 		boolean fileCreated = false;
 		Path path = Paths.get(PASSPORT_FILES_PATH, filename);
 		try {
-			Files.writeString(path, fileContent, StandardCharsets.ISO_8859_1);
+			Files.writeString(path, fileContent, PASSPORT_WRITE_FILE_CHARSET);
 			fileCreated = true;
 		} catch (IOException e) {
 			// TODO Auto-generated catch block

@@ -1,5 +1,8 @@
 package com.tonyleiva.ufrgs.constant;
 
+import java.nio.charset.Charset;
+import java.nio.charset.StandardCharsets;
+
 public class MedSimplesConstants {
 	private MedSimplesConstants() {
 	}
@@ -10,4 +13,6 @@ public class MedSimplesConstants {
 	public static final String FILE_PREFIX = "text-";
 	public static final String FILE_FORMAT = ".txt";
 
+	public static final Charset PASSPORT_WRITE_FILE_CHARSET = StandardCharsets.UTF_8;
+	public static final Charset PASSPORT_READ_FILE_CHARSET = StandardCharsets.UTF_8;
 }
