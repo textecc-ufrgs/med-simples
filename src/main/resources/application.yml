@@ -1,0 +1,5 @@
+application:
+  file:
+    terms: termos_DP.txt
+    easyWords: easy_words.txt
+    dictionary: simple_dic.txt

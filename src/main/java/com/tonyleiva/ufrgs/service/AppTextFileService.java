@@ -12,13 +12,30 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.Set;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import org.springframework.util.StringUtils;
 
 @Service
 public class AppTextFileService {
 
-	private static final String easyWordsFilename = "easy_words.txt";
+	private static final Logger logger = LoggerFactory.getLogger(AppTextFileService.class);
+
+	@Value("${application.file.terms}")
+	private String termsFilename;
+
+	@Value("${application.file.easyWords}")
+	private String easyWordsFilename;
+
+	@Value("${application.file.dictionary}")
+	private String dictionaryFilename;
+
+	public List<String> loadTerms() {
+		logger.debug("Loading terms file");
+		return openAppFile(termsFilename);
+	}
 
 	public Set<String> loadEasyWords() {
 		Set<String> easyWordsSet = new HashSet<>();
