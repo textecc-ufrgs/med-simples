@@ -28,6 +28,13 @@
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
+		<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-lang3 -->
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-lang3</artifactId>
+			<version>3.10</version>
+		</dependency>
+
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
@@ -41,9 +48,9 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
-<!-- 				<configuration> -->
-<!-- 					<addResources>true</addResources> -->
-<!-- 				</configuration> -->
+				<!-- <configuration> -->
+				<!-- <addResources>true</addResources> -->
+				<!-- </configuration> -->
 			</plugin>
 		</plugins>
 	</build>

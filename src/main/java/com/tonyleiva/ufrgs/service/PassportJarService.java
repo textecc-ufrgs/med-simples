@@ -9,12 +9,16 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
 
 import com.tonyleiva.ufrgs.model.LemaWord;
 
 @Service
 public class PassportJarService {
+
+	private static Logger logger = LoggerFactory.getLogger(PassportJarService.class);
 
 	public List<LemaWord> getLemas(String filename) {
 		List<String> passportOutput = executePassport(filename);
@@ -29,6 +33,8 @@ public class PassportJarService {
 	 * @return string list containing the output of passport.jar
 	 */
 	private List<String> executePassport(String filename) {
+		long start = System.currentTimeMillis();
+
 		List<String> passportOutput = new ArrayList<>();
 		try {
 			String command = "java -jar passport.jar passport.config files/" + filename + " FORM;LEMMA;UPOS ";
@@ -49,11 +55,16 @@ public class PassportJarService {
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
+		} finally {
+			long finish = System.currentTimeMillis();
+			logger.info("execute passport elapsed_time={}", finish - start);
 		}
 		return passportOutput;
 	}
 
 	private List<LemaWord> transformToLemaWordList(List<String> stringList) {
+		long start = System.currentTimeMillis();
+
 		List<LemaWord> lemaWordList = new ArrayList<>();
 		int index = 0;
 
@@ -61,6 +72,8 @@ public class PassportJarService {
 			lemaWordList.add(new LemaWord(passportLine, index++));
 		}
 
+		long finish = System.currentTimeMillis();
+		logger.info("transform to LemaWord elapsed_time={}", finish - start);
 		return lemaWordList;
 	}
 }

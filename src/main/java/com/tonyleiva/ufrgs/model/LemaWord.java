@@ -27,6 +27,7 @@ public class LemaWord {
 			this.setPalavra("");
 			this.setLema("");
 			this.setNewLine(true);
+			this.setIgnore(true);
 		} else {
 			String[] passportLineArray = passportLine.split("\\t");
 			if (passportLineArray.length == 10) {
@@ -41,7 +42,6 @@ public class LemaWord {
 	            this.setRotulo(passportLineArray[8]);
 	            this.setContraction(passportLineArray[9]);
 	            this.setKey(Integer.valueOf(passportLineArray[0]));
-	            this.setNewLine(false);
             }
 		}
 	}
