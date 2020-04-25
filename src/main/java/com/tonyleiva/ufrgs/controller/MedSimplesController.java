@@ -30,7 +30,7 @@ public class MedSimplesController {
     private ObjectMapper objectMapper;
 
 	@GetMapping(value = "/simplify", consumes = MediaType.TEXT_PLAIN_VALUE, produces = MediaType.APPLICATION_JSON_VALUE)
-	public ResponseEntity<String> simplify(@RequestHeader(value = "Content-Type") String acceptLanguage,
+	public ResponseEntity<String> simplify(@RequestHeader(value = "Content-Type") String contentType,
 			@RequestBody String textBody) {
 		ResponseEntity<String> response;
 		String filename = FILE_PREFIX + String.valueOf(System.currentTimeMillis()) + FILE_FORMAT;

@@ -1,13 +1,12 @@
 package com.tonyleiva.ufrgs.service;
 
-import static com.tonyleiva.ufrgs.util.UtilityClass.sort;
 import static com.tonyleiva.ufrgs.constant.MedSimplesConstants.APP_FILES_PATH;
+import static com.tonyleiva.ufrgs.util.UtilityClass.sort;
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
@@ -65,6 +64,36 @@ public class AppTextFileService {
 	}
 
 	/**
+	 * Load the Simple Dictionary txt file and load the words into a DictionaryInput
+	 * list with the complex word or phrase, size of the complex phrase and a list
+	 * of suggestions
+	 * 
+	 * @return DictionaryInput list containing the simple dictionary collection
+	 */
+	public List<DictionaryInput> loadSimpleDictionaryInput() {
+		List<String> fileLines = openAppFile(dictionaryFilename);
+		List<DictionaryInput> dictionaryList = new ArrayList<>();
+		
+		sort(fileLines);
+		
+		for (String line : fileLines) {
+			if (line.contains(DELIM)) {
+				String[] sublines = line.split(DELIM);
+				if (sublines.length == 2 && StringUtils.isNotBlank(sublines[0])
+						&& StringUtils.isNotBlank(sublines[1])) {
+					String complex = sublines[0].trim();
+					int size = StringUtils.countMatches(complex, BLANK) + 1;
+					List<String> suggestions = Arrays.stream(sublines[1].split(COMMA)).map(String::trim)
+							.collect(Collectors.toList());
+					dictionaryList.add(new DictionaryInput(size, complex, suggestions));
+				}
+			}
+		}
+
+		return dictionaryList;
+	}
+	
+	/**
 	 * Load the Easy Words txt file and load the words into a simple List
 	 * 
 	 * @return List containing the easy words list
@@ -107,35 +136,6 @@ public class AppTextFileService {
 				elementList.add(value.trim());
 		}
 		return elementList;
-	}
-
-	/**
-	 * Load the Simple Dictionary txt file and load the words into a DictionaryInput
-	 * list with the complex word or phrase, size of the complex phrase and a list
-	 * of suggestions
-	 * 
-	 * @return DictionaryInput list containing the simple dictionary collection
-	 */
-	public List<DictionaryInput> loadSimpleDictionaryInput() {
-		List<String> fileLines = openAppFile(dictionaryFilename);
-		Collections.sort(fileLines);
-		List<DictionaryInput> dictionaryList = new ArrayList<>();
-
-		for (String line : fileLines) {
-			if (line.contains(DELIM)) {
-				String[] sublines = line.split(DELIM);
-				if (sublines.length == 2 && StringUtils.isNotBlank(sublines[0])
-						&& StringUtils.isNotBlank(sublines[1])) {
-					String complex = sublines[0].trim();
-					int size = StringUtils.countMatches(complex, BLANK) + 1;
-					List<String> suggestions = Arrays.stream(sublines[1].split(COMMA)).map(String::trim)
-							.collect(Collectors.toList());
-					dictionaryList.add(new DictionaryInput(size, complex, suggestions));
-				}
-			}
-		}
-
-		return dictionaryList;
 	}
 
 	/**
