@@ -22,6 +22,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
 import com.tonyleiva.ufrgs.model.input.DictionaryInput;
+import com.tonyleiva.ufrgs.model.input.EasyInput;
 import com.tonyleiva.ufrgs.model.input.TermInput;
 
 @Service
@@ -70,7 +71,7 @@ public class AppTextFileService {
 	 * 
 	 * @return DictionaryInput list containing the simple dictionary collection
 	 */
-	public List<DictionaryInput> loadSimpleDictionaryInput() {
+	public List<DictionaryInput> loadDictionaryInput() {
 		List<String> fileLines = openAppFile(dictionaryFilename);
 		List<DictionaryInput> dictionaryList = new ArrayList<>();
 		
@@ -91,6 +92,15 @@ public class AppTextFileService {
 		}
 
 		return dictionaryList;
+	}
+	
+	public List<EasyInput> loadEasyWordsInput() {
+		List<String> fileLines = openAppFile(easyWordsFilename);
+		List<EasyInput> easyWordsList = new ArrayList<>();
+
+		sort(fileLines);
+
+		return easyWordsList;
 	}
 	
 	/**

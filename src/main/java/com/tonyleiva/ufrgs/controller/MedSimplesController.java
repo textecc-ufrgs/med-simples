@@ -16,8 +16,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.tonyleiva.ufrgs.model.LemaWord;
 import com.tonyleiva.ufrgs.process.MedSimplesProcessor;
+import com.tonyleiva.ufrgs.process.output.WordDTO;
 
 @RestController
 @RequestMapping(value = "/med-simples")
@@ -27,7 +27,7 @@ public class MedSimplesController {
 	private MedSimplesProcessor medSimplesProcessor;
 
 	@Autowired
-    private ObjectMapper objectMapper;
+	private ObjectMapper objectMapper;
 
 	@GetMapping(value = "/simplify", consumes = MediaType.TEXT_PLAIN_VALUE, produces = MediaType.APPLICATION_JSON_VALUE)
 	public ResponseEntity<String> simplify(@RequestHeader(value = "Content-Type") String contentType,
@@ -36,7 +36,7 @@ public class MedSimplesController {
 		String filename = FILE_PREFIX + String.valueOf(System.currentTimeMillis()) + FILE_FORMAT;
 
 		try {
-			List<LemaWord> lemaWordList = medSimplesProcessor.process(filename, textBody);
+			List<WordDTO> lemaWordList = medSimplesProcessor.process(filename, textBody);
 			response = ResponseEntity.ok().body(serialize(lemaWordList));
 		} catch (Exception e) {
 			response = ResponseEntity.status(500).body(e.getMessage());
@@ -45,7 +45,7 @@ public class MedSimplesController {
 		return response;
 	}
 
-	private String serialize(List<LemaWord> lemaWordList) throws JsonProcessingException {
-		return objectMapper.writeValueAsString(lemaWordList);
+	private String serialize(List<WordDTO> wordDTOList) throws JsonProcessingException {
+		return objectMapper.writeValueAsString(wordDTOList);
 	}
 }

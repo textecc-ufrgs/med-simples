@@ -27,12 +27,12 @@ public class DictionaryInput {
 		this.size = size;
 	}
 
-	public String getComplexWord() {
+	public String getComplex() {
 		return complex;
 	}
 
-	public void setComplexWord(String complexWord) {
-		this.complex = complexWord;
+	public void setComplex(String complex) {
+		this.complex = complex;
 	}
 
 	public List<String> getSuggestions() {

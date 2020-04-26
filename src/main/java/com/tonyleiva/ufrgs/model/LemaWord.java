@@ -21,13 +21,13 @@ public class LemaWord {
     private int key;
     private boolean newLine;
 
+    //TODO check the end of sentence and the new line
 	public LemaWord(String passportLine, int index) {
 		if (passportLine.equals("")) {
 			this.setIndex(index);
 			this.setPalavra("");
 			this.setLema("");
 			this.setNewLine(true);
-			this.setIgnore(true);
 		} else {
 			String[] passportLineArray = passportLine.split("\\t");
 			if (passportLineArray.length == 10) {

@@ -12,6 +12,7 @@ public class WordDTO {
 	private boolean easy;
 	private List<String> suggestions;
 	private int position;
+	private boolean punctuation;
 	private boolean contraction;
 	private boolean newline;
 
@@ -77,6 +78,14 @@ public class WordDTO {
 
 	public void setPosition(int position) {
 		this.position = position;
+	}
+
+	public boolean isPunctuation() {
+		return punctuation;
+	}
+
+	public void setPunctuation(boolean punctuation) {
+		this.punctuation = punctuation;
 	}
 
 	public boolean isContraction() {
