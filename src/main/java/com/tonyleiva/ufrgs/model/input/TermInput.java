@@ -6,7 +6,7 @@ public class TermInput {
 	private String term;
 	private String definition;
 
-	public TermInput(String line) {
+	public TermInput() {
 		super();
 	}
 

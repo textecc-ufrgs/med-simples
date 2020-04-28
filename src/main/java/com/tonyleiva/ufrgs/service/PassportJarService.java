@@ -53,8 +53,7 @@ public class PassportJarService {
 			p.destroy();
 			reader.close();
 		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+			logger.error(e.getMessage());
 		} finally {
 			long finish = System.currentTimeMillis();
 			logger.info("execute passport elapsed_time={}", finish - start);

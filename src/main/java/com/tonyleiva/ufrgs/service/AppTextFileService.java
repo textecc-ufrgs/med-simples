@@ -2,7 +2,6 @@ package com.tonyleiva.ufrgs.service;
 
 import static com.tonyleiva.ufrgs.constant.MedSimplesConstants.APP_FILES_PATH;
 import static com.tonyleiva.ufrgs.util.UtilityClass.sort;
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
@@ -32,6 +31,7 @@ public class AppTextFileService {
 	private static final String BLANK = " ";
 	private static final String DELIM = "=";
 	private static final String COMMA = ",";
+	private static final String TAB = "\t";
 
 	@Value("${application.file.terms}")
 	private String termsFilename;
@@ -42,6 +42,12 @@ public class AppTextFileService {
 	@Value("${application.file.dictionary}")
 	private String dictionaryFilename;
 
+	/**
+	 * Load the Terms txt file and load the words into a TermInput
+	 * list with the term word or phrase, size of the term phrase and the definition
+	 * 
+	 * @return TermInput list containing the terms collection
+	 */
 	public List<TermInput> loadTermsInput() {
 		List<String> fileLines = openAppFile(termsFilename);
 		List<TermInput> termsList = new ArrayList<>();
@@ -55,8 +61,7 @@ public class AppTextFileService {
 						&& StringUtils.isNotBlank(sublines[1])) {
 					String term = sublines[0].trim();
 					String definition = sublines[1].trim();
-					int size = StringUtils.countMatches(term, BLANK) + 1;
-					termsList.add(new TermInput(size, term, definition));
+					termsList.add(new TermInput(countWords(term), term, definition));
 				}
 			}
 		}
@@ -83,24 +88,42 @@ public class AppTextFileService {
 				if (sublines.length == 2 && StringUtils.isNotBlank(sublines[0])
 						&& StringUtils.isNotBlank(sublines[1])) {
 					String complex = sublines[0].trim();
-					int size = StringUtils.countMatches(complex, BLANK) + 1;
-					List<String> suggestions = Arrays.stream(sublines[1].split(COMMA)).map(String::trim)
+					List<String> suggestions = Arrays.stream(sublines[1].split(COMMA))
+							.map(String::trim)
 							.collect(Collectors.toList());
-					dictionaryList.add(new DictionaryInput(size, complex, suggestions));
+					dictionaryList.add(new DictionaryInput(countWords(complex), complex, suggestions));
 				}
 			}
 		}
 
 		return dictionaryList;
 	}
-	
+
+	/**
+	 * Load the Easy Words txt file and load the words into a EasyInput
+	 * list with the easy word or phrase and size of it
+	 * 
+	 * @return EasyInput list containing the easy collection
+	 */
 	public List<EasyInput> loadEasyWordsInput() {
 		List<String> fileLines = openAppFile(easyWordsFilename);
-		List<EasyInput> easyWordsList = new ArrayList<>();
+		Set<String> easySet = new HashSet<>();
 
-		sort(fileLines);
+		for (String line : fileLines) {
+			if (StringUtils.isNoneBlank(line) && line.contains(TAB)) {
+				String[] sublines = line.split(TAB);
+				if (StringUtils.isNotBlank(sublines[0])) {
+					easySet.add(sublines[0].trim());
+				}
+			}
+		}
 
-		return easyWordsList;
+		List<String> easyList = easySet.stream().collect(Collectors.toList());
+		sort(easyList);
+
+		return easyList.stream()
+				.map(s -> new EasyInput(countWords(s), s))
+				.collect(Collectors.toList());
 	}
 	
 	/**
@@ -167,5 +190,9 @@ public class AppTextFileService {
 		}
 
 		return fileLines;
+	}
+
+	private int countWords(final String text) {
+		return StringUtils.isBlank(text) ? 0 : StringUtils.countMatches(text.trim(), BLANK) + 1;
 	}
 }

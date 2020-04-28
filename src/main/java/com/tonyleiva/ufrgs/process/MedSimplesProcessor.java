@@ -8,6 +8,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+import javax.annotation.PostConstruct;
+
 import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -16,6 +18,7 @@ import org.springframework.stereotype.Service;
 
 import com.tonyleiva.ufrgs.model.LemaWord;
 import com.tonyleiva.ufrgs.model.input.DictionaryInput;
+import com.tonyleiva.ufrgs.model.input.EasyInput;
 import com.tonyleiva.ufrgs.model.input.TermInput;
 import com.tonyleiva.ufrgs.process.output.WordDTO;
 import com.tonyleiva.ufrgs.service.AppTextFileService;
@@ -26,6 +29,7 @@ import com.tonyleiva.ufrgs.service.PassportJarService;
 public class MedSimplesProcessor {
 
 	private static final Logger logger = LoggerFactory.getLogger(MedSimplesProcessor.class);
+
 	private static final String CONTRACTION = "contraction";
 	private static final String PUNCTUATION = "PU";
 	private static final String BLANK = " ";
@@ -41,9 +45,14 @@ public class MedSimplesProcessor {
 
 	private List<TermInput> termInput;
 	private List<DictionaryInput> dictionaryInput;
-	private List<String> easyWordList; // TODO complete - change to input object
+	private List<EasyInput> easyWordList;
 
 	private List<WordDTO> dtoList;
+
+	@PostConstruct
+    public void init() {
+        loadAllFiles();
+    }
 
 	public List<WordDTO> process(String filename, String text) throws Exception {
 		logger.info("Start processing");
@@ -60,7 +69,6 @@ public class MedSimplesProcessor {
 
 			//load and process if the lema list was properly set
 			if (lemaWordList != null && !lemaWordList.isEmpty()) {
-				loadAllFiles();
 				processLists(lemaWordList);
 			}
 
@@ -112,7 +120,7 @@ public class MedSimplesProcessor {
 
 		termInput = textFileService.loadTermsInput();
 		dictionaryInput = textFileService.loadDictionaryInput();
-		easyWordList = textFileService.loadEasyWords();
+		easyWordList = textFileService.loadEasyWordsInput();
 
 		long end = System.currentTimeMillis();
 		logger.info("Load all lists - elapsed_time={}", end - start);
@@ -208,7 +216,31 @@ public class MedSimplesProcessor {
 	private void findEasyWords(List<LemaWord> lemaWordList, final int index) {
 		long start = System.currentTimeMillis();
 
-		// TODO complete
+		LemaWord lema = lemaWordList.get(index);
+		boolean shouldBreak = false;
+
+		for (EasyInput easy : easyWordList) {
+			if (initialLetterIsLessThan(easy.getEasy(), lema.getLema())) {
+				logger.debug("Ignoring, the first letter are different lema='{}', easy='{}'", lema.getLema(), easy.getEasy());
+			}  else if (initialLetterEqualTo(easy.getEasy(), lema.getLema()) && (easy.getSize() + index) <= lemaWordList.size()) {
+				logger.debug("Comparing lema='{}', easy='{}'", lema.getLema(), easy.getEasy());
+
+				String lemaPhrase = createPhraseToCompare(lemaWordList, easy.getSize(), index);
+				logger.debug("Phrases to compare lemaPhrase='{}', easy='{}'", lemaPhrase, easy.getEasy());
+				if (compareStrings(lemaPhrase, easy.getEasy()) == 0) {
+					logger.info("### EASY ### - lemaPhrase='{}', easy='{}'", lemaPhrase, easy.getEasy());
+					addMatchedEasy(lemaWordList, index, easy.getSize() + index);
+					setIgnoreMatchedItem(lemaWordList, index, easy.getSize() + index);
+					shouldBreak = true;
+				}
+			} else {
+				logger.debug("Breaking the loop, passed the alphabetical order lema='{}', easy='{}' ", lema.getLema(), easy.getEasy());
+				shouldBreak = true;
+			}
+
+			if (shouldBreak)
+				break;
+		}
 
 		long end = System.currentTimeMillis();
 		logger.debug("Load and process EasyWord - elapsed_time={}", end - start);
@@ -321,6 +353,21 @@ public class MedSimplesProcessor {
 			dto.setComplex(true);
 			if (position == 1)
 				dto.setSuggestions(suggestions);
+			dto.setPosition(position);
+			position++;
+
+			addNewItem(dto, index);
+		}
+	}
+
+	private void addMatchedEasy(List<LemaWord> lemaWordList, int from, int to) {
+		int position = 1;
+		for (int index = from; index < to; index++) {
+			LemaWord lemaWord = lemaWordList.get(index);
+			WordDTO dto = new WordDTO();
+			dto.setPalavra(lemaWord.getPalavra());
+			dto.setLema(lemaWord.getLema());
+			dto.setEasy(true);
 			dto.setPosition(position);
 			position++;
 

@@ -15,7 +15,7 @@ public class UtilityClass {
 
 	private static Collator getCollator() {
 		Collator collator = Collator.getInstance(localePtBR);
-		collator.setStrength(Collator.PRIMARY);
+		collator.setStrength(Collator.IDENTICAL);
 		return collator;
 	}
 
@@ -25,20 +25,24 @@ public class UtilityClass {
 
 	/**
 	 * Check if firstWord's initial letter is less than secondWord's initial letter
-	 * @return true if first argument's first letter is less than the second's first letter, false otherwise
+	 * 
+	 * @return true if first argument's first letter is less than the second's first
+	 *         letter, false otherwise
 	 */
 	public static boolean initialLetterIsLessThan(String firstWord, String secondWord) {
 		return compareFirstLetter(firstWord, secondWord) < 0;
 	}
-	
+
 	/**
 	 * Check if firstWord's initial letter is equal to secondWord's initial letter
-	 * @return true if the initial letter of both arguments are equals, false otherwise
+	 * 
+	 * @return true if the initial letter of both arguments are equals, false
+	 *         otherwise
 	 */
 	public static boolean initialLetterEqualTo(String firstWord, String secondWord) {
 		return compareFirstLetter(firstWord, secondWord) == 0;
 	}
-	
+
 	/**
 	 * Compares its two arguments for order. Returns a negative integer, zero, or a
 	 * positive integer as the first argument is less than, equal to, or greater
@@ -54,7 +58,7 @@ public class UtilityClass {
 	 * @since 1.2
 	 */
 	public static int compareStrings(String source, String target) {
-		return getCollator().compare(source, target);
+		return getCollator().compare(source.toLowerCase(localePtBR), target.toLowerCase(localePtBR));
 	}
 
 	/**
@@ -72,6 +76,8 @@ public class UtilityClass {
 	 * @since 1.2
 	 */
 	private static int compareFirstLetter(String source, String target) {
-		return getCollator().compare(Character.toString(source.charAt(0)), Character.toString(target.charAt(0)));
+		return getCollator().compare(
+				Character.toString(source.toLowerCase(localePtBR).charAt(0)),
+				Character.toString(target.toLowerCase(localePtBR).charAt(0)));
 	}
 }

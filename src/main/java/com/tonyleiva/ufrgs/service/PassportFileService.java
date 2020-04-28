@@ -8,10 +8,14 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
 
 @Service
 public class PassportFileService {
+
+	private static Logger logger = LoggerFactory.getLogger(PassportFileService.class);
 
 	public boolean createTextFile(String filename, String fileContent) {
 		boolean fileCreated = false;
@@ -20,8 +24,7 @@ public class PassportFileService {
 			Files.writeString(path, fileContent, PASSPORT_WRITE_FILE_CHARSET);
 			fileCreated = true;
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+			logger.error(e.getMessage());
 		}
 
 		return fileCreated;
@@ -37,8 +40,7 @@ public class PassportFileService {
 				fileDeleted = true;
 			}
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+			logger.error(e.getMessage());
 		}
 
 		return fileDeleted;
