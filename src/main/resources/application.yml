@@ -6,3 +6,5 @@ application:
 logging:
   level:
     com.tonyleiva.ufrgs: INFO
+server:
+  port: 9000
