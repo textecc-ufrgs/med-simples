@@ -57,3 +57,5 @@ tremores de repouso = tremedeira que acontece quando a pessoa está parada
 velocidade autosselecionada = velocidade da caminhada
 VAS = velocidade da caminhada
 via nigro-estriada = caminho por onde a dopamina passa para realizar os movimentos do corpo
+
+doença progressivo= esse aqui é o teste master

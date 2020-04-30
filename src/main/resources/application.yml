@@ -1,0 +1,10 @@
+application:
+  file:
+    terms: termos_DP.txt
+    easyWords: easy_words.txt
+    dictionary: simple_dic.txt
+logging:
+  level:
+    com.tonyleiva.ufrgs: INFO
+server:
+  port: 9000

@@ -21,6 +21,7 @@ public class LemaWord {
     private int key;
     private boolean newLine;
 
+    //TODO check the end of sentence and the new line
 	public LemaWord(String passportLine, int index) {
 		if (passportLine.equals("")) {
 			this.setIndex(index);
@@ -41,7 +42,6 @@ public class LemaWord {
 	            this.setRotulo(passportLineArray[8]);
 	            this.setContraction(passportLineArray[9]);
 	            this.setKey(Integer.valueOf(passportLineArray[0]));
-	            this.setNewLine(false);
             }
 		}
 	}
