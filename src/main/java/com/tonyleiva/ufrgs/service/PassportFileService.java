@@ -7,6 +7,7 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.Scanner;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -21,7 +22,8 @@ public class PassportFileService {
 		boolean fileCreated = false;
 		Path path = Paths.get(PASSPORT_FILES_PATH, filename);
 		try {
-			Files.writeString(path, fileContent, PASSPORT_WRITE_FILE_CHARSET);
+			Iterable<String> sc = () -> new Scanner(fileContent).useDelimiter(System.getProperty("line.separator"));
+			Files.write(path, sc, PASSPORT_WRITE_FILE_CHARSET);
 			fileCreated = true;
 		} catch (IOException e) {
 			logger.error(e.getMessage());
