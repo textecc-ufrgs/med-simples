@@ -22,7 +22,9 @@ public class PassportFileService {
 		boolean fileCreated = false;
 		Path path = Paths.get(PASSPORT_FILES_PATH, filename);
 		try {
-			Iterable<String> sc = () -> new Scanner(fileContent).useDelimiter(System.getProperty("line.separator"));
+			// Change '\n' for '# ' to detect new line later
+			Iterable<String> sc = () -> new Scanner(fileContent.replace("\n", "# "))
+					.useDelimiter(System.getProperty("line.separator"));
 			Files.write(path, sc, PASSPORT_WRITE_FILE_CHARSET);
 			fileCreated = true;
 		} catch (IOException e) {
@@ -51,5 +53,5 @@ public class PassportFileService {
 	public boolean existTextFile(String filename) {
 		Path path = Paths.get(PASSPORT_FILES_PATH, filename);
 		return Files.exists(path);
-	} 
+	}
 }

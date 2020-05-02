@@ -1,5 +1,7 @@
 package com.tonyleiva.ufrgs.model;
 
+import static com.tonyleiva.ufrgs.constant.MedSimplesConstants.NEW_LINE;
+
 import java.util.List;
 
 public class LemaWord {
@@ -21,9 +23,8 @@ public class LemaWord {
     private int key;
     private boolean newLine;
 
-    //TODO check the end of sentence and the new line
 	public LemaWord(String passportLine, int index) {
-		if (passportLine.equals("")) {
+		if (passportLine.equals(NEW_LINE)) {
 			this.setIndex(index);
 			this.setPalavra("");
 			this.setLema("");
