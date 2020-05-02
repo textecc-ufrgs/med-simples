@@ -21,7 +21,8 @@ public class PassportFileService {
 		boolean fileCreated = false;
 		Path path = Paths.get(PASSPORT_FILES_PATH, filename);
 		try {
-			Files.writeString(path, fileContent, PASSPORT_WRITE_FILE_CHARSET);
+			//Change '\n' for '# ' to detect new line later 
+			Files.writeString(path, fileContent.replace("\n", "# "), PASSPORT_WRITE_FILE_CHARSET);
 			fileCreated = true;
 		} catch (IOException e) {
 			logger.error(e.getMessage());
