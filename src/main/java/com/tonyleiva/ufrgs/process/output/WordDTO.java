@@ -9,6 +9,7 @@ public class WordDTO {
 	private String lema;
 	private boolean term;
 	private boolean complex;
+	private boolean filter;
 	private boolean easy;
 	private List<String> suggestions;
 	private int position;
@@ -54,6 +55,14 @@ public class WordDTO {
 
 	public void setComplex(boolean complex) {
 		this.complex = complex;
+	}
+
+	public boolean isFilter() {
+		return filter;
+	}
+
+	public void setFilter(boolean filter) {
+		this.filter = filter;
 	}
 
 	public boolean isEasy() {

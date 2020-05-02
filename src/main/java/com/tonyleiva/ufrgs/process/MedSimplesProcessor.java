@@ -1,5 +1,6 @@
 package com.tonyleiva.ufrgs.process;
 
+import static com.tonyleiva.ufrgs.constant.MedSimplesConstants.POS_FILTER;
 import static com.tonyleiva.ufrgs.util.UtilityClass.compareStrings;
 import static com.tonyleiva.ufrgs.util.UtilityClass.initialLetterEqualTo;
 import static com.tonyleiva.ufrgs.util.UtilityClass.initialLetterIsLessThan;
@@ -69,6 +70,7 @@ public class MedSimplesProcessor {
 
 			//load and process if the lema list was properly set
 			if (lemaWordList != null && !lemaWordList.isEmpty()) {
+				dtoList = new ArrayList<>();
 				processLists(lemaWordList);
 			}
 
@@ -86,22 +88,12 @@ public class MedSimplesProcessor {
 	private void processLists(List<LemaWord> lemaWordList) {
 		long start = System.currentTimeMillis();
 
-		dtoList = new ArrayList<>();
-
 		for (int index = 0; index < lemaWordList.size(); index++) {
 			if (!lemaWordList.get(index).isIgnore()) {
 				if (isAvailableWord(lemaWordList.get(index))) {
 
-					findTerms(lemaWordList, index);
-
-					if (!lemaWordList.get(index).isIgnore())
-						findDictionary(lemaWordList, index);
-
-					if (!lemaWordList.get(index).isIgnore())
-						findEasyWords(lemaWordList, index);
-
-					if (!lemaWordList.get(index).isIgnore())
-						addNotMatchedItem(lemaWordList.get(index), index);
+					processItem(lemaWordList, index);
+					
 				} else {
 					addNotWordItem(lemaWordList.get(index), index);
 				}
@@ -110,6 +102,28 @@ public class MedSimplesProcessor {
 		
 		long end = System.currentTimeMillis();
 		logger.info("Process lists - elapsed_time={}", end - start);
+	}
+
+	/**
+	 * Process the comparison in all given lists for item at index={@code index}
+	 * @param lemaWordList
+	 * @param index
+	 */
+	private void processItem(List<LemaWord> lemaWordList, final int index) {
+		if (isNotMarkedAsIgnore(lemaWordList, index))
+			findTerms(lemaWordList, index);
+
+		if (isNotMarkedAsIgnore(lemaWordList, index))
+			findDictionary(lemaWordList, index);
+
+		if (isNotMarkedAsIgnore(lemaWordList, index))
+			findPosFilter(lemaWordList, index);
+
+		if (isNotMarkedAsIgnore(lemaWordList, index))
+			findEasyWords(lemaWordList, index);
+
+		if (isNotMarkedAsIgnore(lemaWordList, index))
+			addNotMatchedItem(lemaWordList.get(index), index);
 	}
 
 	/**
@@ -124,6 +138,16 @@ public class MedSimplesProcessor {
 
 		long end = System.currentTimeMillis();
 		logger.info("Load all lists - elapsed_time={}", end - start);
+	}
+
+	/** 
+	 * Check if LemaWord at index is not marked as ignore
+	 * @param lemaWordList
+	 * @param index
+	 * @return true if LemaWord should be process, false to ignore
+	 */
+	private boolean isNotMarkedAsIgnore(List<LemaWord> lemaWordList, final int index) {
+		return !lemaWordList.get(index).isIgnore();
 	}
 
 	/**
@@ -207,6 +231,13 @@ public class MedSimplesProcessor {
 		logger.debug("Process Dictionary - elapsed_time={}", end - start);
 	}
 
+	private void findPosFilter(List<LemaWord> lemaWordList, final int index) {
+		if (POS_FILTER.contains(lemaWordList.get(index).getPosition())) {
+			addMatchedFilter(lemaWordList, index);
+			setIgnoreMatchedItem(lemaWordList, index, 1 + index);
+		}
+	}
+
 	/**
 	 * Set ignore={@code true} in {@code LemaWord} when {@code LemaWord.getLema()}
 	 * is in the easy words list
@@ -276,7 +307,7 @@ public class MedSimplesProcessor {
 	}
 
 	/**
-	 * Set Ignore=true to the matched items in lemaWordList
+	 * Set Ignore=true to the matched items in lemaWordList 
 	 * 
 	 * @param lemaWordList
 	 * @param from
@@ -299,14 +330,9 @@ public class MedSimplesProcessor {
 		dto.setPalavra(lemaWord.getPalavra());
 		dto.setLema(lemaWord.getLema());
 
-		if (lemaWord.isNewLine())
-			dto.setNewline(true);
-
-		if (isPunctuation(lemaWord))
-			dto.setPunctuation(true);
-
-		if (isContraction(lemaWord))
-			dto.setContraction(true);
+		dto.setNewline(lemaWord.isNewLine());
+		dto.setPunctuation(isPunctuation(lemaWord));
+		dto.setContraction(isContraction(lemaWord));
 
 		addNewItem(dto, index);
 	}
@@ -317,11 +343,8 @@ public class MedSimplesProcessor {
 		dto.setPalavra(lemaWord.getPalavra());
 		dto.setLema(lemaWord.getLema());
 
-		if (isPunctuation(lemaWord))
-			dto.setPunctuation(true);
-
-		if (isContraction(lemaWord))
-			dto.setContraction(true);
+		dto.setPunctuation(isPunctuation(lemaWord));
+		dto.setContraction(isContraction(lemaWord));
 
 		addNewItem(dto, index);
 	}
@@ -358,6 +381,16 @@ public class MedSimplesProcessor {
 
 			addNewItem(dto, index);
 		}
+	}
+
+	private void addMatchedFilter(List<LemaWord> lemaWordList, final int index) {
+		LemaWord lemaWord = lemaWordList.get(index);
+		WordDTO dto = new WordDTO();
+		dto.setPalavra(lemaWord.getPalavra());
+		dto.setLema(lemaWord.getLema());
+		dto.setFilter(true);
+
+		addNewItem(dto, index);
 	}
 
 	private void addMatchedEasy(List<LemaWord> lemaWordList, int from, int to) {

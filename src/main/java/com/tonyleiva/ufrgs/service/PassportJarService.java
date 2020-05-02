@@ -1,5 +1,6 @@
 package com.tonyleiva.ufrgs.service;
 
+import static com.tonyleiva.ufrgs.constant.MedSimplesConstants.NEW_LINE;
 import static com.tonyleiva.ufrgs.constant.MedSimplesConstants.PASSPORT_PATH;
 import static com.tonyleiva.ufrgs.constant.MedSimplesConstants.PASSPORT_READ_FILE_CHARSET;
 
@@ -9,6 +10,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
@@ -46,9 +48,20 @@ public class PassportJarService {
 			BufferedReader reader = new BufferedReader(
 					new InputStreamReader(p.getInputStream(), PASSPORT_READ_FILE_CHARSET));
 			String line;
+			boolean newLine = false;
 			while ((line = reader.readLine()) != null) {
-				if (!line.startsWith("##"))
-					passportOutput.add(line);
+				if (StringUtils.isNotBlank(line)) {
+					if (!line.startsWith("##")) {
+						if (newLine && line.startsWith("#", 2)) {
+							passportOutput.add(NEW_LINE);
+						} else {
+							passportOutput.add(line);
+							newLine = false;
+						}
+					} else {
+						newLine = true;
+					}
+				}
 			}
 			p.destroy();
 			reader.close();
