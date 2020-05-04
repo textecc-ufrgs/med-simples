@@ -362,6 +362,9 @@ public class MedSimplesProcessor {
 			dto.setPosition(position);
 			position++;
 
+			dto.setPunctuation(isPunctuation(lemaWord));
+			dto.setContraction(isContraction(lemaWord));
+
 			addNewItem(dto, index);
 		}
 	}
@@ -379,6 +382,9 @@ public class MedSimplesProcessor {
 			dto.setPosition(position);
 			position++;
 
+			dto.setPunctuation(isPunctuation(lemaWord));
+			dto.setContraction(isContraction(lemaWord));
+
 			addNewItem(dto, index);
 		}
 	}
@@ -389,6 +395,9 @@ public class MedSimplesProcessor {
 		dto.setPalavra(lemaWord.getPalavra());
 		dto.setLema(lemaWord.getLema());
 		dto.setFilter(true);
+
+		dto.setPunctuation(isPunctuation(lemaWord));
+		dto.setContraction(isContraction(lemaWord));
 
 		addNewItem(dto, index);
 	}
@@ -403,6 +412,9 @@ public class MedSimplesProcessor {
 			dto.setEasy(true);
 			dto.setPosition(position);
 			position++;
+
+			dto.setPunctuation(isPunctuation(lemaWord));
+			dto.setContraction(isContraction(lemaWord));
 
 			addNewItem(dto, index);
 		}
