@@ -33,8 +33,11 @@ public class AppTextFileService {
 	private static final String COMMA = ",";
 	private static final String TAB = "\t";
 
-	@Value("${application.file.terms}")
-	private String termsFilename;
+	@Value("${application.file.terms.level1}")
+	private String termsFilenameLevel1;
+
+	@Value("${application.file.terms.level2}")
+	private String termsFilenameLevel2;
 
 	@Value("${application.file.easyWords}")
 	private String easyWordsFilename;
@@ -49,14 +52,14 @@ public class AppTextFileService {
 	 * @return TermInput list containing the terms collection
 	 */
 	public List<TermInput> loadTermsInput() {
-		List<String> fileLines = openAppFile(termsFilename);
+		List<String> fileLines = openAppFile(termsFilenameLevel2);
 		List<TermInput> termsList = new ArrayList<>();
 
 		sort(fileLines);
 
 		for (String line : fileLines) {
-			if (line.contains(DELIM)) {
-				String[] sublines = line.split(DELIM);
+			if (line.contains(TAB)) {
+				String[] sublines = line.split(TAB);
 				if (sublines.length == 2 && StringUtils.isNotBlank(sublines[0])
 						&& StringUtils.isNotBlank(sublines[1])) {
 					String term = sublines[0].trim();
