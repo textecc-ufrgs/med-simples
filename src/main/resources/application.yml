@@ -7,6 +7,6 @@ application:
     dictionary: simple_dic.txt
 logging:
   level:
-    com.tonyleiva.ufrgs: INFO
+    com.tonyleiva.ufrgs: ERROR
 server:
   port: 8080
