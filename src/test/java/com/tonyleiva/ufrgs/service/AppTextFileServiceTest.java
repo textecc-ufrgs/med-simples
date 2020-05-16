@@ -11,6 +11,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
+import com.tonyleiva.ufrgs.model.input.EasyInput;
+
 @SpringBootTest
 @RunWith(SpringJUnit4ClassRunner.class)
 public class AppTextFileServiceTest {
@@ -27,7 +29,7 @@ public class AppTextFileServiceTest {
 
 	@Test
 	public void loadEasyWordsTest() {
-		List<String> easyWordsSet = appTextFileService.loadEasyWords();
+		List<EasyInput> easyWordsSet = appTextFileService.loadEasyWordsInput();
 		assertTrue(easyWordsSet != null);
 		assertFalse(easyWordsSet.isEmpty());
 	}
