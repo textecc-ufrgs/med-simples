@@ -20,4 +20,5 @@ public class MedSimplesConstants {
 
 	public static final Charset PASSPORT_WRITE_FILE_CHARSET = StandardCharsets.UTF_8;
 	public static final Charset PASSPORT_READ_FILE_CHARSET = StandardCharsets.UTF_8;
+
 }

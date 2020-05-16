@@ -15,7 +15,7 @@ public class PassportServiceTest {
 		PassportJarService p = new PassportJarService();
 		List<LemaWord> lemaWordList = p.getLemas("newFile.txt");
 
-		assertTrue(lemaWordList.size() == 72);
+		assertTrue(lemaWordList.size() == 67);
 	}
 
 }

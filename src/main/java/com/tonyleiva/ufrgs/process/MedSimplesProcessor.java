@@ -17,6 +17,8 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import com.tonyleiva.ufrgs.constant.ReaderType;
+import com.tonyleiva.ufrgs.constant.Subject;
 import com.tonyleiva.ufrgs.model.LemaWord;
 import com.tonyleiva.ufrgs.model.input.DictionaryInput;
 import com.tonyleiva.ufrgs.model.input.EasyInput;
@@ -132,7 +134,7 @@ public class MedSimplesProcessor {
 	private void loadAllFiles() {
 		long start = System.currentTimeMillis();
 
-		termInput = textFileService.loadTermsInput();
+		termInput = textFileService.loadTermsInput(Subject.PARKINSON, ReaderType.BASIC);
 		dictionaryInput = textFileService.loadDictionaryInput();
 		easyWordList = textFileService.loadEasyWordsInput();
 
