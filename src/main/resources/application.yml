@@ -1,8 +1,8 @@
 application:
   file:
     terms: 
-      level1: Termos_DP_Ensino_Medio.txt
-      level2: Termos_DP_Ensino_Fundamental.txt
+      fundamental: Termos_DP_Ensino_Fundamental.txt
+      medio: Termos_DP_Ensino_Medio.txt
     easyWords: easy_words.txt
     dictionary: simple_dic.txt
 logging:
