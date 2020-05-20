@@ -19,7 +19,10 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.tonyleiva.ufrgs.constant.ReaderType;
+import com.tonyleiva.ufrgs.constant.Subject;
 import com.tonyleiva.ufrgs.process.MedSimplesProcessor;
+import com.tonyleiva.ufrgs.process.output.SimplifyDTO;
 import com.tonyleiva.ufrgs.process.output.WordDTO;
 
 @RestController
@@ -36,7 +39,10 @@ public class MedSimplesController {
 
 	@CrossOrigin
 	@PostMapping(value = "/simplify", consumes = MediaType.TEXT_PLAIN_VALUE, produces = MediaType.APPLICATION_JSON_VALUE)
-	public ResponseEntity<String> simplify(@RequestHeader(value = "Content-Type") String contentType,
+	public ResponseEntity<String> simplify(
+			@RequestHeader(value = "Content-Type") String contentType,
+			@RequestHeader(value = "Subject", required = false) String subjectHeader,
+			@RequestHeader(value = "Reader", required = false) String readerHeader, 
 			@RequestBody String textBody) {
 		logger.info("Novo texto a ser analisado - text=\n'{}'", textBody);
 
@@ -44,8 +50,10 @@ public class MedSimplesController {
 		String filename = FILE_PREFIX + String.valueOf(System.currentTimeMillis()) + FILE_FORMAT;
 
 		try {
-			List<WordDTO> dtoList = medSimplesProcessor.process(filename, textBody);
-			response = ResponseEntity.ok().body(serialize(dtoList));
+			Subject subject = Subject.getSubject(subjectHeader);
+			ReaderType reader = ReaderType.getReaderType(readerHeader);
+			SimplifyDTO simplifyDto = medSimplesProcessor.process(filename, textBody, subject, reader);
+			response = ResponseEntity.ok().body(serialize(simplifyDto.getWordDtoList()));
 		} catch (Exception e) {
 			response = ResponseEntity.status(500).body(e.getMessage());
 		}

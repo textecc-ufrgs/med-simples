@@ -23,6 +23,7 @@ import com.tonyleiva.ufrgs.model.LemaWord;
 import com.tonyleiva.ufrgs.model.input.DictionaryInput;
 import com.tonyleiva.ufrgs.model.input.EasyInput;
 import com.tonyleiva.ufrgs.model.input.TermInput;
+import com.tonyleiva.ufrgs.process.output.SimplifyDTO;
 import com.tonyleiva.ufrgs.process.output.WordDTO;
 import com.tonyleiva.ufrgs.service.AppTextFileService;
 import com.tonyleiva.ufrgs.service.PassportFileService;
@@ -50,14 +51,22 @@ public class MedSimplesProcessor {
 	private List<DictionaryInput> dictionaryInput;
 	private List<EasyInput> easyWordList;
 
+	private SimplifyDTO simplifyDTO;
 	private List<WordDTO> dtoList;
 
 	@PostConstruct
     public void init() {
-        loadAllFiles();
+		simplifyDTO = new SimplifyDTO();
     }
 
-	public List<WordDTO> process(String filename, String text) throws Exception {
+	public SimplifyDTO process(String filename, String text, Subject subject, ReaderType reader) throws Exception {
+		loadAllFiles(subject, reader);
+		process(filename, text);
+		simplifyDTO.setWordDtoList(dtoList);
+		return simplifyDTO;
+	}
+
+	public void process(String filename, String text) throws Exception {
 		logger.info("Start processing");
 
 		List<LemaWord> lemaWordList;
@@ -79,8 +88,6 @@ public class MedSimplesProcessor {
 		} else {
 			throw new Exception("Erro na criação do arquivo");
 		}
-
-		return dtoList;
 	}
 
 	/**
@@ -93,9 +100,7 @@ public class MedSimplesProcessor {
 		for (int index = 0; index < lemaWordList.size(); index++) {
 			if (!lemaWordList.get(index).isIgnore()) {
 				if (isAvailableWord(lemaWordList.get(index))) {
-
 					processItem(lemaWordList, index);
-					
 				} else {
 					addNotWordItem(lemaWordList.get(index), index);
 				}
@@ -131,10 +136,10 @@ public class MedSimplesProcessor {
 	/**
 	 * Load all the list into the files
 	 */
-	private void loadAllFiles() {
+	private void loadAllFiles(Subject subject, ReaderType reader) {
 		long start = System.currentTimeMillis();
 
-		termInput = textFileService.loadTermsInput(Subject.PARKINSON, ReaderType.BASIC);
+		termInput = textFileService.loadTermsInput(subject, reader);
 		dictionaryInput = textFileService.loadDictionaryInput();
 		easyWordList = textFileService.loadEasyWordsInput();
 

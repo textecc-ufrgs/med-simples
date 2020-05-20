@@ -1,8 +1,11 @@
 package com.tonyleiva.ufrgs.process.output;
 
+import java.io.Serializable;
 import java.util.List;
 
-public class WordDTO {
+public class WordDTO implements Serializable {
+
+	private static final long serialVersionUID = 1412289191134803075L;
 
 	private int index;
 	private String palavra;
@@ -112,5 +115,5 @@ public class WordDTO {
 	public void setNewline(boolean newline) {
 		this.newline = newline;
 	}
-	
+
 }

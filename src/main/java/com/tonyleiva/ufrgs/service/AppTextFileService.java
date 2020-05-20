@@ -33,11 +33,11 @@ public class AppTextFileService {
 	private static final String COMMA = ",";
 	private static final String TAB = "\t";
 
-	@Value("${application.file.terms.level1}")
-	private String termsFilenameLevel1;
+	@Value("${application.file.terms.fundamental}")
+	private String termsFilenameFundamental;
 
-	@Value("${application.file.terms.level2}")
-	private String termsFilenameLevel2;
+	@Value("${application.file.terms.medio}")
+	private String termsFilenameMedio;
 
 	@Value("${application.file.easyWords}")
 	private String easyWordsFilename;
@@ -76,14 +76,14 @@ public class AppTextFileService {
 	private String getTermsInputFilename(Subject subject, ReaderType reader) {
 		String filename;
 		switch (reader) {
-		case BASIC:
-			filename = termsFilenameLevel1;
-			break;
 		case FUNDAMENTAL:
-			filename = termsFilenameLevel2;
+			filename = termsFilenameFundamental;
+			break;
+		case MEDIO:
+			filename = termsFilenameMedio;
 			break;
 		default:
-			filename = termsFilenameLevel1;
+			filename = termsFilenameFundamental;
 			break;
 		}
 		return filename;

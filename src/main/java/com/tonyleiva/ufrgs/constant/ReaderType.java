@@ -4,7 +4,7 @@ import static org.apache.commons.lang3.StringUtils.trimToEmpty;
 
 public enum ReaderType {
 
-	BASIC, FUNDAMENTAL;
+	FUNDAMENTAL, MEDIO;
 
 	private static boolean contains(String reader) {
 		for (ReaderType r : ReaderType.values()) {
@@ -17,6 +17,6 @@ public enum ReaderType {
 
 	public static ReaderType getReaderType(String reader) {
 		reader = trimToEmpty(reader).toUpperCase();
-		return contains(reader) ? valueOf(reader) : BASIC;
+		return contains(reader) ? valueOf(reader) : FUNDAMENTAL;
 	}
 }
