@@ -340,6 +340,7 @@ public class MedSimplesProcessor {
 		dto.setNewline(lemaWord.isNewLine());
 		dto.setPunctuation(isPunctuation(lemaWord));
 		dto.setContraction(isContraction(lemaWord));
+		dto.setPassportPOS(lemaWord.getPosition());
 
 		addNewItem(dto, index);
 	}
@@ -352,6 +353,7 @@ public class MedSimplesProcessor {
 
 		dto.setPunctuation(isPunctuation(lemaWord));
 		dto.setContraction(isContraction(lemaWord));
+		dto.setPassportPOS(lemaWord.getPosition());
 
 		addNewItem(dto, index);
 	}
@@ -371,6 +373,7 @@ public class MedSimplesProcessor {
 
 			dto.setPunctuation(isPunctuation(lemaWord));
 			dto.setContraction(isContraction(lemaWord));
+			dto.setPassportPOS(lemaWord.getPosition());
 
 			addNewItem(dto, index);
 		}
@@ -391,6 +394,7 @@ public class MedSimplesProcessor {
 
 			dto.setPunctuation(isPunctuation(lemaWord));
 			dto.setContraction(isContraction(lemaWord));
+			dto.setPassportPOS(lemaWord.getPosition());
 
 			addNewItem(dto, index);
 		}
@@ -405,6 +409,7 @@ public class MedSimplesProcessor {
 
 		dto.setPunctuation(isPunctuation(lemaWord));
 		dto.setContraction(isContraction(lemaWord));
+		dto.setPassportPOS(lemaWord.getPosition());
 
 		addNewItem(dto, index);
 	}
@@ -422,6 +427,7 @@ public class MedSimplesProcessor {
 
 			dto.setPunctuation(isPunctuation(lemaWord));
 			dto.setContraction(isContraction(lemaWord));
+			dto.setPassportPOS(lemaWord.getPosition());
 
 			addNewItem(dto, index);
 		}
