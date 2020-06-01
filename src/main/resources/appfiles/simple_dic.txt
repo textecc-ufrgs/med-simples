@@ -4362,6 +4362,7 @@ decoração	enfeita, gravação
 decoro	recato, postura, timidez
 decoroso	capaz, correto, digno, direito, honesto, sério
 decorrência	consequência, efeito, evolução
+decorrer	consequência, efeito, evolução
 decorrido	passado
 decorticar	descascar
 decote	abertura
