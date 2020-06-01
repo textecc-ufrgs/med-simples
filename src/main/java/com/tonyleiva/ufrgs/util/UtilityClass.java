@@ -15,7 +15,7 @@ public class UtilityClass {
 
 	private static Collator getCollator() {
 		Collator collator = Collator.getInstance(localePtBR);
-		collator.setStrength(Collator.IDENTICAL);
+		collator.setStrength(Collator.PRIMARY);
 		return collator;
 	}
 
