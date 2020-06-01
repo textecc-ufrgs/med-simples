@@ -22,7 +22,7 @@ public class PassportFileService {
 		Path path = Paths.get(PASSPORT_FILES_PATH, filename);
 		try {
 			//Change '\n' for '# ' to detect new line later 
-			Files.writeString(path, fileContent.replace("\n", "# "), PASSPORT_WRITE_FILE_CHARSET);
+			Files.writeString(path, fileContent.replace("\n", " "), PASSPORT_WRITE_FILE_CHARSET);
 			fileCreated = true;
 		} catch (IOException e) {
 			logger.error(e.getMessage());

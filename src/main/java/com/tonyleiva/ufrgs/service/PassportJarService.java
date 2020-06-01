@@ -38,6 +38,7 @@ public class PassportJarService {
 		long start = System.currentTimeMillis();
 
 		List<String> passportOutput = new ArrayList<>();
+		List<String> allLines = new ArrayList<>();
 		try {
 			String command = "java -jar passport.jar passport.config files/" + filename + " FORM;LEMMA;UPOS ";
 			File dir = new File(PASSPORT_PATH);
@@ -51,6 +52,7 @@ public class PassportJarService {
 			boolean newLine = false;
 			while ((line = reader.readLine()) != null) {
 				if (StringUtils.isNotBlank(line)) {
+					allLines.add(line + "\n");
 					if (!line.startsWith("##")) {
 						if (newLine && line.startsWith("#", 2)) {
 							passportOutput.add(NEW_LINE);
@@ -63,6 +65,7 @@ public class PassportJarService {
 					}
 				}
 			}
+			logger.info("Output from passport.jar \n {}", allLines);
 			p.destroy();
 			reader.close();
 		} catch (Exception e) {
