@@ -5,7 +5,7 @@ import java.util.List;
 
 public class WordDTO implements Serializable {
 
-	private static final long serialVersionUID = 1412289191134803075L;
+	private static final long serialVersionUID = -4726979237512282323L;
 
 	private int index;
 	private String palavra;
@@ -18,6 +18,7 @@ public class WordDTO implements Serializable {
 	private int position;
 	private boolean punctuation;
 	private boolean contraction;
+	private String passportPOS;
 	private boolean newline;
 
 	public int getIndex() {
@@ -106,6 +107,14 @@ public class WordDTO implements Serializable {
 
 	public void setContraction(boolean contraction) {
 		this.contraction = contraction;
+	}
+
+	public String getPassportPOS() {
+		return passportPOS;
+	}
+
+	public void setPassportPOS(String passportPOS) {
+		this.passportPOS = passportPOS;
 	}
 
 	public boolean isNewline() {
