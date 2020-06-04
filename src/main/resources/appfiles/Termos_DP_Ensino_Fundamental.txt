@@ -438,7 +438,7 @@ doença crônica 	doença sem cura e que exige que a pessoa use remédios sempre
 doença crônico neurodegenerativa 	doença que prejudica a saúde do cérebro
 doença de alzheimer 	doença no cérebro, sem cura, que vai piorando com o tempo e destrói a memória e outras funções importantes do cérebro da pessoa
 doença de corpos de lewy 	doença que causa a perda, aos poucos, das capacidades do cérebro, como memória, pensamento, etc.
-doença de parkinson 	doença no sistema formado pelo cérebro, medula espinhal e nervos. Esse é o sistema que controla tudo o que fazemos. Essa doença ainda tem cura e não  passa de pessoa para pessoa. A pessoa com Parkinson, com o tempo, vai perdendo a capacidade de controlar seus movimentos. Os principais sintomas são: mãos tremendo, lentidão, dificuldade para manter o equilíbrio e a coordenação, dificuldade para levantar e caminhar e movimentos limitados e difíceis.
+doença de parkinson 	doença que ataca o sistema nervoso, ainda não tem cura. Não passa de pessoa para pessoa. A pessoa com Parkinson vai perdendo a capacidade de controlar seus movimentos. Os principais sintomas são: tremor nas mãos ou braços, lentidão, dificuldade para manter o equilíbrio, levantar e caminhar.
 doença congênita 	doença que acompanha a pessoa desde o nascimento
 doença neurodegenerativa e crônica 	doença que prejudica a saúde do cérebro
 doença bucal 	doença na boca
