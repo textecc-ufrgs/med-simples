@@ -1523,7 +1523,7 @@ apercebido	prestes, pronto
 apercebimento	aviso, previdência
 apercepção	intuição, visão
 aperfeiçoamento	amadurecimento
-aperfeiçoar	afiar, afinar, amadurecer, aprimorar, consumar, desenvolver, melhorar, polir, reformar
+aperfeiçoar	melhorar, desenvolver, afinar
 aperrar	carregar, insistir
 aperreado	pequeno
 aperrear	aborrecer, atormentar, encher, esquentar, incomodar, irritar, perseguir, zangar
@@ -3789,7 +3789,7 @@ condutivo	condutor
 conduto	canal
 conduzir	levar
 conduzir-se	agir, proceder, usar
-conexão	abraço, afinidade, ligação, relação, união
+conexão	ligação, união, relação
 confabulação	conspiração, intriga
 confabular	conversar, falar, tratar
 confecção	fabricação

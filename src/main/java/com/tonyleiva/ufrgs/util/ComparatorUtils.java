@@ -1,15 +1,18 @@
 package com.tonyleiva.ufrgs.util;
 
+import static com.tonyleiva.ufrgs.constant.MedSimplesConstants.COMPARATOR;
 import java.text.Collator;
 import java.util.Collections;
 import java.util.List;
 import java.util.Locale;
 
-public class UtilityClass {
+import com.tonyleiva.ufrgs.constant.Comparator;
+
+public class ComparatorUtils {
 
 	public static final Locale localePtBR = new Locale("pt", "BR");
 
-	private UtilityClass() {
+	private ComparatorUtils() {
 		throw new IllegalStateException("Utility class");
 	}
 
@@ -20,7 +23,10 @@ public class UtilityClass {
 	}
 
 	public static void sort(List<String> collection) {
-		Collections.sort(collection, getCollator());
+		if (COMPARATOR == Comparator.COLLATOR)
+			Collections.sort(collection, getCollator());
+		else
+			Collections.sort(collection);
 	}
 
 	/**
@@ -58,7 +64,10 @@ public class UtilityClass {
 	 * @since 1.2
 	 */
 	public static int compareStrings(String source, String target) {
-		return getCollator().compare(source.toLowerCase(localePtBR), target.toLowerCase(localePtBR));
+		if (COMPARATOR == Comparator.COLLATOR)
+			return getCollator().compare(source.toLowerCase(localePtBR), target.toLowerCase(localePtBR));
+		else
+			return source.toLowerCase().compareTo(target.toLowerCase());
 	}
 
 	/**
@@ -76,8 +85,12 @@ public class UtilityClass {
 	 * @since 1.2
 	 */
 	private static int compareFirstLetter(String source, String target) {
-		return getCollator().compare(
-				Character.toString(source.toLowerCase(localePtBR).charAt(0)),
-				Character.toString(target.toLowerCase(localePtBR).charAt(0)));
+		if (COMPARATOR == Comparator.COLLATOR)
+			return getCollator().compare(Character.toString(source.toLowerCase(localePtBR).charAt(0)),
+					Character.toString(target.toLowerCase(localePtBR).charAt(0)));
+		else
+			return Character.toString(source.toLowerCase().charAt(0))
+					.compareTo(Character.toString(target.toLowerCase().charAt(0)));
 	}
+
 }

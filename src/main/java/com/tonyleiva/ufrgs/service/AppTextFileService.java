@@ -1,7 +1,7 @@
 package com.tonyleiva.ufrgs.service;
 
 import static com.tonyleiva.ufrgs.constant.MedSimplesConstants.APP_FILES_PATH;
-import static com.tonyleiva.ufrgs.util.UtilityClass.sort;
+import static com.tonyleiva.ufrgs.util.ComparatorUtils.sort;
 
 import java.io.File;
 import java.io.FileNotFoundException;

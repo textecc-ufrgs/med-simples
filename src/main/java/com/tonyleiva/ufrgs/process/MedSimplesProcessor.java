@@ -1,9 +1,9 @@
 package com.tonyleiva.ufrgs.process;
 
 import static com.tonyleiva.ufrgs.constant.MedSimplesConstants.POS_FILTER;
-import static com.tonyleiva.ufrgs.util.UtilityClass.compareStrings;
-import static com.tonyleiva.ufrgs.util.UtilityClass.initialLetterEqualTo;
-import static com.tonyleiva.ufrgs.util.UtilityClass.initialLetterIsLessThan;
+import static com.tonyleiva.ufrgs.util.ComparatorUtils.compareStrings;
+import static com.tonyleiva.ufrgs.util.ComparatorUtils.initialLetterEqualTo;
+import static com.tonyleiva.ufrgs.util.ComparatorUtils.initialLetterIsLessThan;
 
 import java.util.ArrayList;
 import java.util.Arrays;
