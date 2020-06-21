@@ -51,7 +51,7 @@ public class MedSimplesController {
 
 		try {
 			Subject subject = Subject.getSubject(subjectHeader);
-			ReaderType reader = ReaderType.getReaderType(readerHeader);
+			ReaderType reader = ReaderType.getReaderType(readerHeader, subject);
 			SimplifyDTO simplifyDto = medSimplesProcessor.process(filename, textBody, subject, reader);
 			response = ResponseEntity.ok().body(serialize(simplifyDto.getWordDtoList()));
 		} catch (Exception e) {

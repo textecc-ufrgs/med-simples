@@ -9,6 +9,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
+import java.util.Map;
 import java.util.Scanner;
 import java.util.Set;
 import java.util.stream.Collectors;
@@ -33,11 +34,14 @@ public class AppTextFileService {
 	private static final String COMMA = ",";
 	private static final String TAB = "\t";
 
-	@Value("${application.file.terms.fundamental}")
-	private String termsFilenameFundamental;
+	@Value("${application.file.terms.covid.fundamental}")
+	private String termsCovidFundamental;
 
-	@Value("${application.file.terms.medio}")
-	private String termsFilenameMedio;
+	@Value("${application.file.terms.parkinson.fundamental}")
+	private String termsParkinsonFundamental;
+
+	@Value("${application.file.terms.parkinson.medio}")
+	private String termsParkinsonMedio;
 
 	@Value("${application.file.easyWords}")
 	private String easyWordsFilename;
@@ -75,15 +79,18 @@ public class AppTextFileService {
 
 	private String getTermsInputFilename(Subject subject, ReaderType reader) {
 		String filename;
-		switch (reader) {
-		case FUNDAMENTAL:
-			filename = termsFilenameFundamental;
+		Map<ReaderType, String> covidFilenames = Map.of(ReaderType.FUNDAMENTAL, termsCovidFundamental);
+		Map<ReaderType, String> parkinsonFilenames = Map.of(ReaderType.FUNDAMENTAL, termsParkinsonFundamental, ReaderType.MEDIO, termsParkinsonMedio);
+
+		switch (subject) {
+		case COVID:
+			filename = covidFilenames.get(reader);
 			break;
-		case MEDIO:
-			filename = termsFilenameMedio;
+		case PARKINSON:
+			filename = parkinsonFilenames.get(reader);
 			break;
 		default:
-			filename = termsFilenameFundamental;
+			filename = parkinsonFilenames.get(ReaderType.FUNDAMENTAL);
 			break;
 		}
 		return filename;
