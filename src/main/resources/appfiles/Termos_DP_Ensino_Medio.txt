@@ -149,6 +149,8 @@ artralgia 	dor na articulação
 artrite reumatóide 	doença inflamatória crônica que afeta muitas articulações, incluindo as das mãos e dos pés
 asfixia 	alguma obstrução no caminho do oxigênio; dificuldade ou impossibilidade de respirar
 asma 	doença pulmonar inflamatória crônica (de longa duração), caracterizada pelo fechamento reversível dos brônquios; como consequência, o paciente apresenta chiado, falta de ar, tosse seca e aperto no peito
+aspiração	limpar secreção do nariz, garganta ou pulmão com aparelho especial; respiração
+aspirar 	quando o que se engole vai para o pulmão; respirar
 assintomático 	sem sintomas
 astereognosia 	dificuldade de reconhecer objetos pelo tato
 ataque isquêmico transitório 	deficiência repentina do suprimento de sangue para o cérebro por um curto espaço de tempo; o mesmo que AIT
@@ -1172,7 +1174,7 @@ pleura 	membrana que reveste o pulmão
 pleura visceral 	a pesquisar
 pneumologia 	a pesquisar
 pneumologista 	a pesquisar
-pneumonia 	a pesquisar
+pneumonia 	infecção no pulmão
 polidipsia 	sensação excessiva de sede (sintoma da diabetes)
 polineurite 	inflamação de muitos nervos
 pólipo 	a pesquisar

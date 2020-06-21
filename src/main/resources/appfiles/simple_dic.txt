@@ -134,7 +134,7 @@ aborrido	chato, maldito, triste
 abortado	inútil, vão
 abortamento	aborto
 abortar	perder
-abortivo	que interrompe a gravidez, que provoca morte de uma criança antes de nascer, que provoca aborto,  inútil, vão
+abortivo	que interrompe a gravidez; que causa morte da criança antes de nascer; que causa aborto
 abotoar	fechar, aparecer, erguer, levantar, surgir
 abracadabrante	mágico, misterioso
 abracadábrico	mágico, misterioso
@@ -3690,7 +3690,8 @@ comprazimento	gosto, prazer, satisfação
 compressão	aperto, pressão
 compressivo	repressivo
 comprimento	extensão, tamanho
-comprimir	afligir, angustiar, ansiar, atormentar, despedaçar, morder, oprimir, roer, torturar
+comprimido	remédio de forma sólida; apertado
+comprimir	apertar com força
 comprobação	confirmação
 comprobante	nota, senha
 comprobatório	que comprova, mostra que é verdade

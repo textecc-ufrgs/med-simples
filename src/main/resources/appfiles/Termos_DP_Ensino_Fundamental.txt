@@ -149,6 +149,8 @@ artralgia 	dor na articulação ou junta
 artrite reumatóide 	doença sem cura que causa inflamações em muitas articulações ou juntas, inclusive nas juntas das mãos e dos pés
 asfixia 	alguma barreira no caminho do oxigênio (ar); dificuldade ou impossibilidade de respirar
 asma 	doença nos pulmões que faz com que os brônquios (tubos que ligam a garganta aos pulmões) se fechem por estarem inflamados, fazendo com que o paciente fique com chiado e aperto no peito, falta de ar e tosse seca
+aspiração	limpar secreção do nariz, garganta ou pulmão com aparelho especial; respiração
+aspirar 	quando o que se engole vai para o pulmão; respirar
 assintomático 	sem sintomas
 astereognosia 	dificuldade de reconhecer objetos pelo tato ou toque
 ataque isquêmico transitório 	falta de sangue no cérebro por um curto espaço de tempo; o mesmo que AIT
@@ -1172,7 +1174,7 @@ pleura 	estrutura que fica ao redor do pulmão
 pleura visceral 	a pesquisar
 pneumologia 	a pesquisar
 pneumologista 	a pesquisar
-pneumonia 	a pesquisar
+pneumonia 	infecção no pulmão
 polidipsia 	sensação de muita sede (sintoma da diabetes)
 polineurite 	a pesquisar
 pólipo 	a pesquisar

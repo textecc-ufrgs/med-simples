@@ -15,8 +15,18 @@ public enum ReaderType {
 		return false;
 	}
 
-	public static ReaderType getReaderType(String reader) {
+	public static ReaderType getReaderTypeOrFundamental(String reader) {
 		reader = trimToEmpty(reader).toUpperCase();
 		return contains(reader) ? valueOf(reader) : FUNDAMENTAL;
 	}
+
+	public static ReaderType getReaderType(String reader, Subject subject) {
+		reader = trimToEmpty(reader).toUpperCase();
+		if (Subject.PARKINSON == subject)
+			return getReaderTypeOrFundamental(reader);
+		if (Subject.COVID == subject)
+			return FUNDAMENTAL;
+		return FUNDAMENTAL;
+	}
+
 }
