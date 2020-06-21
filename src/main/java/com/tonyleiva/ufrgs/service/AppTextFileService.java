@@ -7,6 +7,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.EnumMap;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
@@ -79,8 +80,11 @@ public class AppTextFileService {
 
 	private String getTermsInputFilename(Subject subject, ReaderType reader) {
 		String filename;
-		Map<ReaderType, String> covidFilenames = Map.of(ReaderType.FUNDAMENTAL, termsCovidFundamental);
-		Map<ReaderType, String> parkinsonFilenames = Map.of(ReaderType.FUNDAMENTAL, termsParkinsonFundamental, ReaderType.MEDIO, termsParkinsonMedio);
+		Map<ReaderType, String> covidFilenames = new EnumMap<>(ReaderType.class);
+		covidFilenames.put(ReaderType.FUNDAMENTAL, termsCovidFundamental);
+		Map<ReaderType, String> parkinsonFilenames = new EnumMap<>(ReaderType.class);
+		parkinsonFilenames.put(ReaderType.FUNDAMENTAL, termsParkinsonFundamental);
+		parkinsonFilenames.put(ReaderType.MEDIO, termsParkinsonMedio);
 
 		switch (subject) {
 		case COVID:
