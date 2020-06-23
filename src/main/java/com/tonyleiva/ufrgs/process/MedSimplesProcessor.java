@@ -3,7 +3,7 @@ package com.tonyleiva.ufrgs.process;
 import static com.tonyleiva.ufrgs.constant.MedSimplesConstants.POS_FILTER;
 import static com.tonyleiva.ufrgs.util.ComparatorUtils.compareStrings;
 import static com.tonyleiva.ufrgs.util.ComparatorUtils.initialLetterEqualTo;
-import static com.tonyleiva.ufrgs.util.ComparatorUtils.initialLetterIsLessThan;
+import static com.tonyleiva.ufrgs.util.ComparatorUtils.initialLetterIsGreaterThan;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -35,6 +35,7 @@ public class MedSimplesProcessor {
 	private static final Logger logger = LoggerFactory.getLogger(MedSimplesProcessor.class);
 
 	private static final String CONTRACTION = "contraction";
+	private static final String HIFEN = "hifen";
 	private static final String PUNCTUATION = "PU";
 	private static final String BLANK = " ";
 
@@ -169,8 +170,9 @@ public class MedSimplesProcessor {
 		LemaWord lema = lemaWordList.get(index);
 		boolean shouldBreak = false;
 
-		for (TermInput term : termInput) {
-			if (initialLetterIsLessThan(term.getTerm(), lema.getLema())) {
+		for (int i = termInput.size() - 1; i >= 0; i--) {
+			TermInput term = termInput.get(i);
+			if (initialLetterIsGreaterThan(term.getTerm(), lema.getLema())) {
 				logger.debug("Ignoring, the first letter are different lema='{}', term='{}'", lema.getLema(), term.getTerm());
 			} else if (initialLetterEqualTo(term.getTerm(), lema.getLema())
 					&& (term.getSize() + index) <= lemaWordList.size()) {
@@ -210,8 +212,9 @@ public class MedSimplesProcessor {
 		LemaWord lema = lemaWordList.get(index);
 		boolean shouldBreak = false;
 
-		for (DictionaryInput dictionary : dictionaryInput) {
-			if (initialLetterIsLessThan(dictionary.getComplex(), lema.getLema())) {
+		for (int i = dictionaryInput.size() - 1; i >= 0; i--) {
+			DictionaryInput dictionary = dictionaryInput.get(i);
+			if (initialLetterIsGreaterThan(dictionary.getComplex(), lema.getLema())) {
 				logger.debug("Ignoring, the first letter are different lema='{}', complex='{}'", lema.getLema(), dictionary.getComplex());
 			}  else if (initialLetterEqualTo(dictionary.getComplex(), lema.getLema())
 					&& (dictionary.getSize() + index) <= lemaWordList.size()) {
@@ -257,8 +260,9 @@ public class MedSimplesProcessor {
 		LemaWord lema = lemaWordList.get(index);
 		boolean shouldBreak = false;
 
-		for (EasyInput easy : easyWordList) {
-			if (initialLetterIsLessThan(easy.getEasy(), lema.getLema())) {
+		for (int i = easyWordList.size() - 1; i >= 0; i--) {
+			EasyInput easy = easyWordList.get(i);
+			if (initialLetterIsGreaterThan(easy.getEasy(), lema.getLema())) {
 				logger.debug("Ignoring, the first letter are different lema='{}', easy='{}'", lema.getLema(), easy.getEasy());
 			}  else if (initialLetterEqualTo(easy.getEasy(), lema.getLema()) && (easy.getSize() + index) <= lemaWordList.size()) {
 				logger.debug("Comparing lema='{}', easy='{}'", lema.getLema(), easy.getEasy());
@@ -340,6 +344,7 @@ public class MedSimplesProcessor {
 		dto.setNewline(lemaWord.isNewLine());
 		dto.setPunctuation(isPunctuation(lemaWord));
 		dto.setContraction(isContraction(lemaWord));
+		dto.setHifen(isHipen(lemaWord));
 		dto.setPassportPOS(lemaWord.getPosition());
 
 		addNewItem(dto, index);
@@ -353,6 +358,7 @@ public class MedSimplesProcessor {
 
 		dto.setPunctuation(isPunctuation(lemaWord));
 		dto.setContraction(isContraction(lemaWord));
+		dto.setHifen(isHipen(lemaWord));
 		dto.setPassportPOS(lemaWord.getPosition());
 
 		addNewItem(dto, index);
@@ -373,6 +379,7 @@ public class MedSimplesProcessor {
 
 			dto.setPunctuation(isPunctuation(lemaWord));
 			dto.setContraction(isContraction(lemaWord));
+			dto.setHifen(isHipen(lemaWord));
 			dto.setPassportPOS(lemaWord.getPosition());
 
 			addNewItem(dto, index);
@@ -394,6 +401,7 @@ public class MedSimplesProcessor {
 
 			dto.setPunctuation(isPunctuation(lemaWord));
 			dto.setContraction(isContraction(lemaWord));
+			dto.setHifen(isHipen(lemaWord));
 			dto.setPassportPOS(lemaWord.getPosition());
 
 			addNewItem(dto, index);
@@ -409,6 +417,7 @@ public class MedSimplesProcessor {
 
 		dto.setPunctuation(isPunctuation(lemaWord));
 		dto.setContraction(isContraction(lemaWord));
+		dto.setHifen(isHipen(lemaWord));
 		dto.setPassportPOS(lemaWord.getPosition());
 
 		addNewItem(dto, index);
@@ -427,6 +436,7 @@ public class MedSimplesProcessor {
 
 			dto.setPunctuation(isPunctuation(lemaWord));
 			dto.setContraction(isContraction(lemaWord));
+			dto.setHifen(isHipen(lemaWord));
 			dto.setPassportPOS(lemaWord.getPosition());
 
 			addNewItem(dto, index);
@@ -435,6 +445,10 @@ public class MedSimplesProcessor {
 
 	private boolean isContraction(LemaWord lemaWord) {
 		return StringUtils.isNotBlank(lemaWord.getContraction()) && CONTRACTION.equals(lemaWord.getContraction());
+	}
+
+	private boolean isHipen(LemaWord lemaWord) {
+		return StringUtils.isNotBlank(lemaWord.getContraction()) && HIFEN.equals(lemaWord.getContraction());
 	}
 
 	private boolean isPunctuation(LemaWord lemaWord) {
