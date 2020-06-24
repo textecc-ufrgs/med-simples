@@ -40,6 +40,16 @@ public class ComparatorUtils {
 	}
 
 	/**
+	 * Check if firstWord's initial letter is greater than secondWord's initial letter
+	 * 
+	 * @return true if first argument's first letter is greater than the second's first
+	 *         letter, false otherwise
+	 */
+	public static boolean initialLetterIsGreaterThan(String firstWord, String secondWord) {
+		return compareFirstLetter(firstWord, secondWord) > 0;
+	}
+
+	/**
 	 * Check if firstWord's initial letter is equal to secondWord's initial letter
 	 * 
 	 * @return true if the initial letter of both arguments are equals, false

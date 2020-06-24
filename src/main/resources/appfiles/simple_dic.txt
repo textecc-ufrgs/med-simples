@@ -9532,7 +9532,7 @@ matança	muitas pessoas assassinadas, assasinato em massa, extermínio
 matematicamente	exatamente, rigorosamente
 materializar	tornar real, concretizar
 maternalmente	de modo maternal, carinhosamente
-materno	de mãe, carinhoso
+materno	de mãe
 matina	madrugada
 matinada	madrugada, confusão, tumulto
 matinar	levantar bem cedo, pensar muito sobre algo, imaginar
@@ -13636,6 +13636,7 @@ ultraje	ofensa, humilhação
 ultravida	além, depois da morte
 ulular	gritar, exclamar, explodir
 uma vez que	já que
+umbilical	do umbigo
 umbrífero	sombrio
 umbroso	sombrio
 umidade	relento, sereno

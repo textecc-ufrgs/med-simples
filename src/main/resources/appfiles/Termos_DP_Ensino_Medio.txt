@@ -585,6 +585,7 @@ exame oftalmológico 	exame que avalia os olhos, as pálpebras e os canais lacri
 exame audiológico 	exames que medem a audição
 exame laboratorial 	exames feitos em laboratório
 exame histopatológico 	exame microscópico do tecido para diagnóstico de câncer; este exame também serve para diagnosticar outras patologias, como tuberculose, micoses, infecções etc
+exame neuroimagiológico 	exame de imagem do sistema nervoso
 excitotoxicidade 	quando as células nervosas são super estimuladas por impulsos nervosos, causando danos ou a morte das células
 exérese 	remoção por cirurgia
 exoma 	exame que identifica doenças genéticas; conjunto de aproximadamente 180.000 éxons (*definição de éxons); fração do genoma (*definição de genoma)
@@ -1160,7 +1161,7 @@ períneo 	região do corpo humano que começa, para as mulheres, na parte de bai
 peristaltismo 	Movimento de contração do tubo digestivo em onda progressiva, de cima para baixo, de forma a deslocar seu conteúdo no sentido do ânus
 peritônio 	tipo de membrana que reveste a parte interna do abdômen
 perna agitar 	a pesquisar
-pesticida 	a pesquisar
+pesticida 	substância usada para matar pragas na agricultura, agrotóxico
 pilates 	conjunto de exercícios físicos, ministrados por profissional habiltado, feitos de acordo com o método inventado por Joseph Pilates em 1920
 pink1 	a pesquisar
 piridoxina 	vitamaina antioxidante, conhecida como vitamina B-6, atua no sistema nervoso para produzir hormônios importantes
@@ -1313,7 +1314,7 @@ síndrome parkisoniana 	o mesmo que parksinsonismo, conjunto de sintomas semelha
 sinemet 	medicamento para Doença de Parkinson
 sintetização 	produção; agrupamento
 sintetizar 	produzir; agrupar
-sintoma 	sinais que confirmam doenças
+sintoma 	o que a pessoa sente quando tem uma doença
 sintoma autonômico 	intolerância ao calor, suor excessivo, constipação intestinal, entre outros
 sintoma neurovegetativo 	náuseas, vômitos, palidez
 sintomático 	que apresenta sintomas; sinais de uma condição ou doença
@@ -1416,6 +1417,7 @@ toxina 	substância tóxica, veneno
 tpm 	tensão pré-mestrual
 transdução 	processo no qual uma célula converte um tipo de sinal ou estímulo em outro
 transecção 	a pesquisar
+transmissão vertical 	o que passa da mãe para seu filho, durante a gravidez, na hora do parto ou pela amamentação
 transtorno bipolar 	doença psiquiátrica em que a pessoa tem alterações repentinas de humor
 transtorno amnéstico 	a pesquisar
 transtorno conversivo 	a pesquisar
