@@ -1314,7 +1314,7 @@ síndrome parkisoniana 	o mesmo que parksinsonismo, conjunto de sintomas semelha
 sinemet 	medicamento para Doença de Parkinson
 sintetização 	produção; agrupamento
 sintetizar 	produzir; agrupar
-sintoma 	sinais que confirmam doenças
+sintoma 	o que a pessoa sente quando tem uma doença
 sintoma autonômico 	intolerância ao calor, suor excessivo, constipação intestinal, entre outros
 sintoma neurovegetativo 	náuseas, vômitos, palidez
 sintomático 	que apresenta sintomas; sinais de uma condição ou doença
@@ -1417,6 +1417,7 @@ toxina 	substância tóxica, veneno
 tpm 	tensão pré-mestrual
 transdução 	processo no qual uma célula converte um tipo de sinal ou estímulo em outro
 transecção 	a pesquisar
+transmissão vertical 	o que passa da mãe para seu filho, durante a gravidez, na hora do parto ou pela amamentação
 transtorno bipolar 	doença psiquiátrica em que a pessoa tem alterações repentinas de humor
 transtorno amnéstico 	a pesquisar
 transtorno conversivo 	a pesquisar
