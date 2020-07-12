@@ -358,6 +358,7 @@ depressão 	doença que causa tristeza e desânimo constante, entre outros sinto
 dermatite atópica 	inflamação na pele caracterizado por lesões avermelhadas, que coçam muito e, às vezes, descamam; geralmente, elas se localizam na face das crianças pequenas e nas dobras do joelho e cotovelo das crianças maiores e dos adultos.
 dermatite seborreico 	inflamação na pele que causa manchas vermelha e descamação, principalmente no couro cabeludo e em partes da face
 derrame pleural 	conhecido como água no pulmão, é o acúmulo de líquidos dentro da pleura, membrana que reveste e protege o pulmão
+desautonomia	quando o sistema nervoso autônomo (*Ver sistema nervoso autônomo) não funciona bem, afetando o coração, a bexiga, os intestinos, as glândulas de suor, as pupilas (olhos) e os vasos sanguíneos
 desfibrilação 	dar choques elétricos no paciente, através de um desfibrilador (equipamento eletrônico) para reverter um quadro de fibrilação - ritmo fora do normal do coração
 desfibrilador 	aparelho eletrônico médico usado para reverter um quadro de fibrilação - quando o ritmo do coração fica fora do normal
 desidratação 	condição que pode ser grave, caracterizada por baixa concentração não só de água, mas também de sais minerais e líquidos no corpo, a ponto de impedir que o organismo realize suas funções normais
@@ -416,14 +417,14 @@ distal 	afastado do tronco
 distensão muscular 	rompimento de um músculo ou de tecido muscular que liga o músculo ao osso
 distonia 	contrações musculares involuntárias que causam movimentos repetitivos ou de torção
 distônica 	relativo à distonia (*Ver distonia no glossário) 
-distrofifa 	desenvolvimento anormal
+distrofia 	desenvolvimento anormal
 distrofia muscular 	grupo de doenças genéticas que causa fraqueza progressiva e perda de massa muscular
 distúrbio 	funcionamento anormal de um órgão ou sistema do corpo
 distúrbio comportamental de o sono rem 	problema com pesadelos nos quais a pessoa grita, chora, dá socos ou pontapés. Pode ser um problema anterior ao desenvolvimento da doença de Parkinson
 distúrbio não motor 	distúrbios não relacionados ao movimento, que podem incluir depressão, demência etc
 distúrbio de movimento 	doenças que causam problemas nos movimentos; dificuldades para se movimentar
 distúrbio de o sono 	dificuldades para pegar no sono ou durante o sono
-distúrbio autonômico 	condição em que o sistema nervoso autônomo (SNA) não funciona corretamente, podendo afetar o funcionamento do coração, da bexiga, dos intestinos, das glândulas sudoríparas, das pupilas e dos vasos sanguíneos
+distúrbio autonômico 	quando o sistema nervoso autônomo (*Ver sistema nervoso autônomo no glossário) não funciona bem, afetando o coração, a bexiga, os intestinos, as glândulas de suor, as pupilas (olhos) e os vasos sanguíneos
 distúrbios cerebelar 	funcionamentos anormais relacionados ao cerebelo (*Ver cerebelo no glossário)
 distúrbios neurocomportamental 	problemas de comportamento da pessoa associados a problemas neurológicos que ela tenha
 distúrbio neuropsiquiátrico 	problemas de comportamento da pessoa associados a problemas neurológicos que ela tenha
@@ -432,7 +433,7 @@ distúrbio vestibular 	tontura e desequilíbrio
 distúrbios visual 	problemas na visão como escurecimento da visão, distorções de imagem etc.
 diurese 	aumento de excreção de urina
 diurético 	medicamentos utilizados para aumentar o volume urinário, atuando na redução do líquido presente no corpo, bem como reduzindo a pressão arterial
-dna 	conjunto de moléculas que carrega a informação genética de todos os seres vivos (características da espécie e do indivíduo); genes em sequência
+dna 	conjunto de moléculas que carrega a informação genética de todos os seres vivos (características da espécie e do indivíduo)
 doença autoimune 	doença em que o sistema imunológico do corpo ataca células saudáveis
 doença autossômica dominante 	tipos de doenças que aparecem em todas as gerações de uma família e apenas um gene do pai ou da mãe é necessário para que a doença seja transmitida
 doença autossômica recessivo 	tipos de doenças que precisam de dois genes ou mais com defeito, do pai e da mãe, para que a doença seja transmitida para o filho(a)
@@ -485,7 +486,7 @@ eletromiografia 	exame que grava da atividade elétrica de um músculo; o mesmo 
 embolia 	obstrução de um vaso ou artéria por um coágulo levado pela corrente sanguínea
 embolia arterial 	obstrução de um vaso ou artéria por um coágulo levado pela corrente sanguínea
 embolia cerebral 	ocorre quando um coágulo de sangue viaja até o cérebro, causando um AVC (derrame) ou um AIT (*Ver no glossário)
-embolia pulmonar 	doença em que artérias pulmonares ficam bloqueadas por um ou mais coágulos sanguíneos
+embolia pulmonar 	quando artérias (vasos) do pulmão ficam bloqueadas por coágulos de sangue (formas sólidas do sangue)
 êmese 	vômito 
 emg 	eletromiografia; exame que grava a atividade elétrica de um músculo
 encefálico 	relativo ao encéfalo (*Ver encéfalo no glossário)
@@ -588,7 +589,7 @@ exame histopatológico 	exame microscópico do tecido para diagnóstico de cânc
 exame neuroimagiológico 	exame de imagem do sistema nervoso
 excitotoxicidade 	quando as células nervosas são super estimuladas por impulsos nervosos, causando danos ou a morte das células
 exérese 	remoção por cirurgia
-exoma 	exame que identifica doenças genéticas; conjunto de aproximadamente 180.000 éxons (*definição de éxons); fração do genoma (*definição de genoma)
+exoma 	exame que identifica doenças genéticas
 éxons 	regiões dos genes que codificam proteínas
 espectativa de vida 	média de anos que um grupo de indivíduos nascidos no mesmo ano irá viver, se mantidas as mesmas condições desde o seu nascimento; o mesmo que expectativa de vida
 eupnéica 	respiração normal
@@ -835,7 +836,7 @@ inibidor 	elementos capazes de diminur ou suprimir a atividade de uma substânci
 insidioso	traiçoeiro, que se esconde e depois reaparece
 insônia 	dificuldade para pegar no sono e/ou continuar dormindo
 instabilidade postural 	dificuldade para manter a postura (tendência de cair para a frente e para trás)
-insuficiência cardíaca 	condição em que o coração é incapaz de bombear a quantidade de sangue necessária para o corpo
+insuficiência cardíaca 	quando o coração não consegue bombear a quantidade de sangue necessária para o corpo
 insuficiência renal 	problema com o funcionamento dos rins
 insulina 	hormônio que regula a quantidade de glicose no sangue
 interação medicamentoso 	quando há uso de vários medicamentos juntos e um pode interferir sobre o outro
@@ -846,12 +847,12 @@ intestino delgar 	primeira porção do intestino, que liga o estômago ao intest
 intestino grosso 	segunda porção do intestino e a menor, mas a mais importante na absorção da água, já que é aqui que mais de 60% da água é absorvida para o corpo
 intraçar 	dentro da célula
 intracraniano 	dentro do crânio
-intramuscular 	injeção aplicada dentro de um músculo
+intramuscular 	dentro do músculo
 intratável 	que não tem tratamento
 intravenoso 	injeção por agulha ou catéter dentro das veias; o mesmo que endovenoso
 intolerância a o lactose 	incapacidade do organismo de digerir o açúcar presente no leite, a lactose, causando sintomas como cólica, gases e diarreia, que surgem momentos após a ingestão deste alimento
-introlerância a o glúten 	incapacidade ou dificuldade de digestão do glúten, que é uma proteína presente no trigo, no centeio e na cevada; nessas pessoas o glúten danifica as paredes do intestino delgado, provocando diarreia, dor e inchaço abdominal, além de dificultar a absorção de nutrientes
-introlerância a o medicamento 	quando o organismo da pessoa não aceita bem o medicamento e ela passa mal, podendo apresentar vômito, diarreia e/ou dor de cabeça; em casos mais graves pode ter uma reação alérgica ao medicamento
+intolerância a o glúten 	incapacidade ou dificuldade de digestão do glúten, que é uma proteína presente no trigo, no centeio e na cevada; nessas pessoas o glúten danifica as paredes do intestino delgado, provocando diarreia, dor e inchaço abdominal, além de dificultar a absorção de nutrientes
+intolerância a o medicamento 	quando o organismo da pessoa não aceita bem o medicamento e ela passa mal, podendo apresentar vômito, diarreia e/ou dor de cabeça; em casos mais graves pode ter uma reação alérgica ao medicamento
 intolerância medicamentoso 	quando o organismo da pessoa não aceita bem o medicamento e ela passa mal, podendo apresentar vômito, diarreia e/ou dor de cabeça; em casos mais graves pode ter uma reação alérgica ao medicamento
 íntrons 	regiões do DNA que não codificam poteínas
 intubar 	colocar tubo ou sonda no paciente; o mesmo que entubar
@@ -919,7 +920,7 @@ marcar passo 	sistema, inserido por cirurgia dentro do corpo, que envia impulsos
 marcha 	movimento da caminhada de uma pessoa
 marcha patológica 	movimento anormal da caminhada de uma pessoa
 máscara parkisoniana 	sintoma de doenças como Parkinson entre outras. fisionomia inexpressiva, mímica facial diminuída; olhar parado, vago e fixo
-massa branco 	localizada dentro do cérebro é uma complexa rede de comunicações: quando você quer fazer algo, é a rede de neurônios da massa branca que transmite as informações para que sua vontade seja realizada; o mesmo que substância branca
+massa branco 	parte do cérebro que é ativada quando a pessoa quer fazer algo
 massa cinzento 	parte do cérebro que coordena as atividades dos músculos da pessoa; o mesmo que substância cinzenta
 mastigação 	ato de triturar o alimento com os dentes
 material genético 	conjunto de genes de um organismo vivo
@@ -983,7 +984,7 @@ mórber 	que tem a ver com a morte
 morfina 	medicamento de alto poder analgésico usado para aliviar dores severas
 motricidade 	movimentos voluntários do corpo
 movimento voluntário 	movimento(s) do corpo que se realizam  por vontade própria
-movimento involuntário 	movimento(s) do corpo que acontecem sem pessoa desejar
+movimento involuntário 	movimento do corpo que acontece sem a pessoa desejar
 mptp 	a pesquisar
 muco 	secreção, fluído elástico de origem biológica, ranho
 mucosa 	revestimento úmido da pele, como dentro do nariz e boca
@@ -1002,7 +1003,7 @@ mutação 	alteração, mudança
 mutação genética 	corresponde à alteração de um gene, podendo afetar seu funcionamento normal
 nac 	núcleo accumbens
 narcolepsia 	crises de sono profundo, de breve duração 
-nasogástrico 	referente ao nariz e ao estômago
+nasogástrico 	do nariz e do estômago
 náusea 	enjoo ou ânsia de vômito
 nb 	núcleos da base
 necropsia 	exame de um corpo morto
@@ -1031,8 +1032,8 @@ neurite 	inflamação de um nervo
 neuroacantocitose 	a pesquisar
 neurocirurgião 	médico que opera em casos de problemas no cérebro e em outras parte sistema nervoso central
 neurocomportamental 	a pesquisar
-neurodegeneração 	a pesquisar
-neurodegenerativo 	a pesquisar
+neurodegeneração 	destruição dos neurônios (células do sistema nervoso) que acontece aos poucos e que não tem recuperação
+neurodegenerativo 	relacionado à destruição dos neurônios (células do sistema nervoso)
 neuroendoscopia 	a pesquisar
 neuroestimulador 	a pesquisar
 neurofarmacologia 	a pesquisar
@@ -1042,7 +1043,7 @@ neurologia 	ramo da medicina que estuda o sistema nervoso, suas funções e deso
 neurologista 	médico especializado no estudo do sistema nervoso, suas funções e doenças
 neuroma 	tumor composto de células nervosas
 neuromuscular 	a pesquisar
-neurônio 	células que compõem o sistema nervoso (*Ver Sistema Nervoso no glossário) responsáveis por conduzir, receber e transmitir os impulsos nervosos através do corpo, fazendo com que este responda aos estímulos do meio
+neurônio 	célula do sistema nervoso (cérebro e medula espinhal) que processa informações e gera respostas no corpo
 neurônio colinérgico 	a pesquisar
 neurônio dopaminérgico 	neurônios que produzem e liberam dopamina
 neurônio gabaérgico 	neurônios que secretam GABA
@@ -1058,7 +1059,7 @@ neurose 	a pesquisar
 neurotransmissor colinérgico 	a pesquisar
 neurotransmissor noradrenérgico 	a pesquisar
 neurotransmissor serotoninérgico 	a pesquisar
-neutrotransmissor 	substância que ajuda na transmissão de mensagens entre as células nervosas
+neurotransmissor 	mensageiros químicos que transportam, estimulam e equilibram os sinais entre os neurônios (*Ver neurônio no glossário) e outras células do corpo
 nicotina 	substância química que tem no fumo e em cigarros e assemelhados
 nictúria 	urinar com frequência durante a noite (o mesmo que noctúria)
 nistagmo 	movimento involuntário dos olhos que pode fazer o olho mover-se de um lado para outro, para cima e para baixo ou em círculos
@@ -1335,7 +1336,7 @@ sistema linfático 	responsável por coletar impurezas da circulação e manter 
 sistema motor extrapiramidal 	sistema que atua principalmente nos movimentos inconscientes do corpo, como o caminhar, o equilíbrio, a escrita, entre outros
 sistema muscular 	formado pelo conjunto de músculos do nosso corpo. Os músculos se contraem e relaxam, gerando movimentos que nos permitem andar, correr, impulsionar o alimento ao longo do tubo digestório, promover a circulação do sangue no organismo, urinar, dentre muitas outras atividades. 
 sistema nervoso autônomo 	parte do sistema nervoso que controla funções como a respiração, circulação do sangue, temperatura e digestão
-sistema nervoso central 	sistema formado pelo cérebro, medula espinhal e nervos
+sistema nervoso central 	rede de comunicação do nosso corpo formada pelo cérebro, medula espinhal e nervos
 sistema nervoso parassimpático 	a pesquisar
 sistema nervoso periférico 	nervos; liga o sistema vervoso central aos outros órgãos do corpo para transportar informações
 sistema nervoso visceral 	parte do sistema nervoso que controla funções como a respiração, circulação do sangue, temperatura e digestão
@@ -1364,7 +1365,7 @@ sudorese 	suor excretato, transpiração
 sujeito controlo 	a pesquisar
 suplementação 	que completa
 sutura 	tipo de ligação usada por médicos e cirurgiões-dentistas para manter unido pele, músculos, vasos sanguíneos e outros tecidos do corpo humano, após terem sido seccionados por um ferimento; ponto cirúrgico
-tálamo 	a pesquisar
+tálamo 	parte do cérebro responsável por receber informações relacionadas aos sentidos, como audição, paladar, tato, visão (menos o olfato) e enviá-las para o córtex cerebral (*Ver córtex cerebral no glossário), onde essas informações serão processadas
 talamotomia 	a pesquisar
 taquicardia 	batimentos cardíacos rápidos
 taquifemia 	a pessoa passa a agrupar as palavras
@@ -1415,7 +1416,7 @@ toxicologia 	a pesquisar
 toxina botulínica 	a pesquisar
 toxina 	substância tóxica, veneno
 tpm 	tensão pré-mestrual
-transdução 	processo no qual uma célula converte um tipo de sinal ou estímulo em outro
+transdução 	processo através do qual uma célula converte um tipo de sinal ou estímulo em outro
 transecção 	a pesquisar
 transmissão vertical 	o que passa da mãe para seu filho, durante a gravidez, na hora do parto ou pela amamentação
 transtorno bipolar 	doença psiquiátrica em que a pessoa tem alterações repentinas de humor
@@ -1452,7 +1453,7 @@ tricíclico 	a pesquisar
 trombócitos 	células de coagulação ou plaquetas
 trombose 	formação de um coágulo de sangue dentro do coração ou vasos
 trompa de eustáquio 	canal que liga a orelha média à faringe; o mesmo que tuba auditiva
-tronco cerebral 	parte embaixo do cérebro, na frente do cerebelo. Ele liga o cérebro à medula espinhal e controla funções involuntárias como respiração, digestão, ritmo cardíaco e pressão arterial
+tronco cerebral 	parte embaixo do cérebro, na frente do cerebelo. Liga o cérebro à medula espinhal e controla funções involuntárias (as que fazemos sem perceber), como respiração, digestão, ritmo do coração e pressão arterial
 tronco encefálico 	parte do cérebro responsável pelas funções involuntárias, como respiração, ritmo dos batimentos cardíacos e pressão arterial etc. 
 tronco de o encéfalo 	parte do cérebro responsável pelas funções involuntárias, como respiração, ritmo dos batimentos cardíacos e pressão arterial etc. 
 tuba auditivo 	canal que liga a orelha média à faringe; o mesmo que trompa de Eustáquio

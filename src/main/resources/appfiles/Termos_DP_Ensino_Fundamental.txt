@@ -358,6 +358,7 @@ depressão 	doença que causa tristeza e desânimo constante, entre outros sinto
 dermatite atópica 	inflamação na pele que causa manchas ou feridas vermelhas que coçam muito e, às vezes, descamam (perdem camadas da pele); aparecem mais no rosto de crianças pequenas e nas dobras dos joelhos e cotovelos de crianças maiores e adultos
 dermatite seborreico 	inflamação na pele que causa manchas vermelhas e descamação (perda de camadas da pele), principalmente no couro cabeludo e em partes da face
 derrame pleural 	água no pulmão; acúmulo de líquidos dentro da pleura, que é a estrutura que fica ao redor do pulmão para proteção
+desautonomia	quando o sistema nervoso autônomo (*Ver sistema nervoso autônomo) não funciona bem, afetando o coração, a bexiga, os intestinos, as glândulas de suor, as pupilas (olhos) e os vasos sanguíneos
 desfibrilação 	aplicação de corrente elétrica no paciente, através de um desfibrilador (equipamento eletrônico que serve para fazer o coração voltar a bater no ritmo certo)
 desfibrilador 	equipamento eletrônico que serve para fazer o coração voltar a bater no ritmo certo
 desidratação 	quando o corpo usa ou perde água, sais minerais e líquidos produzidos pelos próprio corpo, perdendo muito mais do que a pessoa tomou; o corpo desidratado pode ter dificuldade para funcionar de modo normal
@@ -416,14 +417,14 @@ distal 	afastado do tronco (do centro do corpo)
 distensão muscular 	rompimento de um músculo ou de tecido que liga o músculo ao osso
 distonia 	contração dos músculos sem que a pessoa queira
 distônica 	relacionado à distonia (*Ver distonia no glossário)
-distrofifa 	desenvolvimento anormal
+distrofia 	desenvolvimento anormal
 distrofia muscular 	doenças que passam dos pais para os filhos e que causam fraqueza nos músculos e perda de massa muscular
 distúrbio 	funcionamento anormal de um órgão ou sistema do corpo
 distúrbio comportamental de o sono rem 	problema com pesadelos em que a pessoa grita, chora, dá socos ou pontapés. Pode ser um problema que acontece antes da Doença de Parkinson
 distúrbio não motor 	problemas não relacionados ao movimento
 distúrbio de movimento 	doenças que causam dificuldade para se movimentar
 distúrbio de o sono 	dificuldade para dormir 
-distúrbio autonômico 	quando o sistema nervoso autônomo (*Ver sistema nervoso autônomo no glossário) não funciona bem, afetando coração, bexiga, intestinos, glândulas de suor, olhos e vasos sanguíneos
+distúrbio autonômico 	quando o sistema nervoso autônomo (*Ver sistema nervoso autônomo no glossário) não funciona bem, afetando o coração, a bexiga, os intestinos, as glândulas de suor, as pupilas (olhos) e os vasos sanguíneos
 distúrbios cerebelar 	doenças em que a parte do cérebro responsável pelo equilíbrio e movimentos não funciona bem. 
 distúrbios neurocomportamental 	problemas de comportamento da pessoa relacionados a problemas no cérebro
 distúrbio neuropsiquiátrico 	problemas de comportamento da pessoa relacionados a problemas no cérebro
@@ -432,7 +433,7 @@ distúrbio vestibular 	tontura e desequilíbrio
 distúrbios visual 	dificuldades para enxergar bem
 diurese 	aumento da quantidade de urina que é eliminada pelo corpo
 diurético 	remédios utilizados para aumentar a quantidade de urina produzida e sua eliminação do corpo, reduzindo também a pressão se a pessoa tiver pressão alta
-dna 	conjunto de moléculas que carregam a informação genéticas de todos os seres vivos, as características da espécie e do indivíduo
+dna 	conjunto de moléculas que carrega a informação genética de todos os seres vivos (características da espécie e do indivíduo)
 doença autoimune 	quando nosso sistema imune (*Ver sistema imune no glossário) se confunde e ataca as células do nosso próprio corpo. A diabetes tipo 1, em que o sistema imune destrói as células do pâncreas que produzem insulina (hormônio que controla a quantidade de açúcar no sangue), é um exemplo de doença autoimune.
 doença autossômica dominante 	tipos de doenças que aparecem em todas as gerações de uma família e apenas um gene do pai ou da mãe é necessário para que a doença seja transmitida
 doença autossômica recessivo 	tipos de doenças que precisam de dois genes ou mais com defeito, do pai e da mãe, para que a doença seja transmitida para o filho(a)
@@ -485,7 +486,7 @@ eletromiografia 	exame que grava da atividade elétrica de um músculo; o mesmo 
 embolia 	boqueio de um vaso sanguíneo causado por um coágulo (forma sólida do sangue) 
 embolia arterial 	boqueio de um vaso sanguíneo causado por um coágulo (forma sólida do sangue) 
 embolia cerebral 	quando um coágulo de sangue (forma sólida do sangue) viaja até o cérebro, causando um AVC (derrame)
-embolia pulmonar 	doença em que artérias (vasos) do pulmão ficam bloqueadas por coágulos de sangue (formas sólidas do sangue)
+embolia pulmonar 	quando artérias (vasos) do pulmão ficam bloqueadas por coágulos de sangue (formas sólidas do sangue)
 êmese 	vômito
 emg 	eletromiografia; exame que grava da atividade elétrica de um músculo
 encefálico 	relacionado ao encéfalo (*Ver encéfalo no glossário)
@@ -588,7 +589,7 @@ exame histopatológico 	exame dos tecidos do corpo para diagnóstico de câncer;
 exame neuroimagiológico 	exame de imagem do sistema nervoso
 excitotoxicidade 	quando as células são super estimuladas e podem acabar sendo danificadas ou morrendo
 exérese 	remoção por cirurgia
-exoma 	exame que identifica doenças genéticas; conjunto de aproximadamente 180.000 éxons (*definição de éxons); fração do genoma (*definição de genoma)
+exoma 	exame que identifica doenças genéticas
 éxons 	regiões dos genes que codificam proteínas
 espectativa de vida 	cálculo que faz uma média de quantos anos uma pessoa vai viver. No brasil, uma pessoa nascida em 2020 vai viver, em média, 76,6 anos, esse número pode mudar dependendo da vida que a pessoa tiver.
 eupnéica 	respiração normal
@@ -835,7 +836,7 @@ inibidor 	elementos capazes de diminuir ou interromper a atividade de uma subst�
 insidioso	traiçoeiro, que se esconde e depois reaparece
 insônia 	dificuldade para pegar no sono e/ou continuar dormindo
 instabilidade postural 	dificuldade para manter a postura (tendência de cair para a frente e para trás)
-insuficiência cardíaca 	condição em que o coração não consegue de bombear a quantidade de sangue necessária para o corpo
+insuficiência cardíaca 	quando o coração não consegue bombear a quantidade de sangue necessária para o corpo
 insuficiência renal 	problema com o funcionamento dos rins
 insulina 	hormônio que controla a quantidade de glicose (açúcar) no sangue
 interação medicamentoso 	quando há uso de vários remédios juntos e o efeito de um dos remédios pode atrapalhar o efeito do outro
@@ -846,12 +847,12 @@ intestino delgar 	primeira parte do intestino, que liga o estômago ao intestino
 intestino grosso 	segunda parte do intestino e a menor, mas a mais importante para absorver a água
 intraçar 	dentro da célula
 intracraniano 	dentro do crânio
-intramuscular 	injeção aplicada dentro de um músculo
+intramuscular 	dentro do músculo
 intratável 	que não tem tratamento
 intravenoso 	injeção aplicada dentro das veias; o mesmo que endovenoso
 intolerância a o lactose 	quando o organismo não consegue digerir o açúcar presente no leite, chamado de lactose, causando sintomas como cólica, gases e diarreia
-introlerância a o glúten 	quando o organismo não consegu digerir o glúten, que é uma proteína presente no trigo, no centeio e na cevada; nessas pessoas o glúten danifica as paredes do intestino delgado, provocando diarreia, dor e inchaço abdominal, além de dificultar a absorção de nutrientes
-introlerância a o medicamento 	quando o organismo da pessoa não aceita bem o remédio e ela passa mal, podendo vomitar, ter diarreia e/ou dor de cabeça; em casos mais graves a pessoa pode ter uma reação alérgica ao remédio
+intolerância a o glúten 	quando o organismo não consegu digerir o glúten, que é uma proteína presente no trigo, no centeio e na cevada; nessas pessoas o glúten danifica as paredes do intestino delgado, provocando diarreia, dor e inchaço abdominal, além de dificultar a absorção de nutrientes
+intolerância a o medicamento 	quando o organismo da pessoa não aceita bem o remédio e ela passa mal, podendo vomitar, ter diarreia e/ou dor de cabeça; em casos mais graves a pessoa pode ter uma reação alérgica ao remédio
 intolerância medicamentoso 	quando o organismo da pessoa não aceita bem o remédio e ela passa mal, podendo vomitar, ter diarreia e/ou dor de cabeça; em casos mais graves a pessoa pode ter uma reação alérgica ao remédio
 íntrons 	regiões do DNA que não codificam proteínas
 intubar 	colocar tubo ou sonda no paciente; o mesmo que entubar
@@ -919,7 +920,7 @@ marcar passo 	aparelho colocado dentro do peito da pessoa, em uma operação, pa
 marcha 	movimento da caminhada de uma pessoa
 marcha patológica 	movimento anormal da caminhada de uma pessoa
 máscara parkisoniana 	sintoma da doença de Parkinson e outras doenças; o rosto parece uma máscara porque fica sem expressão, e o olhar parado, vago e fixo
-massa branco 	parte do cérebro que funciona quando a pessoa quer fazer algo, é a parte do cérebro que controla a vontade
+massa branco 	parte do cérebro que é ativada quando a pessoa quer fazer algo
 massa cinzento 	parte do cérebro que coordena as atividades dos músculos da pessoa
 mastigação 	ato de esmagar a comida com os dentes dentro da boca
 material genético 	conjunto de genes de um organismo vivo
@@ -983,7 +984,7 @@ mórber 	que tem a ver com a morte
 morfina 	remédio muito forte usado para aliviar dores que causam muito sofrimento
 motricidade 	movimentos voluntários do nosso corpo, que controlamos e fazemos porque queremos
 movimento voluntário 	movimento(s) do corpo que se realizam por vontade própria
-movimento involuntário 	movimento(s) do corpo que acontecem sem pessoa desejar
+movimento involuntário 	movimento do corpo que acontece sem a pessoa desejar
 mptp 	a pesquisar
 muco 	líquido viscoso, secreção, ranho
 mucosa 	revestimento úmido da pele, como o que temos dentro do nariz e boca
@@ -1031,8 +1032,8 @@ neurite 	inflamação em um nervo
 neuroacantocitose 	a pesquisar
 neurocirurgião 	médico que opera em casos de problemas no cérebro e em outras parte sistema nervoso central
 neurocomportamental 	a pesquisar
-neurodegeneração 	a pesquisar
-neurodegenerativo 	a pesquisar
+neurodegeneração 	destruição dos neurônios (células do sistema nervoso) que acontece aos poucos e que não tem recuperação
+neurodegenerativo 	relacionado à destruição dos neurônios (células do sistema nervoso)
 neuroendoscopia 	a pesquisar
 neuroestimulador 	a pesquisar
 neurofarmacologia 	a pesquisar
@@ -1042,7 +1043,7 @@ neurologia 	estudo do sistema nervoso, suas funções e doenças
 neurologista 	médico especializado no estudo do sistema nervoso, suas funções e doenças
 neuroma 	a pesquisar
 neuromuscular 	a pesquisar
-neurônio 	células que compõem o sistema nervoso (*Ver Sistema Nervoso no glossário) responsáveis por conduzir, receber e transmitir os impulsos nervosos através do corpo, fazendo com que o copor responda aos estímulos do meio em que vivemos
+neurônio 	célula do sistema nervoso (cérebro e medula espinhal) que processa informações e gera respostas no corpo
 neurônio colinérgico 	a pesquisar
 neurônio dopaminérgico 	neurônios que produzem e liberam dopamina 
 neurônio gabaérgico 	a pesquisar
@@ -1058,7 +1059,7 @@ neurose 	a pesquisar
 neurotransmissor colinérgico 	a pesquisar
 neurotransmissor noradrenérgico 	a pesquisar
 neurotransmissor serotoninérgico 	a pesquisar
-neutrotransmissor 	a pesquisar
+neurotransmissor 	mensageiros químicos que transportam, estimulam e equilibram os sinais entre os neurônios (*Ver neurônio no glossário) e outras células do corpo
 nicotina 	substância que tem no fumo e em cigarros e assemelhados
 nictúria 	a pesquisar
 nistagmo 	movimento descontrolado dos olhos que pode fazer o olho mover-se de um lado para outro, para cima e para baixo ou em círculos
@@ -1335,7 +1336,7 @@ sistema linfático 	a pesquisar
 sistema motor extrapiramidal 	a pesquisar
 sistema muscular 	a pesquisar
 sistema nervoso autônomo 	parte do sistema nervoso que controla funções como a respiração, circulação do sangue, temperatura e digestão
-sistema nervoso central 	a pesquisar
+sistema nervoso central 	rede de comunicação do nosso corpo formada pelo cérebro, medula espinhal e nervos
 sistema nervoso parassimpático 	a pesquisar
 sistema nervoso periférico 	nervos; liga o sistema nervoso central aos outros órgãos do corpo para transportar as informações
 sistema nervoso visceral 	parte do sistema nervoso que controla funções como a respiração, circulação do sangue, temperatura e digestão
@@ -1364,7 +1365,7 @@ sudorese 	suor ou transpiração
 sujeito controlo 	a pesquisar
 suplementação 	que completa
 sutura 	dar pontos; quando o médico ou dentista "costura" a pele, os músculos, vasos sanguíneos e outros tecidos do corpo humano, após uma lesão
-tálamo 	a pesquisar
+tálamo 	parte do cérebro responsável por receber informações relacionadas aos sentidos, como audição, paladar, tato, visão (menos o olfato) e enviá-las para o córtex cerebral (*Ver córtex cerebral no glossário), onde essas informações serão processadas
 talamotomia 	a pesquisar
 taquicardia 	disparos da batida do coração
 taquifemia 	a pesquisar
@@ -1415,7 +1416,7 @@ toxicologia 	a pesquisar
 toxina botulínica 	a pesquisar
 toxina 	substância tóxica, veneno
 tpm 	tensão pré-mestrual
-transdução 	algo que pode ser venenoso
+transdução 	processo através do qual uma célula converte um tipo de sinal ou estímulo em outro
 transecção 	a pesquisar
 transmissão vertical 	o que passa da mãe para seu filho, durante a gravidez, na hora do parto ou pela amamentação
 transtorno bipolar 	doença que gera alterações de uma hora para outra do humor, que varia do muito animado até o extremamente infeliz e deprimido
@@ -1452,7 +1453,7 @@ tricíclico 	a pesquisar
 trombócitos 	a pesquisar
 trombose 	formação de um coágulo de sangue dentro do coração ou vasos
 trompa de eustáquio 	a pesquisar
-tronco cerebral 	parte embaixo do cérebro, na frente do cerebelo. Ele liga o cérebro à medula espinhal e controla funções involuntárias como respiração, digestão, ritmo cardíaco e pressão arterial
+tronco cerebral 	parte embaixo do cérebro, na frente do cerebelo. Liga o cérebro à medula espinhal e controla funções involuntárias (as que fazemos sem perceber), como respiração, digestão, ritmo do coração e pressão arterial
 tronco encefálico 	parte do cérebro responsável pelas funções que realizamos sem perceber, como respiração, ritmo dos batimentos do coração, pressão arterial etc. 
 tronco de o encéfalo 	parte do cérebro responsável pelas funções que realizamos sem perceber, como respiração, ritmo dos batimentos coração e pressão arterial etc. 
 tuba auditivo 	a pesquisar
