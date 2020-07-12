@@ -3854,6 +3854,7 @@ conjeturar	cheirar, pressentir, prever, sentir, surpreender, suspeitar, ver
 conjugação	união
 conjugado	conjunto
 conjugar	abraçar, aproximar, juntar, reunir, unir
+cônjuge	companheiro(a)
 conjunção	união
 conjungir	aliar, aproximar, conciliar, juntar, ligar, relacionar, reunir, unir
 conjuntura	contexto, situação
@@ -4228,7 +4229,7 @@ cruzamento	união
 cubículo	prisão
 cuca	cabeça, tipo de pão doce, bruxa
 cuidadeiro	trabalhador
-cuidador	pessoa que cuida de alguém como profissão ou trabalho, cuidadoso, curioso
+cuidador	pessoa que cuida de alguém como profissão ou trabalho, cuidadoso
 cuidoso	cuidadoso, curioso
 culminância	máximo, topo
 culpado	responsável
