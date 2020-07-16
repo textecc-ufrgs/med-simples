@@ -3,9 +3,13 @@ application:
     terms:
       covid: 
         fundamental: Termos_Covid19_Ensino_Fundamental.txt
+        medio: Termos_Covid19_Ensino_Fundamental.txt
       parkinson: 
         fundamental: Termos_DP_Ensino_Fundamental.txt
         medio: Termos_DP_Ensino_Medio.txt
+      cuidados: 
+        fundamental: Termos_CcRN.txt
+        medio: Termos_CcRN.txt
     easyWords: easy_words.txt
     dictionary: simple_dic.txt
 logging:

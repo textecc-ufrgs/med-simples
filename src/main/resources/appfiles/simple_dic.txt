@@ -12914,6 +12914,7 @@ sucinto	breve, curto, preciso
 sucumbir	ceder, cair
 sucursal	filial, agência, empresa, escritório, repartição
 súdito	seguidor, dependente, escravo
+sudorese	suor, transpiração
 sueira	cansaço
 sufocação	sensação de estar sem ar, aperto, opressão
 sufocamento	sensação de estar sem ar, aperto, opressão

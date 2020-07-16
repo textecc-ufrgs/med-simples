@@ -43,6 +43,12 @@ public class AppTextFileService {
 	@Value("${application.file.terms.parkinson.medio}")
 	private String termsParkinsonMedio;
 
+	@Value("${application.file.terms.cuidados.fundamental}")
+	private String termsCuidadosFundamental;
+
+	@Value("${application.file.terms.cuidados.medio}")
+	private String termsCuidadosMedio;
+
 	@Value("${application.file.easyWords}")
 	private String easyWordsFilename;
 
@@ -81,6 +87,7 @@ public class AppTextFileService {
 		String filename;
 		Map<ReaderType, String> covidFilenames = Map.of(ReaderType.FUNDAMENTAL, termsCovidFundamental);
 		Map<ReaderType, String> parkinsonFilenames = Map.of(ReaderType.FUNDAMENTAL, termsParkinsonFundamental, ReaderType.MEDIO, termsParkinsonMedio);
+		Map<ReaderType, String> cuidadosFilenames = Map.of(ReaderType.FUNDAMENTAL, termsCuidadosFundamental, ReaderType.MEDIO, termsCuidadosMedio);
 
 		switch (subject) {
 		case COVID:
@@ -88,6 +95,9 @@ public class AppTextFileService {
 			break;
 		case PARKINSON:
 			filename = parkinsonFilenames.get(reader);
+			break;
+		case CUIDADOS:
+			filename = cuidadosFilenames.get(reader);
 			break;
 		default:
 			filename = parkinsonFilenames.get(ReaderType.FUNDAMENTAL);
