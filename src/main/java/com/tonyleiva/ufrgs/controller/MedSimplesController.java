@@ -11,6 +11,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestHeader;
@@ -21,6 +22,8 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.tonyleiva.ufrgs.constant.ReaderType;
 import com.tonyleiva.ufrgs.constant.Subject;
+import com.tonyleiva.ufrgs.data.GlossaryCollection;
+import com.tonyleiva.ufrgs.data.repository.GlossaryRepossitory;
 import com.tonyleiva.ufrgs.process.MedSimplesProcessor;
 import com.tonyleiva.ufrgs.process.output.SimplifyDTO;
 import com.tonyleiva.ufrgs.process.output.WordDTO;
@@ -36,6 +39,9 @@ public class MedSimplesController {
 
 	@Autowired
 	private ObjectMapper objectMapper;
+
+	@Autowired
+	private GlossaryRepossitory glossaryRepossitory;
 
 	@CrossOrigin
 	@PostMapping(value = "/simplify", consumes = MediaType.TEXT_PLAIN_VALUE, produces = MediaType.APPLICATION_JSON_VALUE)
@@ -64,4 +70,11 @@ public class MedSimplesController {
 	private String serialize(List<WordDTO> wordDTOList) throws JsonProcessingException {
 		return objectMapper.writeValueAsString(wordDTOList);
 	}
+
+	@CrossOrigin
+	@GetMapping(value = "/all")
+	public List<GlossaryCollection> getAll() {
+		return glossaryRepossitory.findAll();
+	}
+
 }
