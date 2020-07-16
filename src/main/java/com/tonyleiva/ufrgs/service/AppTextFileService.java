@@ -44,6 +44,12 @@ public class AppTextFileService {
 	@Value("${application.file.terms.parkinson.medio}")
 	private String termsParkinsonMedio;
 
+	@Value("${application.file.terms.cuidados.fundamental}")
+	private String termsCuidadosFundamental;
+
+	@Value("${application.file.terms.cuidados.medio}")
+	private String termsCuidadosMedio;
+
 	@Value("${application.file.easyWords}")
 	private String easyWordsFilename;
 
@@ -86,12 +92,19 @@ public class AppTextFileService {
 		parkinsonFilenames.put(ReaderType.FUNDAMENTAL, termsParkinsonFundamental);
 		parkinsonFilenames.put(ReaderType.MEDIO, termsParkinsonMedio);
 
+		Map<ReaderType, String> cuidadosFilenames = new EnumMap<>(ReaderType.class);
+		cuidadosFilenames.put(ReaderType.FUNDAMENTAL, termsCuidadosFundamental);
+		cuidadosFilenames.put(ReaderType.MEDIO, termsCuidadosMedio);
+
 		switch (subject) {
 		case COVID:
 			filename = covidFilenames.get(reader);
 			break;
 		case PARKINSON:
 			filename = parkinsonFilenames.get(reader);
+			break;
+		case CUIDADOS:
+			filename = cuidadosFilenames.get(reader);
 			break;
 		default:
 			filename = parkinsonFilenames.get(ReaderType.FUNDAMENTAL);

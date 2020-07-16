@@ -4,7 +4,7 @@ import static org.apache.commons.lang3.StringUtils.trimToEmpty;
 
 public enum Subject {
 
-	PARKINSON, COVID;
+	PARKINSON, COVID, CUIDADOS;
 
 	private static boolean contains(String theme) {
 		for (Subject t : Subject.values()) {
