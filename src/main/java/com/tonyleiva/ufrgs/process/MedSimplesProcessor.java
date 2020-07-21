@@ -186,11 +186,12 @@ public class MedSimplesProcessor {
 					setIgnoreMatchedItem(lemaWordList, index, term.getSize() + index);
 					shouldBreak = true;
 				}
-
-			} else {
-				logger.debug("Breaking the loop, passed the alphabetical order lema='{}', term='{}' ", lema.getLema(), term.getTerm());
-				shouldBreak = true;
 			}
+
+//			} else {
+//				logger.debug("Breaking the loop, passed the alphabetical order lema='{}', term='{}' ", lema.getLema(), term.getTerm());
+//				shouldBreak = true;
+//			}
 
 			if (shouldBreak)
 				break;
