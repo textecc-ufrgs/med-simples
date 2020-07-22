@@ -1,6 +1,7 @@
 package com.tonyleiva.ufrgs.process;
 
 import static com.tonyleiva.ufrgs.constant.MedSimplesConstants.POS_FILTER;
+import static com.tonyleiva.ufrgs.constant.MedSimplesConstants.STRING_FILTER;
 import static com.tonyleiva.ufrgs.util.ComparatorUtils.compareStrings;
 import static com.tonyleiva.ufrgs.util.ComparatorUtils.initialLetterEqualTo;
 import static com.tonyleiva.ufrgs.util.ComparatorUtils.initialLetterIsGreaterThan;
@@ -243,7 +244,8 @@ public class MedSimplesProcessor {
 	}
 
 	private void findPosFilter(List<LemaWord> lemaWordList, final int index) {
-		if (POS_FILTER.contains(lemaWordList.get(index).getPosition())) {
+		if (POS_FILTER.contains(lemaWordList.get(index).getPosition()) 
+				|| STRING_FILTER.contains(lemaWordList.get(index).getPalavra())) {
 			addMatchedFilter(lemaWordList, index);
 			setIgnoreMatchedItem(lemaWordList, index, 1 + index);
 		}

@@ -17,6 +17,7 @@ public class MedSimplesConstants {
 
 	public static final String NEW_LINE = "new_line";
 	public static final List<String> POS_FILTER = Arrays.asList("PROP", "NUM", "IN", "ART");
+	public static final List<String> STRING_FILTER = Arrays.asList(".”", "“", "∼");
 
 	public static final Charset PASSPORT_WRITE_FILE_CHARSET = StandardCharsets.UTF_8;
 	public static final Charset PASSPORT_READ_FILE_CHARSET = StandardCharsets.UTF_8;

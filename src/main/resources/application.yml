@@ -8,8 +8,8 @@ application:
         fundamental: Termos_DP_Ensino_Fundamental.txt
         medio: Termos_DP_Ensino_Medio.txt
       cuidados: 
-        fundamental: Termos_CcRN.txt
-        medio: Termos_CcRN.txt
+        fundamental: Termos_CcRN_Ensino_Fundamental.txt
+        medio: Termos_CcRN_Ensino_Fundamental.txt
     easyWords: easy_words.txt
     dictionary: simple_dic.txt
 logging:
