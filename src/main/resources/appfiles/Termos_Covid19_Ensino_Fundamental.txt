@@ -1,5 +1,4 @@
 achatar o curva 	ação para impedir que novo coronavírus se espalhe para um grande número de pessoas;  ajuda os hospitais a se prepararem para receber o maior número de pacientes
-achatamento de o curva	ação para impedir que novo coronavírus se espalhe para um grande número de pessoas;  ajuda os hospitais a se prepararem para receber o maior número de pacientes
 adenovírus 	grupo de vírus que normalmente causa doenças respiratórias, como resfriados, bronquite ou pneumonia; pode causar ainda conjuntivite e doenças nos intestinos, com sintomas como diarreia, vômito e dores de barriga
 adjuvante 	o que ajuda; remédio ou substância que, combinado a um outro, ou misturado na sua fórmula, reforça a ação do primeiro.
 aerossol 	partículas muito pequenas de poluição e poeira ou pequenas gotas que escapam da nossa boca quando falamos, tossimos ou do nosso nariz quando espirramos
@@ -62,6 +61,7 @@ coágulo 	forma sólida do sangue; o sangue perde suas características líquida
 código genético 	instruções em um gene que dizem para a célula como produzir uma proteína específica
 coinfecção 	quando o hospedeiro (planta ou animal) é infectado por dois ou mais tipos de vírus, bactérias etc.
 comorbidade 	quando a pessoa tem duas ou mais doenças e uma doença pode deixar a outra mais grave
+comorbidades 	quando a pessoa tem duas ou mais doenças e uma doença pode deixar a outra mais grave
 confinamento social 	medida de prevenção de doenças que reduz o contato entre pessoas e interrompe a maioria das atividades por um curto período. As pessoas evitam sair de casa. Só acontecem saídas para coisas essenciais como comprar comida, remédios e alguns tipos de trabalho
 congestão nasal 	nariz entupido
 consentimento informar 	documento que informa o paciente e/ou seus familiares/responsáveis sobre todas as consequências e riscos envolvidos em um procedimento médico

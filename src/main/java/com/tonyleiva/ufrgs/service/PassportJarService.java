@@ -38,7 +38,6 @@ public class PassportJarService {
 		long start = System.currentTimeMillis();
 
 		List<String> passportOutput = new ArrayList<>();
-		List<String> allLines = new ArrayList<>();
 		try {
 			String command = "java -jar passport.jar passport.config files/" + filename + " FORM;LEMMA;UPOS ";
 			File dir = new File(PASSPORT_PATH);
@@ -52,20 +51,25 @@ public class PassportJarService {
 			boolean newLine = false;
 			while ((line = reader.readLine()) != null) {
 				if (StringUtils.isNotBlank(line)) {
-					allLines.add(line + "\n");
 					if (!line.startsWith("##")) {
-						if (newLine && line.startsWith("#", 2)) {
-							passportOutput.add(NEW_LINE);
+						if (isNewLineSymbol(line)) {
+							if (newLine) {
+								passportOutput.remove(passportOutput.size() - 1);
+								passportOutput.add(NEW_LINE);
+								newLine = false;
+							} else {
+								passportOutput.add(line);
+								newLine = true;
+							}
 						} else {
 							passportOutput.add(line);
 							newLine = false;
 						}
-					} else {
-						newLine = true;
 					}
 				}
 			}
-			logger.info("Output from passport.jar \n {}", allLines);
+			logger.info("Output from passport.jar");
+			passportOutput.stream().forEach(e -> logger.info("{}", e));
 			p.destroy();
 			reader.close();
 		} catch (Exception e) {
@@ -75,6 +79,14 @@ public class PassportJarService {
 			logger.info("execute passport elapsed_time={}", finish - start);
 		}
 		return passportOutput;
+	}
+
+	private boolean isNewLineSymbol(String line) {
+		String[] lineSplit = line.split("\\t");
+		if (lineSplit.length == 10) {
+			return "#".equals(lineSplit[1]);
+		}
+		return false;
 	}
 
 	private List<LemaWord> transformToLemaWordList(List<String> stringList) {

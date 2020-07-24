@@ -10156,7 +10156,7 @@ opugnar	abalar, acometer, agredir, assaltar, atacar, avançar, investir,  combat
 opulência	abundância, riqueza
 opulentar	enriquecer, prosperar
 opulento	brilhante, luxuoso, rico
-oral	verbal, pela voz, pela boca
+oral	pela/na boca, pela voz
 orbe	globo, mundo, planeta, terra, bola
 orbicular	circular
 orçar	avaliar, calcular, estimar, ver, fazer orçamento
