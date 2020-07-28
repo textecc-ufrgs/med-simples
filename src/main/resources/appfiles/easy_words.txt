@@ -1824,7 +1824,6 @@ pesquisa	N	34
 aparência	N	34
 saúde	PROP	34
 decisões	N	34
-submeter	V	34
 cangaceiro	N	34
 cônego	PROP	34
 normalmente	ADV	34

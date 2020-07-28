@@ -9199,6 +9199,7 @@ liberto	livre
 libidinagem	procura por prazer sexual, sensualidade
 libidinosidade	sensualidade
 libidinoso	sensual, relativo ao  prazer sexual
+libido	vontade de fazer sexo, tesão
 librar	elevar, erguer, levantar, equilibrar,  basear,  suspender, sustentar
 librar-se	consistir,suspender, basear
 licenciamento	licença, permissão,  permissão para dar aula, grau universitário que forma professores
@@ -10167,6 +10168,7 @@ ordinário	bruto, grosseiro, grosso
 orfanar	excluir, privar, tirar
 orfandade	orfanato, abandono
 organismo	órgão, corpo, ser
+orgasmo	momento máximo de prazer em uma relação sexual
 orgia	exagero
 oriente	este, leste, levante
 orifício	abertura, buraco, fresta, ruptura, vão
