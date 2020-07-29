@@ -23,7 +23,7 @@ public class PassportFileService {
 		Path path = Paths.get(PASSPORT_FILES_PATH, filename);
 		try {
 			// Change '\n' for ' ' - Before '\n' for '# ' to detect new line
-			Iterable<String> sc = () -> new Scanner(fileContent.replace("\n", " ## "))
+			Iterable<String> sc = () -> new Scanner(fileContent)
 					.useDelimiter(System.getProperty("line.separator"));
 			Files.write(path, sc, PASSPORT_WRITE_FILE_CHARSET);
 			fileCreated = true;

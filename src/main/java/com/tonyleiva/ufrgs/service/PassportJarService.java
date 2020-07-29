@@ -1,6 +1,5 @@
 package com.tonyleiva.ufrgs.service;
 
-import static com.tonyleiva.ufrgs.constant.MedSimplesConstants.NEW_LINE;
 import static com.tonyleiva.ufrgs.constant.MedSimplesConstants.PASSPORT_PATH;
 import static com.tonyleiva.ufrgs.constant.MedSimplesConstants.PASSPORT_READ_FILE_CHARSET;
 
@@ -48,23 +47,10 @@ public class PassportJarService {
 			BufferedReader reader = new BufferedReader(
 					new InputStreamReader(p.getInputStream(), PASSPORT_READ_FILE_CHARSET));
 			String line;
-			boolean newLine = false;
 			while ((line = reader.readLine()) != null) {
 				if (StringUtils.isNotBlank(line)) {
 					if (!line.startsWith("##")) {
-						if (isNewLineSymbol(line)) {
-							if (newLine) {
-								passportOutput.remove(passportOutput.size() - 1);
-								passportOutput.add(NEW_LINE);
-								newLine = false;
-							} else {
-								passportOutput.add(line);
-								newLine = true;
-							}
-						} else {
-							passportOutput.add(line);
-							newLine = false;
-						}
+						passportOutput.add(line);
 					}
 				}
 			}
@@ -79,14 +65,6 @@ public class PassportJarService {
 			logger.info("execute passport elapsed_time={}", finish - start);
 		}
 		return passportOutput;
-	}
-
-	private boolean isNewLineSymbol(String line) {
-		String[] lineSplit = line.split("\\t");
-		if (lineSplit.length == 10) {
-			return "#".equals(lineSplit[1]);
-		}
-		return false;
 	}
 
 	private List<LemaWord> transformToLemaWordList(List<String> stringList) {
