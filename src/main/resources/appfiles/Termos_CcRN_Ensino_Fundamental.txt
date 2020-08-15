@@ -1,777 +1,833 @@
-abertura traqueal 	procedimento cirúrgico feito quando uma pessoa não consegue respirar pela boca ou nariz, algo como um "buraco na garganta para permitir a passagem de ar";  o mesmo que "traquestomia"
-abscesso mamário 	tipo de ferida causada por inflamação não tratada nas mamas.  O não-esvaziamento adequado do seio nas mamadas favorece inchaço e inflamações
-absenteísmo 	falta ao trabalho
-acalasia de esôfago 	problema nos movimentos do esôfago, caracterizado por ausência de contrações musculares na parte inferior do esôfago
-acesso venoso 	acesso a veias do corpo por meio de agulhas ou catéteres
-achado endoscópico 	resultados de biópsia realizada para confirmação de doenças do esôfago, estômago e intestinos
-achado ultra sonográfico 	dados obtidos em exames feitos com ultrasonografia, tipo ecografia
-achado ultrassonográfico 	dados obtidos em exames feitos com ultrasonografia, tipo ecografia
-acidente 	situação ou acontecimento que causa danos a uma pessoa. Em Pediatria, é importante alertar não ocorre por acaso, de modo imprevisível 
-acidente doméstico 	situação ou acontecimento que causa danos a uma pessoa no local em que mora. Em Pediatria, é importante alertar não ocorre por acaso, de modo imprevisível 
-acidente por submersão 	afogamento; em Pediatria, é importante alertar que um "acidente" não ocorre por acaso, de modo imprevisível
-ácido acetilsalicílico 	aspirina;  remédio utilizado no tratamento da dor de intensidade leve à moderada
-ácido clorídrico 	ácido presente no estômago que ajuda a digerir os alimentos
-ácido fólico 	membro da família da vitamina B; importante para a gestante, pois ajuda na formação do corpo do bebê
-ácido valpróico 	substância utilizada no tratamento de convulsões e epilepsia
-ácidos graxo 	tipo de forma gordura que tem como principal função ser fonte e reserva de energia para o organismo
-acidose metabólica 	quando há o acúmulo de ácidos na corrente sanguínea e o corpo não cosegue funcionar direito
-adeno hipófise 	glândula pequena que produz hormônios que regulam funções vitais como crescimento, metabolismo e reprodução
-aditivo 	substância que se acrescenta a outra(s) para mudar suas propriedades
-aedes aegypt 	mosquito que transmite o vírus de doenças como dengue, zika e chikungunya, que podem gerar problemas no cérebro de bebês e crianças infectadas
-aerossol dosimetrar com espaçador 	aparelho médico usado para colocar a quantidade correta de medicação a ser liberada em uma inalação. Geralmente é um pequeno tubo aerosol colocado em um recipiente de plástico. Quando o tubo é pressionado, apenas a quantidade necessária do remédio é liberada; ver *espaçador
-afebril 	sem febre
-afecção 	doença
-afogamento 	impossibilidade de respirar causada pela entrada de água nos pulmões
-ágar chocolate 	tipo de gelatina usada em exames de laboratório para verificar a presença de bactérias
-agenesia 	falta de um órgão
-agente etiológico 	agente causador ou responsável por uma doença. Pode ser vírus, bactéria, fungo, protozoário; o mesmo que "patógeno"
-agente imunizante 	substância presente em uma vacina, geralmente um vírus enfraquecido, que faz com que o corpo aprenda a se defender contra uma doença
-agente infeccioso 	agente biológico capaz de produzir infecção ou doença infecciosa
-agravo 	dano à pessoa causado pelos chamados "acidentes" e por diferentes tipos de agressões; termo do Ministério da Saúde do Brasil. Inclui intoxicações, abuso de drogas, lesões por violências, agressões e maus tratos e lesão que a própria pessoa cria ou faz em si mesma
-agudo 	doença aguda; manifestação repentina e intensa dos sintomas de uma doença, acompanhada de evolução rápida
-alcalina 	que tem baixa acidez
-alcalino 	que tem baixa acidez
-alcoolismo 	doença caracterizada pelo consumo incontrolável de bebidas alcoólicas; a pessoa bebe muito, a toda hora, sem controle
-aleitamento materno 	quando a mãe dá de mamar ao bebê, com o leite do seu peito
-aleitamento materno exclusivo 	quando a criança recebe leite do peito da mãe como única fonte de hidratação e nutrição
-aleitamento misto 	quando o bebê recebe leite do peito da mãe e mais qualquer outro tipo de leite
-aleitamento em  o alta 	padrão da amamentação da mãe para o bebê, após a saída do hospital
-aleitamento natural 	alimentação da criança apenas no peito da mãe, sem o bebê receber nada artiicial, nem complemento, nem chás ou água
-alergênico 	que causa alergia, irritação
-alérgenos inalante 	substâncias capazes de causar alergias quando entram no corpo pela respiração. As principais são mofo: pelos de animais, ácaros, poeira, pólens de flores, lã e até pedacinhos de insetos
-alergia a o leite 	alergia causada pela proteína presente no leite
-alfa interferon 	substância usada em medicamentos para combater infecções causadas por vírus e tumores
-alimentação complementar 	período em que outros alimentos ou líquidos são oferecidos à criança, além do leite materno
-alta hospitalar 	documento do encerramento da assistência prestada ao paciente em um hospital; deve ser assinado pelo médico
-alta médica hospitalar 	documento do encerramento da assistência prestada ao paciente em um hospital; deve ser assinado pelo médico
-alveolite 	inflamação de cavidades ou de células chamadas alvéolos
-alvo parental 	relação entre a altura de uma criança e a altura de seus pais
-amamentação exclusivo 	quando se oferece somente leite do peito da mãe para a criança
-ambulatório 	local ou serviço de saúde destinado a atendimento de pacientes sem internação
-amigdalite 	infecção nas amígdalas, estruturas dentro boca, perto da garganta; causa dores de garganta frequentes com pus e inchaço e ainda pode causar febre, dores de cabeça e nas articulações, entre outros problemas
-amniocentese 	exame do líquido da barriga da mãe, o líquido amniótico
-amônia 	substância presente em alguns produtos de limpeza ou materiais plásticos; deve ser mantida fora do alcance de crianças 
-anamnese 	conversa entre o profissional de saúde ao seu paciente, durante uma consulta, para que exista um ponto inicial no diagnóstico
-ancilostomose 	o mesmo que "amarelão", doença causa por um verme
-anemia falciforme 	tipo de anemia em que os glóbulos vermelhos do sangue ficam mais rígidos e menos arredondados, parecidos com uma foice; gera uma série de problemas para a pessoa. Pode ser descoberta no "teste do pezinho". Ver *doença falciforme
-anemia hemolítica 	tipo de anemia em que os glóbulos vermelhos circulam de modo inadequado ou tornam-se insuficientes
-anestésico 	medicamento que reduz ou tira a sensibilidade, reduzindo ou eliminando a dor
-anestesiologista 	médico que administra medicamentos como anestésicos (que reduzem a sensibilidade e a dor) e que acompanha as funções vitais (batimentos cardíacos, respiração, etc.) do paciente em uma cirurgia
-anestesista 	médico que administra medicamentos como anestésicos (que reduzem a sensibilidade e a dor) e que acompanha as funções vitais (batimentos cardíacos, respiração, etc.) do paciente em uma cirurgia
-aningapara 	planta venenosa também chamada de "comigo-ninguém-pode"; deve ser mantida fora do alcance de crianças, pois pode causar machucados nos lábios e na boca ou lesões internas
-antecedente 	caso anterior, histórico, ocorrências anteriores
-antecedente familiar 	histórico de doenças ou condições que afetam ou já afetaram parentes do paciente
-antecedente pessoal 	histórico da pessoa, ocorrências anteriores com a pessoa
-anti histamínico 	remédios geralmente usados para tratar alergias 
-anti retroviral 	remédios utilizados para tratar infecções por retrovírus, tipo de vírus que contém RNA.  O HIV é um tipo de retrovírus
-antiácido 	remédio que diminui o nível de ácido no estômago
-antibiótico 	remédio usados para tratar infecções causadas por bactérias
-anticoncepção de emergência 	método para evitar a gravidez após a relação sexual. Conhecido por “pílula do dia seguinte”, usa hormônios concentrados e por curto período de tempo, nos dias seguintes da relação sexual sem proteção
-anticorpo 	proteína presente no sangue que ajuda a proteger a pessoa contra doenças
-antiderrapante 	que não deixar escorregar
-antiemético 	remédio usado para evitar vômitos
-antipirético 	medicamento que previne ou diminui a febre
-antitérmico 	medicamento que previne ou diminui a febre
-apgar 	o mesmo que "teste de Apgar" ou "escala de Apgar"; exame do recém-nascido para avaliar suas condições vitais. Realizado pelo pediatra no primeiro e no quinto minuto de vida, avalia: batimentos do coração, respiração, tônus muscular, respostas a estímulos e cor da pele
-apneia 	parada temporária da respiração
-apojadura 	"descida" do leite após o parto, quando os seios ficam cheios de leite
-arcar dentária 	conjunto de dentes e ossos que os sustentam
-aréola 	tipo de círculo, de cor entre marrom e rosa, em volta do bico do seio
-artrite crônica 	inflamação repetida nas juntas dos ossos, com inchaço, vermelhidão e dor
-artrite idiopática juvenil 	doença inflamatória crônica, sem causa definida, que atinge as juntas dos ossos e outros órgãos, como a pele, os olhos e o coração. Causa dor, aumento de tamanho e de temperatura de uma ou mais juntas. Em algumas crianças, a dor é mínima ou até mesmo inexistente; a doença costuma começar antes dos 17 anos de idade. O mesmo que "Artrite Reumatoide Juvenil"
-artrite reumatóide juvenil 	o mesmo que "Artrite Idiopática Juvenil"; doença inflamatória crônica, sem causa definida, que atinge as juntas dos ossos e outros órgãos, como a pele, os olhos e o coração. Causa dor, aumento de tamanho e de temperatura de uma ou mais juntas. Em algumas crianças, a dor é mínima ou até mesmo inexistente; a doença costuma começar antes dos 17 anos de idade
-ascaridíase 	 doença em que pessoa tem lombrigas; verminose causa pelo parasita Ascaris lumbricoides
-ascite 	o mesmo que "barriga d'água";  condição associada a doenças em que a pessoa fica com líquidos acumulados dentro da barriga
-asfixia 	quando a respiração da pessoa fica impedida
-asma 	doença crônica, com crises de curta duração, causada por contato com substâncias irritantes, fatores emocionais ou atividade física, que produz inflamação dos tubos que levam o ar para dentro dos pulmões. Esses tubos ficam estreitos e inchados, causando dificuldades para respirar. A asma não é transmitida de pessoa para pessoa. O mesmo que *bronquite asmática
-aspiração 	absorver algo pela respiração; inalação, ato de levar algo até os pulmões
-assadura 	irritação na pele do bebê - vermelhidão, bolhas ou feridas - que aparece nas áreas encostadas nas fraldas por causa do contato com o xixi e o cocô
-assento de elevação 	a pesquisar
-assento elevador 	a pesquisar
-assepsiar 	limpeza
-audição 	capacidade de ouvir e entender os sons
-autismo 	conjunto de condições mentais que causam problemas graves no desenvolvimento da criança, prejudicando sua capacidade de comunicação e relacioanamento com outras pessoas
-azocorante 	substância tóxica que pode causar alergia; pode ser encontrada nos fios de tecido das roupas de crianças 
-banco de leite 	centro especializado, ligado a hospital ou maternidade, responsável por incentivar a amamentação do bebê no peito da mãe; coleta, processa e controla a qualidade do leite das mães para distribuição para quem precise, por indicação de médico ou nutricionista 
-barreira hematoencefálica 	a pesquisar
-bcg 	vacina obrigatória para o recém-nascido que protege contra a tuberculose; sigla de Bacillus Calmette-Guérin (BCG)
-bebê conforto 	tipo de assento, como uma pequena poltrona, usado para criança dormir ou comer
-bebê conforto 	tipo de assento, como uma pequena poltrona, usado para criança dormir ou comer
-bebê hipotônico 	a pesquisar
-benzocaína 	a pesquisar
-bexiga neurogênica 	perda da função normal da bexiga provocada pela lesão de uma parte do sistema nervoso
-bile 	líquido produzido no fígado que ajuda a dissolver as gorduras que do que comemos
-blues puerperal 	tristeza que atinge a mãe depois do parto; menos forte do que a depressão pós-parto;  "blues" em inglês também significa triste
-bomba de extração láctea 	aparelho para tirar o leito do seio da mãe
-bomba de infusão de insulina 	aparelho eletrônico com agulha que fica ligado ao corpo do paciente liberando insulina
-borborigmo 	barulhos no estômago
-bronquiolite 	infecção nos bronquíolos, ramificações dos brônquios que levam oxigênio aos pulmões
-bronquiolite aguda 	infecção nos bronquíolos, ramificações dos brônquios que levam oxigênio aos pulmões. Em geral, sua causa é o vírus sincicial respiratório (VSR), que ataca principalmente crianças até os 2 anos de idade. Causa dificuldades para respirar
-bronquiolite viral aguda 	infecção nos bronquíolos, ramificações dos brônquios que levam oxigênio aos pulmões. Em geral, sua causa é o vírus sincicial respiratório (VSR), que ataca principalmente crianças até os 2 anos de idade. Causa dificuldades para respirar
-bronquite 	Inflamação da mucosa dos tubos que transportam o ar para dentro e para fora dos pulmões; caracterizada por tosse e chiado no peito
-bronquite alérgica 	Inflamação da mucosa dos tubos que transportam o ar para dentro e para fora dos pulmões provocada por uma alergia; caracterizada por tosse e chiado no peito
-bronquite asmática 	o mesmo que *asma. Doença crônica, com crises de curta duração, causada por contato com substâncias irritantes, fatores emocionais ou atividade física, que produz inflamação dos tubos que levam o ar para dentro dos pulmões. Esses tubos ficam estreitos e inchados, causando dificuldades para respirar. A asma não é transmitida de pessoa para pessoa
-bulimia 	quando uma pessoa, de modo repetido, come com muito exagero coisas muito calóricas e, em seguida, com medo de engordar, provoca vômito, toma laxantes ou faz atividade física super exagerada
-bulimia nervoso 	problema alimentar em que a pessoa algumas vezes come em quantidade muito exagerada, geralmente coisas muito calóricas, e logo depois, para evitar o ganho de peso, provoca vômitos, usa laxantes e diuréticos, faz jejum prolongado e ou pratica atividade física até não aguentar mais. A pessoa precisa repetir esse comportamento durante três meses, no mínimo, para ser considerada portadora de bulimia nervosa
-cadeira de ninar 	equipamento em que a criaça fica sentada e é balançada para dormir
-cadeira 	assento especial para transportar crianças de modo seguro em carros
-cálcio 	nutriente encontrado em alguns alimentos que ajuda na formação e manutenção dos ossos
-cálculo em  o rim 	formação de cristais, como uma "pedrinha", nos rins ou em outras partes relacionadas a ele
-cálculo renal 	formação de cristais, como uma "pedrinha", nos rins ou em outras partes relacionadas a ele
-clampeamento 	no monento do nascimento, quando o médico prende o cordão umbilical com um grampo e o corta
-clampeamento de o cordão umbilical 	no monento do nascimento, quando o médico prende o cordão umbilical com um grampo e o corta
-canal biliar 	canal que liga a vesicula ao estômago, levando a bile
-câncer de pele 	tumor na pele, em forma de ferida, sinal, pinta ou mancha; geralmente atinge mais pessoas que tomam sol sem proteção
-candidíase mamária 	o mesmo que "monilíase", infecção  que pode atingir o bico do seio, aréola ou o interior da mama, causada por fungo (cândida ou monília), o mesmo que causa o “sapinho” na boca das crianças
-car bed 	espécie de caminha que se coloca no chão do carro para transportar o bebê recém-nascido
-carboidrato 	tipo de açúcar; substância presente nos alimentos que ajuda a gerar energia para o corpo
-cardíaco 	relacionado ou que pertence ao coração
-cardiopatia congênita 	qualquer problema na estrutura ou na função do coração que surge nas primeiras 8 semanas de gestação, quando se forma o coração do bebê
-cardiovascular 	relativo ao coração ou à circulação de sangue
-cárie 	lesão nos dentes que pode se transformar em pequenos buracos no dente; causada por bactérias que se alimentam do açúcar de restos de alimentos que ficam na boca
-caseína 	proteína do leite que pode causar alergia em algumas pessoas
-catapora 	o mesmo que "varicela"; doença infecciosa e altamente contagiosa causada pelo vírus Varicela-Zoster que se manifesta com maior frequência em crianças. A principal característica clínica são lesões na pele acompanhadas de coceira
-catarata 	problema de visão em que a pessoa começa a ver as coisas como se estivessem atrás de uma nuvem
-catarata congênita 	problema de formação de parte do olho do bebê, fazendo com que nasça com uma película branca dentro do olho. Essa película afeta a visão do bebê, e deve ser removida com cirurgia; pode ser descoberto pelo "teste do olhinho"
-catar 	tipo de tubo muito fino, semelhante a uma agulha, que é introduzido no paciente para aplicar medicamentos, retirar líquidos ou fazer exames; o mesmo que "catéter"
-catéter 	tipo de tubo muito fino, semelhante a uma agulha, que é introduzido no paciente para aplicar medicamentos, retirar líquidos ou fazer exames; o mesmo que "cateter"
-cavidade oral 	a boca e suas estruturas como dentes e língua
-cegueira 	perda total ou parcial da visão
-célula nervoso 	a pesquisar 
-centro de controlo de intoxicações 	a pesquisar
-ceratoconjuntivite 	a pesquisar
-chikungunya 	vírus que causa a febre chikungunya, doença transmitida pela picada do mosquito que carrega o vírus; em crianças, além de febre, pode causar manchas e bolhas pelo corpo ou problemas no cérebro; a mãe pode transmitir a doença para o bebê na hora do parto
-choque anafilático 	forma mais grave de reação a alguma alergia, que toma conta de todo o corpo e pode causar morte se a pessoa tiver atendimento de urgência
-choque séptico 	"quando a resposta do sistema de defesa do corpo a uma infecção cria problemas para o organismo, fazendo com que vários órgãos parem de funcionar; o mesmo que ""sepse""
+abertura traqueal	cirurgia em que se faz um buraco na garganta para permitir a passagem de ar em pessoas que não conseguem respirar pela boca ou nariz; o mesmo que "traqueostomia"
+abscesso mamário	ferida no seio causada por inflamação não tratada. Ocorre em mães que estão dando de mamar e não esvaziam bem a mama. O leite fica parado e favorece inchaço, inflamações e infecções.
+absenteísmo	falta ao trabalho
+acalasia de esôfago	problema nos movimentos do esôfago, caracterizado por ausência de contrações musculares na parte inferior do esôfago
+acesso venoso	acesso a veias do corpo por meio de agulhas ou catéteres
+achado endoscópico	o que se vê com a introdução de uma câmera dentro da pessoa, inserida da boca até o estômago, por exemplo.
+achado ultra sonográfico	o que se vê com o aparelho de ultrassom, que lança sons com um microfone para dentro da pessoa e capta o eco
+achado ultrassonográfico	o que se vê com o aparelho de ultrassom, que lança sons com um microfone para dentro da pessoa e capta o eco
+acidente	acontecimento que não foi desejado e que pode causar danos físicos ou emocionais a uma pessoa. Na Pediatria, é importante alertar que os acidentes não ocorrem por acaso ou de modo imprevisível e podem ser evitados com medidas de prevenção
+acidente doméstico	acontecimento que não foi desejado e que pode causar danos físicos ou emocionais a uma pessoa, que ocorre dentro de casa. Na Pediatria, é importante alertar que os acidentes não ocorrem por acaso ou de modo imprevisível e podem ser evitados com medidas de prevenção
+acidente por submersão	afogamento; em Pediatria, é importante alertar que um "acidente" não ocorre por acaso, de modo imprevisível
+ácido acetilsalicílico	remédio utilizado no tratamento da dor de intensidade leve à moderada; em crianças pode causar Síndrome de Reye, com danos ao cérebro e ao fígado, que apesar de pouco comum, pode levar à morte
+ácido clorídrico	ácido presente no estômago que ajuda a digerir os alimentos
+ácido fólico	membro da família da vitamina B; importante para a gestante, pois ajuda na formação do corpo do bebê
+ácido valpróico	substância utilizada no tratamento de convulsões e epilepsia
+ácidos graxo	tipo de forma gordura que tem como principal função ser fonte e reserva de energia para o organismo
+acidose metabólica	quando há o acúmulo de ácidos na corrente sanguínea e o corpo não cosegue funcionar direito
+adeno hipófise	glândula pequena localizada no cérebro que produz hormônios que regulam funções vitais como crescimento, metabolismo e reprodução
+aditivo	substância que se acrescenta a outra(s) para mudar suas propriedades
+adjuvante	o que ajuda; remédio ou substância que, combinado a um outro, ou misturado na sua fórmula, reforça a ação do primeiroadjuvante
+aedes aegypt	mosquito que transmite o vírus de doenças como dengue, zika e chikungunya, que podem gerar problemas no cérebro de bebês e crianças infectadas
+aerossol dosimetrar com espaçador	bombinha encaixada em um balão de inalação, que libera a quantidade certa do remédio ; ver "espaçador"
+afebril	sem febre
+afecção	doença
+afogamento	impossibilidade de respirar causada pela entrada de água nos pulmões
+ágar chocolate	tipo de gelatina marrom usada em exames de laboratório para verificar a presença de bactérias
+agenesia	falta de um órgão
+agente etiológico	o que que causa uma doença. Pode ser vírus, bactéria, fungo, protozoário; o mesmo que "patógeno"
+agente imunizante	substância presente em uma vacina, geralmente um vírus enfraquecido, que faz com que o corpo aprenda a se defender contra uma doença
+agente infeccioso	organismo capaz de causar infecção ou doença infecciosa
+ageusia	quando a pessoa perde o paladar, não sente gosto
+agravo	dano à pessoa causado pelos chamados "acidentes" e por diferentes tipos de agressões; termo do Ministério da Saúde do Brasil. Inclui intoxicações, abuso de drogas, lesões por violências, agressões e maus tratos e lesão que a própria pessoa cria ou faz em si mesma
+agudo	qualidade da doença aguda; que aparece de repente e evolui rápido
+alcalina	que tem baixa acidez; que é pouco ácida; que tem pH maior que 7
+alcalino	que tem baixa acidez; que é pouco ácida; que tem pH maior que 7
+alcoolismo	doença caracterizada pelo consumo incontrolável de bebidas alcoólicas; a pessoa bebe muito, a toda hora, sem controle
+aleitamento materno	quando a mãe dá de mamar ao bebê, com o leite do seu peito
+aleitamento materno exclusivo	quando a criança recebe leite do peito da mãe como única fonte de hidratação e nutrição
+aleitamento misto	quando o bebê recebe leite do peito da mãe e mais qualquer outro tipo de leite
+aleitamento em  o alta	recomendações e conselhos sobre amamentar que a mãe recebe quando sai do hospital
+aleitamento natural	situação em que um bebê se alimenta somente do leite da mãe, sem receber nenhum outor tipo de comida, incluindo chás
+alergênico	que causa alergia, irritação
+alérgenos inalante	substâncias capazes de causar alergias quando entram no corpo pela respiração. As principais são: mofo pelos de animais, ácaros, poeira, pólens de flores, lã e até pedacinhos de insetos
+alergia a o leite	alergia causada pela proteína presente no leite
+alfa interferon	substância usada em medicamentos para combater doenças autoimunes, tumores e infecções causadas por vírus
+alimentação complementar	período em que outros alimentos ou líquidos são oferecidos à criança, além do leite materno
+alta hospitalar	ordem médica que encerra o tratamento ou internação do paciente no hospital; o médico assina um documento para que o paciente possa sair do hospital e voltar para casa
+alta médica hospitalar	ordem médica que encerra o tratamento ou internação do paciente no hospital; o médico assina um documento para que o paciente possa sair do hospital e voltar para casa
+alveolite	inflamação de sacos aéreos minúsculos presentes no pulmão, chamados alvéolos
+alvo parental	cálculo feito a partir da altura do pai e da mãe para prever a altura que a criança deverá atingir na idade adulta
+amamentação exclusivo	quando se oferece somente leite do peito da mãe para a criança
+ambulatório	local ou serviço de saúde destinado ao atendimento médico de pacientes que não precisam ser hospitalizados
+amigdalite	infecção nas amígdalas, estruturas dentro boca, perto da garganta; causa dores de garganta frequentes com pus e inchaço e ainda pode causar febre, dores de cabeça e nas articulações, entre outros problemas
+amniocentese	retirada para exame do líquido que envolve o bebê dentro barriga da mãe
+amônia	substância tóxica presente em alguns produtos de limpeza ou materiais plásticos, devendo ficar fora do alcance das crianças; substância produzida pelo intestino e transformada em ureia para ser eliminada na urina, pois seu acúmulo causa prejuízo no funcionamento cerebral
+anamnese	conversa entre o profissional de saúde ao seu paciente, durante uma consulta, para um ponto inicial no diagnóstico
+ancilostomose	o mesmo que "amarelão"; doença intestinal causada por um verme
+anemia falciforme	tipo de anemia em que os glóbulos vermelhos do sangue ficam mais rígidos e menos arredondados, parecidos com uma foice; gera uma série de problemas. Pode ser descoberta no "teste do pezinho". Ver "doença falciforme"
+anemia hemolítica	doença em que os glóbulos vermelhos do sangue são atacados e destruídos por células de defesa do próprio sistema de imunidade da pessoa
+anestésico	medicamento que reduz ou tira a sensibilidade, reduzindo ou eliminando a dor
+anestesiologista	médico que administra medicamentos como anestésicos (que reduzem a sensibilidade e a dor) e que acompanha as funções vitais (batimentos cardíacos, respiração, etc.) do paciente em uma cirurgia
+anestesista	médico que administra medicamentos como anestésicos (que reduzem a sensibilidade e a dor) e que acompanha as funções vitais (batimentos cardíacos, respiração, etc.) do paciente em uma cirurgia
+aningapara	planta venenosa também chamada de "comigo-ninguém-pode"; deve ser mantida fora do alcance de crianças, pois pode causar machucados nos lábios e na boca ou lesões internas
+antecedente	caso anterior, aquilo que aconteceu antes, histórico, ocorrências anteriores
+antecedente familiar	histórico de doenças ou condições que afetam ou já afetaram parentes do paciente
+antecedente pessoal	histórico do próprio paciente; coisas que aconteceram antes com o paciente; ocorrências anteriores com a pessoa
+anti histamínico	remédios geralmente usados para tratar alergias 
+anti retroviral	remédios para tratar infecções causadas por retrovírus, tipo de vírus que contém RNA e produz DNA a partir do RNA. O HIV é um tipo de retrovírus
+antiácido	remédio que diminui o nível de ácido no estômago
+antibiótico	remédio usados para tratar infecções causadas por bactérias
+anticoncepção de emergência	método para evitar a gravidez após a relação sexual. Conhecido por “pílula do dia seguinte”, usa hormônios concentrados e por curto período de tempo, nos dias seguintes da relação sexual sem proteção
+anticorpo	proteína do sangue que ajuda o sistema de imunidade da pessoa na defesa e proteção contra doenças
+antiderrapante	que não deixar escorregar
+antiemético	remédio usado para evitar vômitos
+antipirético	medicamento que diminui a temperatura do corpo em situação de febre. Ver "febre"
+antitérmico	medicamento que diminui a temperatura do corpo em situação de febre; mesmo que "antipirético", ver "febre"
+anvisa	órgão do governo brasileiro que controla a produção, distribuição e venda de produtos e serviços envolvendo alimentos e remédios
+apgar	nome informal para "escore de Apgar"; cáculo a partir do exame do recém-nascido, realizado no primeiro, no quinto e no décimo minuto de vida, para avaliar suas condições vitais
+apneia	parada temporária da respiração
+apojadura	"descida" do leite após o parto; período cerca de 3 a 5 dias após o parto em que os seios podem inchar e doer, pela maior produção de leite
+arcar dentária	conjunto dos dentes presentes na boca das pessoas e dos ossos que seguram os dentes na boca
+aréola	tipo de círculo, de cor entre marrom e rosa, em volta do bico do seio
+artrite crônica	inflamação de longa duração nas juntas dos ossos, com inchaço, vermelhidão e dor
+artrite idiopática juvenil	doença inflamatória crônica, sem causa definida, que atinge as juntas dos ossos e outros órgãos, como a pele, os olhos e o coração. Causa dor, aumento de tamanho e de temperatura de uma ou mais juntas. Em algumas crianças, a dor é mínima ou até mesmo inexistente; a doença costuma começar antes dos 17 anos de idade. O mesmo que "artrite reumatoide juvenil"
+artrite reumatóide juvenil	o mesmo que "artrite idiopática juvenil"; doença inflamatória crônica, sem causa definida, que atinge as juntas dos ossos e outros órgãos, como a pele, os olhos e o coração. Causa dor, aumento de tamanho e de temperatura de uma ou mais juntas. Em algumas crianças, a dor é mínima ou até mesmo inexistente; a doença costuma começar antes dos 17 anos de idade
+ascaridíase	 doença em que pessoa tem lombrigas; verminose causa pelo parasita Ascaris lumbricoides
+ascite	o mesmo que "barriga d'água";  condição associada a doenças em que a pessoa fica com líquidos acumulados dentro da barriga
+asfixia	quando a respiração da pessoa fica impedida
+asma	doença crônica, com crises de curta duração, causada por contato com substâncias irritantes, fatores emocionais ou atividade física, que produz inflamação dos tubos que levam o ar para dentro dos pulmões. Esses tubos ficam estreitos e inchados, causando dificuldades para respirar. A asma não é transmitida de pessoa para pessoa. O mesmo que "bronquite asmática"
+aspiração	absorver algo pela respiração; inalação, ato de levar algo até os pulmões
+assadura	irritação na pele do bebê - vermelhidão, bolhas ou feridas - que aparece nas áreas encostadas nas fraldas por causa do contato com o xixi e o cocô
+assento de elevação	dispositivo de segurança para passageiros de automóvel, recomendado para crianças que já não caibam na cadeirinha infantil, mas ainda não tenham o tamanho suficiente para usar o cinto de segurança, ou seja, ainda não tenham atingido a altura de 1,45 metro, o que pode ocorrer entre 9 e 13 anos. Também chamado de "assento elevador" ou "booster"
+assento elevador	dispositivo de segurança para passageiros de automóvel, recomendado para crianças que já não caibam na cadeirinha infantil, mas ainda não tenham o tamanho suficiente para usar o cinto de segurança, ou seja, ainda não tenham atingido a altura de 1,45 metro, o que pode ocorrer entre 9 e 13 anos.o mesmo que "assento de elevação" ou "booster".
+assepsiar	limpeza
+Limpeza para impedir a presença de germes que podem causar doenças e impedir infecções.
+audição	capacidade de ouvir e entender os sons
+autismo	conjunto de condições mentais que causam problemas graves no desenvolvimento da criança, prejudicando sua capacidade de comunicação e relacioanamento com outras pessoas
+azocorante	substância tóxica que pode causar alergia; pode ser encontrada nos fios de tecido das roupas de crianças, alimentos e remédios
+bacilo de koch	bactéria também chamada "Mycobacterium tuberculosis", que causa a maioria dos casos de "tuberculose"
+banco de leite	centro especializado, ligado a hospital ou maternidade, responsável por incentivar a amamentação do bebê no peito da mãe; coleta, processa e controla a qualidade do leite das mães para distribuição para quem precise, por indicação de médico ou nutricionista 
+barreira hematoencefálica	estrutura que protege o cérebro de substâncias que presentes que no sangue que podem ser tóxicas; é essencial para o funcionamento normal do cérebro
+bcg	vacina obrigatória para o recém-nascido que protege contra a tuberculose; sigla de Bacillus Calmette-Guérin (BCG)
+bebê conforto	bebê-conforto; tipo de assento de segurança para levar crianças pequenas em viagens de automóvel. Recomendado para crianças de até dois ou três anos, que ainda não tenham o tamanho sufiente para viajarem na cadeirinha infantil e é preso no banco traseiro do carro, sempre virado para trás.
+bebê hipotônico	Bebê com redução dos movimentos; ausência de movimentos fortes nos braços e nas pernas.
+bebê conforto	tipo de assento de segurança para levar crianças pequenas em viagens de automóvel. É recomendado para crianças de até dois ou três anos, que ainda não tenham o tamanho sufiente para viajarem na cadeirinha infantil e é preso no banco traseiro do carro, sempre virado para trás
+benzocaína	anestésico tópico, usado na superfício do corpo
+bexiga neurogênica	falta de controle da bexiga causada por uma lesão no sistema nervoso
+bile	líquido produzido no fígado que ajuda a dissolver as gorduras que do que comemos
+bilirrubina	substância amarelada encontrada na bile, que permanece no sangue até ser eliminada na urina. É o que sobra da renovação constante dos glóbulos vermelhos do sangue
+blues puerperal	palavra em inglês; significa a tristeza passageira que uma mãe normal pode sentir nos primeiros dias depois do parto; caso se prolongue, pode se tratar de "depressão pós-parto"
+bomba de extração láctea	aparelho para tirar o leito do seio da mãe
+bomba de infusão de insulina	aparelho eletrônico com agulha que fica ligado ao corpo do paciente liberando insulina; aparelho utilizado no tratamento do diabetes
+borborigmo	barulhos no estômago
+bronquiolite	infecção nos bronquíolos, ramificações dos brônquios que levam oxigênio aos pulmões
+bronquiolite aguda	infecção nos bronquíolos, ramificações dos brônquios que levam oxigênio aos pulmões. Em geral, provocada pelo vírus sincicial respiratório (VSR), que ataca principalmente crianças até os 2 anos de idade e casua dificuldades para respirar
+bronquiolite viral aguda	infecção nos bronquíolos, ramificações dos brônquios que levam oxigênio aos pulmões. Em geral, provocada pelo vírus sincicial respiratório (VSR), que ataca principalmente crianças até os 2 anos de idade e casua dificuldades para respirar
+bronquite	inflamação da membrana que reveste os tubos que transportam o ar para dentro e para fora dos pulmões; caracterizada por tosse e chiado no peito
+bronquite alérgica	inflamação da membrana que reveste os tubos que transportam o ar para dentro e para fora dos pulmões provocada por uma alergia; caracterizada por tosse e chiado no peito
+bronquite asmática	o mesmo que "asma". Doença crônica, com crises de curta duração, causada por contato com substâncias irritantes, fatores emocionais ou atividade física, que produz inflamação dos tubos que levam o ar para dentro dos pulmões. Esses tubos ficam estreitos e inchados, causando dificuldades para respirar. A asma não é transmitida de pessoa para pessoa
+booster	palavra em inglês para "assento de elevação"; dispositivo de segurança para passageiros de automóvel, recomendado para crianças que já não caibam na cadeirinha infantil, mas ainda não tenham o tamanho suficiente para usar o cinto de segurança, ou seja, ainda não tenham atingido a altura de 1,45 metro, o que pode ocorrer entre 9 e 13 anos
+bulimia	quando uma pessoa, de modo repetido, come com muito exagero coisas muito calóricas e, em seguida, com medo de engordar, provoca vômito, toma laxantes ou faz atividade física super exagerada
+bulimia nervoso	problema alimentar em que a pessoa algumas vezes come em quantidade muito exagerada, geralmente coisas muito calóricas, e logo depois, para evitar o ganho de peso, provoca vômitos, usa laxantes e diuréticos, faz jejum prolongado e ou pratica atividade física até não aguentar mais. A pessoa precisa repetir esse comportamento durante três meses, no mínimo, para ser considerada portadora de bulimia nervosa
+cadeira de ninar	equipamento em que a criaça fica sentada e é balançada para dormir
+cadeira	quando associada à segurança de passageiros de automóveis, é o assentinho de segurança especial para transportar crianças pequenas. Pela lei, é obrigatória apenas até os 4 anos de idade, mas especialistas orientam usar enquanto o tamanho da criança estiver dentro dos limites indicados pela fabricante, o que pode ser até os 7 anos de idade, em alguns casos
+cálcio	nutriente encontrado em alguns alimentos que ajuda na formação e manutenção dos ossos; encontrado no leite, queijo, ovo, brócolis, espinafre, folhas escuras e soja
+cálculo em  o rim	formação de cristais, como uma "pedrinha", nos rins ou em outras partes relacionadas a ele
+cálculo renal	formação de cristais, como uma "pedrinha", nos rins ou em outras partes relacionadas a ele
+clamp umbilical	clamp (do inglês= pinça); tipo de grampo ou pinça para prender o cordão umbilical do recém nascido, logo após o parto
+clampeamento	quando o médico prende o cordão umbilical com um grampo, logo depois do nascimento de um bebê
+clampeamento de o cordão umbilical	quando o médico prende o cordão umbilical com um grampo, logo depois do nascimento de um bebê
+canal biliar	canal que liga o fígado ao intestino e à vesícula, trasportando a bile.
+câncer de pele	tumor na pele, em forma de ferida, sinal, pinta ou mancha; geralmente atinge mais pessoas que tomam sol sem proteção
+candidíase mamária	o mesmo que "monilíase", infecção  que pode atingir o bico do seio, aréola ou o interior da mama, causada por fungo (cândida ou monília), o mesmo que causa o “sapinho” na boca das crianças
+car bed	palavra em inglês; espécie de caminha que se coloca no chão do carro para transportar o bebê recém-nascido
+carboidrato	tipo de açúcar; substância presente nos alimentos que ajuda a gerar energia para o corpo
+cardíaco	relacionado ou que pertence ao coração
+cardiopatia congênita	qualquer problema na estrutura ou na função do coração que surge nas primeiras 8 semanas de gestação, quando se forma o coração do bebê; alterações no coração presentes antes mesmo do nascimento; o bebê já nasce com o problema
+cardiovascular	relativo ao coração ou à circulação de sangue
+cárie	lesão nos dentes que pode se transformar em pequenos buracos no dente; causada por bactérias que se alimentam do açúcar de restos de alimentos que ficam na boca
+caseína	proteína do leite que pode causar alergia em algumas pessoas
+catapora	o mesmo que "varicela"; doença infecciosa e altamente contagiosa causada pelo vírus Varicela-Zoster que se manifesta com maior frequência em crianças. A principal característica clínica são lesões na pele acompanhadas de coceira
+catarata	problema de visão em que a pessoa começa a ver as coisas como se estivessem atrás de uma nuvem; pode causae de perda de visão ou cegueira
+catarata congênita	problema de formação de parte do olho do bebê, fazendo com que nasça com uma película branca dentro do olho. Essa película afeta a visão do bebê, e deve ser removida com cirurgia; pode ser descoberto pelo "teste do olhinho"
+catar	tipo de tubo muito fino, semelhante a uma agulha, que é introduzido no paciente para aplicar medicamentos, retirar líquidos ou fazer exames; o mesmo que "catéter"
+catéter	tipo de tubo muito fino, semelhante a uma agulha, que é introduzido no paciente para aplicar medicamentos, retirar líquidos ou fazer exames; o mesmo que "cateter"
+cavidade oral	a boca e suas estruturas, como dentes e língua
+caxumba	o mesmo que "parotidite"; infecção causada por vírus que afeta as glândulas que produzem a saliva. Pode ser prevenida com vacina
+cegueira	perda total ou parcial da visão
+célula nervoso	mesmo que "neurônio"; célula que constitui o sistema nervoso
+centro de controlo de intoxicações	local que oferece informações por telefone sobre diagnóstico e tratamento de intoxicações; também oferece informações sobre uso de produtos químicos e prevenção de intoxicações
+ceratoconjuntivite	inflamação do olho que afeta as membranas que revestem o olho (conjuntiva e córnea). Causa sintomas como vermelhidão dos olhos, sensibilidade à luz e  sensação de areia no olho
+chikungunya	vírus que causa a febre chikungunya, doença transmitida pela picada do mosquito que carrega o vírus; em crianças, além de febre, pode causar dor nas articulações/juntas, manchas e bolhas pelo corpo ou problemas no cérebro; a mãe pode transmitir a doença para o bebê na hora do parto
+choque anafilático	forma mais grave de reação a alguma alergia, que toma conta de todo o corpo e pode causar morte se a pessoa tiver atendimento de urgência
+choque séptico	quando a resposta do sistema de defesa do corpo a uma infecção cria problemas para o organismo, fazendo com que vários órgãos parem de funcionar; o mesmo que "sepse"
+cianose	quando a pessoa fica com as mãos, unhas, lábios ou redor dos olhos em cor azulada ou roxa, sinal de falta de ar
+cirrose	doença muito grave do fígado; pode levar à morte
+cirurgia eletiva	cirurgias ou procedimentos que não são considerados urgentes ou essenciais
+citomegalovírus	sigla CMV; vírus da mesma família do herpes e catapora; pode causar doença grave em bebês que são infectados antes ou na hora do nascimento
+citronela	substância derivada de plantas que ajuda a espantar insetos
+cloreto de sódio 0 ,9 %	o mesmo que "soro fisiológico"; mistura de substâncias que pode ser usada para hidratação do corpo, limpeza de olhos e limpeza do nariz
+colestase obstétrica	problema durante a gravidez em que o fluxo da bile fica prejudicado, fazendo com que toxinas se acumulem no fígado da mãe; os sintomas da colestase obstétrica são vários; o sintoma mais comum: coceiras intensas da gestante
+cólica de o lactente	choro repentino, inexplicado e inconsolável, que não para ou diminui com medidas habituais de conforto do bebê 
+colite alérgica	inflamação do intestino, geralmente causada por alergia ao leite
+colostro	o leite da mãe logo após o parto entre 5 e 7 dias de vida do bebê; é mais grosso e amarelado, tem mais proteínas, menos gordura e mais anticorpos; oferece grande proteção contra infecções, sendo uma “primeira vacina” do bebê
+colutório	remédio líquido usado na boca, em bochechos; medicamentoo que age diretamente na gengiva e dentro da boca, ajuda a eliminar o mau hálito, bactérias e cáries
+comorbidade	quando a pessoa tem duas ou mais doenças e uma doença pode deixar a outra mais grave
+compor lácteo	produto alimentício que é uma mistura de leite (no mínimo 51%) com outros ingredientes; não é sinônimo de "leite" ou de "leite em pó"
+concepção	quando o óvulo é fecundado pelo espermatozóide
+concha	peça, em geral feita de silicone, colocada sobre a mama, embaixo do sutiã, para prevenir ou ajudar a tratar bico do seio machucado, recolher o leite que vaza e aliviar possíveis dores. Também usada para corrigir problemas no bico do seio, como "mamilos planos" ou  "mamilos invertidos"
+concha de amamentação	objeto plástico em forma de disco, com um buraco redondo no meio, colocado sobre o seio da mãe, para ajudar o bico do seio a sair para a frente, faciltando a mamada do bebê
+concha para seio	objeto plástico em forma de disco, com um buraco redondo no meio, colocado sobre o mamilo da mãe, para ajudar o mamilo a sair para a frente, faciltando a mamada do bebê
+condições clínicas	estado da pessoa verificado durante diagnóstico ou tratamento de saúde
+condições clínicas de base	estado inicial da pessoa verificado durante diagnóstico ou tratamento de saúde
+congênito	condição do que é transmitido dos pais para os filhos, antes do nascimento
+conjuntivite	inflamação na membrana que envolve a parte branca do olho; causa desconforto e deixa o olho vermelho
+conjuntivite bacteriano	inflamação na membrana que envolve a parte branca do olho; causa desconforto, deixa o olho vermelho e com um líquido amarelado; pode ser resolvida com antibióticos
+conjuntivite viral	inflamação na membrana que envolve a parte branca do olho; é altamente contagiosa e causa desconforto, olhos vermelhos e pode causar gripe e resfriado
+consentimento informar	documento que informa o paciente e/ou seus familiares/responsáveis sobre todas as consequências e riscos envolvidos em um procedimento médico
+constipação intestinal	intestino preso, dificuldade de evacuar, dificuldade de fazer cocô
+contato pele a pele	procedimento em que o recém-nascido é colocado nu em contato direto com a pele do peito na mãe, assim que nasce ou logo depois; o mesmo que "CPP"; útil para reduzir estresse da mãe, acalmar o bebê, facilitar a amamentação, garantir bom desenvolvimento do bebê e diminuir risco de infecções 
+contraceptivo	métodos usados para evitar a gravidez; podem ser instrumentos, dispositivos, comportamentos e medicamentos
+covid 19	nome da doença causada pelo novo coronavírus (SARS-CoV-2). A sigla COVID vem da expressão em inglês “Corona(CO) virus(VI) Disease (D) 2019”
+convulsão	quando os músculos do corpo, todos ou uma parte, se contraem e causam movimentos descontrolados, podendo causar desmaio. Importante: convulsão não é sinônimo de epilepsia
+coqueluche	tosse comprida; pertussis;  doença muito contagiosa causada por bactéria, provoca tosse intensa com som longo, prevenida com vacina
+cordão umbilical	tubo que conecta o corpo do bebê ao corpo da mãe, durante a gravidez; leva nutrientes do corpo da mãe para o corpo do filho
+coriza	secreção das fossas nasais; nariz escorrendo
+corpo estranho	objetos que as crianças podem engolir, colocar no ouvido ou no nariz, como pedrinhas, moedas, papel, insetos, sujeira etc.
+córtex cerebral	massa cinzenta; camada de substância cinza que fica na superfície do cérebro; responsável pelo pensamento, fala, capacidade de julgar, de sentir e pelos movimentos que fazemos por vontade própria
+coto umbilical	pedaço do cordão umbilical que fica no bebê após o corte do cordão na hora do nascimento; ele seca e cai entre a primeira e segunda semana, sendo fundamental cuidar da sua limpeza a cada troca de fraldas. Com a caída do coto umbilical, fica a cicatriz do umbigo
+cpp	sigla de "contato pele a pele"; procedimento em que o recém-nascido é colocado nu em contato direto com a pele do peito na mãe, assim que ele nasce ou logo depois;útil para reduzir estresse da mãe, acalmar o bebê, facilitar a amamentação, garantir bom desenvolvimento do bebê e diminuir risco de infecções 
+craniano	da cabeça, do crânio, dos ossos da cabeça
+crânio	conjunto de ossos da cabeça
+crise convulsivo	situação em que músculos do corpo, todos ou uma parte, se contraem e causam movimentos descontrolados, podendo causar desmaio. Importante: convulsão não é sinônimo de epilepsia
+crônico	sem cura; de desenvolvimendo lento, de longa duração
+cuidado paliativo	cuidados que buscam dar a melhor qualidade de vida possível quando não há possibilidade de cura de uma doença
+curva de crescimento	medida feita para avaliar o crescimento e a nutrição das crianças
+cutânea	da pele
+cutâneo	da pele
+dado epidemiológico	dados científicos sobre uma doença e aos aspectos de saúde relacionados em certa população
+débito urinário	quantidade de urina eliminada pelos rins em um dado tempo
+dech crônica	Doença Enxerto Contra Hospedeiro (DECH) crônica; problema que ocorre quando se faz um transplante de medula e as células do doador reagem contra o organismo do paciente que recebeu o transplante
+declaração de nascido vivo	o mesmo que “Folhinha Amarela”; documento que todo bebê que nasce com vida recebe para poder ser registrado em cartório
+dedetização	uso de produtos e técnicas para eliminar insetos ou ratos, por exemplo
+déficit de atenção	problema neurológico e biológico caracterizado por dificuldade de prestar atenção, inquietude e impulsividade
+deglutição	engolir, ingestão
+densitometria óssea	exame que mede a dureza dos ossos. Utilizado no diagnóstico da osteoporose, doença caracterizada pela diminuição de massa óssea
+dente de leite	primeiro conjunto de dentes de uma pessoa; dentes temporários, quando caem, nascem os dentes definitivos
+dentifrício	creme ou pasta para escovar os dentes
+dentifrício fluoretado	creme ou pasta para escovar os dentes que contém flúor na sua fórmula
+depressão anaclítica	tipo de depressão que pode atingir o bebê entre 6 e 18 meses,  geralmente ocorre por causa do afastamento da mãe
+depressão respiratória	incapacidade para levar oxigênio adequado às células do organismo e para retirar o excesso de dióxido de carbono
+derivar imidazolínico	produtos descongestionantes de ação rápida e prolongada, geralmente usados pelo no nariz ou olhos
+dermatite	inflamação na pele que deixa a área afetada inchada e vermelha, podendo causar coceira, dor e outros efeitos
+dermatite atópica	doença que causa inflamações na pele, levando ao aparecimento de lesões e coceira
+dermatite de contato	reação na pele ao contato com certa substância, que deixa a área afetada inchada e vermelha, podendo causar coceira, dor e outros efeitos
+dermatite perineal	assaduras na pele do bebê, geralmente na área onde ficam as fraldas
+dermatose	doença da pele
+descongestionantes tópico	medicamentos indicados para o descongestionamento das vias nasais, geralmente encontrados na forma de gotas ou sprays
+desenvolvimento neural	Desenvolvimento do sistema nervoso
+desenvolvimento neuropsicomotor	desenvolvimento da linguagem, dos movimentos e do comportamento da criança com outras pessoas
+desenvolvimento sociopsicomotor	processo contínuo em que acontece a evolução da inteligência, da comunicação, da afetividade, da sociabilidade e da aprendizagem
+desidratação	quando o corpo usa ou perde água, sais minerais e líquidos produzidos pelos próprio corpo, perdendo muito mais do que a pessoa tomou; o corpo desidratado pode ter dificuldade para funcionar de modo normal. A perda de água pode acontecer por situações como vômitos, diarréias, uso de medicamentos que aumentem a quantidade de urina ou de suor, e diminuição da ingestão de água
+desmame	quando o bebê para de mamar o leite materno
+desnutrição	quando a pessoa não está bem alimentada; falta de um ou mais nutrientes necessários no corpo
+dextrose	açúcar, o mesmo que "glicose" ou "glucose"
+diabete	doença que causa o aumento do nível de açúcar no sangue
+diabetes	doença que causa o aumento do nível de açúcar no sangue
+diabetes melito	doença que causa o aumento do nível de açúcar no sangue
+diabetes mellitu	doença que causa o aumento do nível de açúcar no sangue
+diabete tipo 1	doença sem cura que causa o aumento do nível de açúcar no sangue; atinge principalmente crianças e adolescentes
+diabético	pessoa que tem a doença do açúcar elevado no sangue
+diagnóstico	determinação de uma doença com base nos sintomas e/ou em exames realizados
+diagnóstico de avbeh	diagnóstico de Atresia das Vias Biliares extra-hepáticas (AVBEH), doença definida pela ausência ou fechamento dos ductos biliares extra-hepáticos (canais que transportam a bile). Ver "bile"
+diagnóstico de dm	diagnóstico de Diabetes Mellitus (DM), doença que causa o aumento do nível de açúcar no sangue
+diagnóstico de insuficiência adrenal	diagnóstico de uma doença que é caracterizada pela produção insuficiente dos hormônios da glândula supra-renal ou adrenal (glândula situada acima do rim)
+diagnóstico de tdah	diagnóstico de Transtorno do Déficit de Atenção com Hiperatividade (TDAH);  ver "TDAH"
+diagnóstico etiológico	determinação da causa de uma doença
+diagnóstico precoce	identificação de problemas ou doenças em seus estágios iniciais
+diarreia	quando o cocô fica aguado e solto e isso acontece com mais frequência do que o normal
+diátese hemorrágica	sangramento espontâneo, sem uma causa aparente; ou sangramento mais intenso que segue um traumatismo 
+dieta de exclusão	tipo de alimentação em que determinados alimentos não devem ser consumidos
+dieta enteral	tipo de alimentação feita através de uma sonda, um tubo colocado no estômago ou no intestino 
+difteria	o mesmo que "crupe"; doença respiratória que atinge garganta, nariz, amígdalas e outras regiões próximas, dificultando a respiração. A presença de placas acizentadas na garganta é o principal sintoma. A vacina DTP (tríplice bacteriana) é fundamental para a prevenção
+disfunção ventricular	condição em que o coração mostra deficiência na função de bombear o sangue para a circulação
+disfunções oral	problemas na movimentação normal da boca
+displasia broncopulmonar	lesão pulmonar causada por respirador artificial
+dispositivo de retenção	reposicionadores do cinto de segurança; são assentos especiais para transportar crianças de modo seguro em carros.
+dispositivo restritivo	cinto de segurança
+distenção abdominal	quando a barriga fica inchada, causando desconforto
+distrofia muscular	doenças genéticas em que a característica principal é o enfraquecimento progressivo da musculatura esquelética, prejudicando os movimentos
+distúrbio de o falar	impossibilidade ou dificuldade da criança se comunicar por meio das palavras faladas
+distúrbio de comportamento	comportamentos socialmente inadequados, agressivos ou desafiadores, com violação de normas sociais ou direitos individuais
+distúrbio metabólico	alteração no funcionamento do organismo, seja por alterações das reações químicas ou da velocidade que elas ocorrem
+distúrbios de o sono	problemas que atrapalham o sono, como insônia, apneia, etc.
+divertículo uretral	dilatação anormal da uretra. Ocorre tanto em homens quanto em mulheres e pode ser congênito ou adquirido após o nascimento
+dobra cutânea	dobras da pele; medida que avalia, indiretamente, a quantidade de gordura que existe embaixo da pele, a partir daí, estima a proporção de gordura em relação ao peso do corpo
+dobra cutânea subescapular	dobras da pele abaixo das escápulas, nas costas
+dobra cutânea tricipital	dobras da pele na região do trícceps, músculo dos braços
+doença arterial coronariana	doença caracterizada pelo depósito de placas de gordura nas artérias que levam sangue ao coração
+doença celíaca	doença em que não se pode comer alimentos com glúten, uma proteína encontrada principalmente no trigo 
+doença de o membrana hialino	doença associada à formação não completa dos pulmões, comum em prematuros
+doença de chagas	doença infecciosa causada por um parasita chamado Trypanosoma cruzi, transmitido pelas fezes do inseto conhecido como "barbeiro"; pode causar problemas no coração
+doença de kawasaki	o mesmo que "síndrome de Kawasaki"; doença infantil rara que causa inflamação das paredes dos vasos sanguíneos
+doença diarreico	diarreia; doença em que a pessoa faz bastante cocô líquido várias vezes em um curto espaço de tempo
+doença de o refluxo gastroesofágico	doença em que os ácidos do estômago, produzidos para a digestão, sobem e causam inflamação no esôfago 
+doença falciforme	doença passada de pais para filhos em que os glóbulos vermelhos do sangue mudam sua forma redonda e elástica e ficam parecidos com uma foice;  essas células alteradas vão se romper com mais facilidade, causando anemia. Pode ser descoberta no "teste do pezinho"
+doença inflamatória	doença que provoca uma inflamação; reação do organismo à uma infecção ou lesão
+doença pneumocócica	
+doença progressivo	doença que fica mais grave, cresce ou se espalha. Pode causar morte, debilidade grave ou falência de órgãos
+doença pulmonar crônica de o prematuridade	condição na qual uma lesão pulmonar se estabelece num pulmão imaturo, o que leva à necessidade de suplementação de oxigênio e outras terapias medicamentosas 
+doença pulmonar de o prematuridade	condição na qual uma lesão pulmonar se estabelece num pulmão imaturo, o que leva à necessidade de suplementação de oxigênio e outras terapias medicamentosas 
+doença renal	doença nos rins
+dose de ataque	dose de determinado remédio dada no início do tratamento, com o objetivo de atingir rapidamente a quantidade necessária do remédio no corpo do paciente
+dose de manutenção	quantidade de medicamento que é utilizada ao longo de um tratamento; quando tenha sido necessária uma dose maior no começo, a chamada "dose de ataque"
+drenagem torácica	técnica cirúrgica que consiste na colocação de um dreno na cavidade do pulmão para tirar líquidos ou ar
+drenar	retirar líquido
+droga antiepiléptica	o mesmo que "drogas anticonvulsivantes"; remédios para controlar sintomas da epilepsia, dores nos nervos e/ou sintomas psiquiátricos
+droga quimioterápica	remédios usados para tratamento de câncer, que interferem na capacidade de multiplicação das células cancerosas
+ducto biliar	canal que liga a vesícula ao intestino, levando a bile
+ducto biliar comum	canal que leva bile até o intestino, formado pelo canal que vem da vesícula e canal que vem do fígado
+duplo placebo	tipo de pesquisa sobre efeito de remédios nas pessoas em que o pesquisador e os pacientes testados não sabem quem toma ou não o placebo (o remédio sem efeito).
+ecocardiograma transtorácico	tipo de exame do coração, feito com equipamento de ultrassom
+eczema	problema na pele, podendo ser agudo ou crônico; aparece como marcas avermelhadas com bolhinhas de água na superfície ou como crostas (casquinhas)
+eda normal	exame em que se coloca um tubo flexível pela garganta e serve para descobrir doenças do esôfago, estômago e parte alta do intestino.
+edema cerebral	inchaço e acumulação de líquido dentro do cérebro
+edema pulmonar	acúmulo anormal de líquido nos tecidos dos pulmões
+educação alimentar	processo de aprender sobre os alimentos e desenvolver hábitos saudáveis de alimentação
+efeito deletério	efeitos prejudiciais
+efusão	derramamento de um líquido dos seus canais  ou locais naturais chegando a tecidos ou a alguma cavidade do corpo
+emissões otoacústica	exame em que é enviado um som para o ouvido mais interno, para verificar se a pessoa ouve bem
+encefalite	inflamação no cérebro. Se não for tratada, pode matar. Afeta principalmente bebês, crianças e adultos com imunidade comprometida
+encefalopatia hipóxico isquêmica	problema no cérebro causado por falta de oxigênio
+endócrino	relativo à produção e regulação dos hormônios do corpo
+endocrinologista pediátrico	médico responsável por descobrir e tratar os problemas hormonais que acontecem na infância e na adolescência
+endoscopia digestivo alta	veja EDA normal
+endoscopia respiratória	exames, para avaliar, com auxílio de tubos com câmeras, as vias aéreas superiores (narinas, óstios, nasofaringe, laringe) e inferiores (traquéia e brônquios/pulmão)
+endotélio vascular	a camada mais interna de células que formam o vaso sanguíneo
+enforcamento	dificuldade ou impossibilidade de respirar causada pelo aperto do pescoço
+ensaio imunoenzimático	tipo de teste para verificar a presença de anticorpos contra alguma infecção
+enterite infeccioso	inflamação no intestino causada por micróbios.
+enterocolite necrosante neonatal	inflamação muito grave dos intestinos caracterizada por barriga inchada, vômitos com bile e presença de sangue com cor vermelha viva nas fezes. Pode levar à morte
+enurese	fazer xixi na cama; falta de controle da urina, geralmente durante o sono em crianças com 5 anos ou mais
+enurese noturna	fazer xixi sem querer, geralmente à noite, em idade em que a falta de controle da urina seja considerada anormal
+enzima pancreática	enzimas produzidas pelo pâncreas, importantes para a digestão e na absorção de nutrientes 
+epigenética	ciência que estuda as mudanças que ocorrem nas nossas células graças a fatores externos como traumas ou estresse, por exemplo.
+epilepsia	doença em que há problema na atividade das céulas do cérebro, causando convulsões
+episiotomia	procedimento cirúrgico durante o parto em que se faz um corte entre a vagina e ânus para facilitar a saída do bebê
+episódio de itu	caso de Infecção do Trato Urinário (ITU); invasão do sistema urinário por bactérias
+epizootia	doença contagiosa que ataca uma quantidade grande de animais ao mesmo tempo e na mesma região e que se espalha rapidamente
+erupção dental	quando o dente começa a nascer
+erupção dentária	quando o dente começa a nascer
+erupção de o dente	quando os dentes começam a nascer
+escarlatina	doença contagiosa que afeta especialmente crianças entre 2 a 10 anos, durante a primavera, depois de uma faringite ou amidalite. Produz manchas avermelhadas ásperas espalhadas no corpo; tratada com antibióticos.
+esclerose tuberoso	
+doença genética rara caracterizado por nódulos da pele, vários graus de retardo mental e convulsões
+esfíncter	músculo que abre e fecha algum buraco do corpo, como o que permite a passagem de alimentos para o estômago, ou o que permite a passagem das fezes pelo ânus
+esofagite	inflamação no esôfago
+esofagite de refluxo	inflamação na mucosa do esôfago causada pelo refluxo (retorno) do conteúdo do estômago
+esôfago	tubo que leva o alimento até o estômago
+espaçador	aparelho usado para que o spray do medicamento seja absorvido melhor. Com ele, menos remédio ficará depositado na garganta e boca, e mais vai para o lugar correto, que é o pulmão
+espectro autista	condiçao que pode ser leve, moderada ou grave, com tantas diferenças entre os pacientes, que os médicos chamam de "espectro autista". Pessoas com "autismo" têm dificuldades de socializar, de reagir bem a situações estressantes, às vezes têm interesses bem específicos e geralmente gostam de uma rotina que seja sempre do mesmo jeito
+espinha bífida	defeito no fechamento dos ossos da coluna. A coluna que nao se fechou da maneira correta pode estar coberta por pele (se chama espinha bífida oculta) ou pode ter outros tecidos do corpo envolvidos e aparecendo (como nervos, medula etc.)
+espinha dendrítica	elementos muito pequenos localizados nos prolongamentos dos neurônios
+esquistossomose	o mesmo que "barriga d'água";  doença transmitida ao homem por um verme que se desenvolve em caramujos de água doce. Geralmente acontece em lugares sem água tratada
+estado vacinal	avaliação de quantas vacinas a criança já tomou e de quantas ainda são necessárias
+estenose aórtica	Uma válvula do coraçao, chamada válvula aórtica, nao consegue abrir corretamente e o sangue tem que passar por um espaço muito estreito.
+estenose pulmonar	estreitamento da abertura da válvula que fica entre o coraçao e o vaso que envia sangue para o pulmao, fazendo com que passe menos sangue por ali
+estenose subglótica	estreitamento das vias aéreas abaixo das pregas vocais (cordas vocais)
+estimulação motor	tocar ou mexer na pessoa
+estimulação precoce	programa de acompanhamento e tratamento para recém-nascidos de risco ou com alguma deficiência que estimula o desenvolvimento do movimento e do cérebro
+estimulação sensorial	incentivar as crianças a usarem seus sentidos (como visão, audição, toque, paladar), para que desenvolvam melhor as suas habilidades (inclusive as motoras); cantar músicas para o bebê ou permitir que ele brinque com objetos de várias cores são formas de estimular seus sentidos
+estrangulamento	aperto do pescoço por alguma força que causa falta de ar
+estresse tóxico	quando a criança enfrenta dificuldades por longo tempo sem ter auxíllio de um adulto
+estudo randomizar	forma de realizar um estudo científico para comparar procedimentos separando as pessoas em grupos diferentes através de sorteio. Por exemplo, para saber se um remédio funciona, escolhe-se, por sorteio, quem de um grupo receberá cápsulas com o remédio e quem receberá cápsulas sem nenhum remédio dentro
+esvaziamento gástrico	quando  a comida que estava no estômago passa para o intestino e assim o estomago vai ficando vazio
+éter	substância pode usada para diminuir a dor em tratamento médico, mas que pode ser prejudicial à saúde
+etiologia de o rm	estudo das causas de retardo mental. RM significa a Retardo Mental
+etiologia de o tdah	estudo das causas do  TDAH, sigla de Transtorno do Déficit de Atenção/Hiperatividade
+etiologia viral	causa de determinada doença causada por um vírus
+evento cardiovascular	problemas do coração e aos vasos sanguíneos, como infarto agudo do miocárdio (IAM), acidente vascular cerebral (AVC), parada cardíaca e embolia pulmonar
+evento paroxístico	episódios clínicos que começam de repente e têm duração curta, caracterizados por mudanças na atividade motora, nas funções vitais, no comportamento ou na frequência da respiração
+evolução benigno	desenvolvimento que não resulta em consequências graves
+exame de emissões otoacústica evocar	teste da orelhinha
+exame endoscópico	exame no qual os órgãos do paciente são examinados por dentro, com auxílio de um tubo com câmera
+exame pré natal	série de consultas médicas para a mulher grávida com realização de diferentes exames para garantir que tudo esteja bem no momento do nascimento
+exantema	vermelhidão ou bolhas na pel.
+exantemático	o que se manifesta com vermelhidão ou bolhas na pele
+exercícios orofacial	exercícios que trabalham as funções de sucção (sugar e chupar), respiração, mastigação, engolir e articulação da fala
+éxon	parte de um gene que é usada para formar as proteínas do nosso corpo.
+exposição solar direta	quando a pessoa toma sol nem nenhum tipo de proteção
+extração	retirada do leite materno do peito com as mãos ou com a ajuda de bombinhas
+extrauterino	fora do útero
+extubação	retirada de tubos e aparelhos que estavam sendo usados para que o paciente respirasse de forma artificial. Com a "extubaçao", se espera que o paciente consiga respirar de forma natural e espontânea
+fadiga	cansaço
+falso anorexia	situação na qual a criança come pouco (na opinião dos familiares), mas apresenta crescimento e desenvolvimento normais
+faringite	inflamação da faringe, que é um tubo que liga a cavidade nasal, a boca e a laringe e segue até o esôfago
+fase terminal de vida	quando não há mais possibilidade médica de resgatar da saúde do paciente e ele tem pouco tempo de vida
+fator de necrose tumoral	substância produzida pelo corpo que causa morte das células de tumores e que tem açoes que provocam inflamaçao.
+fator v leiden	alteraçao genética que favorece a formaçao de coágulos nos vasos sanguíneos.
+febre	resposta normal do corpo para uma situação de inflamação. Nas crianças, quase sempre ocorre por causa de doença infecciosa que tende a passar sozinha. A principal manifestação clínica da febre é a elevação da temperatura do corpo, mas também causa desconforto
+febre amarelar	vírus transmitido por mosquitos e que causa febre, dor de cabeça, dor no corpo, tontura e vômito. Em casos mais graves, pode levar à morte. Prevenida com vacina que protege por toda a vida 
+febre reumática	doença causda por complicaçao após infecçao bacteriana na garganta (faringite). O corpo da pessoa tenta se defender, criando anticorpos contra a bactéria, mas ocontece um erro e esses anticorpos acabam atacando partes do próprio corpo da pessoa
+febre tifóide	doença transmitida pela Salmonella typhi, presente em água e alimentos contaminados por fezes. Não confundir com "tifo"
+fêmur proximal	região superior do osso da coxa da perna, próximo ao encaixe com o quadril 
+fenda labial	problema de formação do bebê em que nasce com uma divisão no lábio superior, normalmente abaixo do nariz, tratável com cirurgia
+fender lábio palatino	problema de formação do bebê, que nasce com uma divisão do lábio superior, atinge o céu da boca e base do nariz, tratável com cirurgia
+fenda labioplatina	problema de formação do bebê que nasce com uma divisão do lábio superior, atinge o céu da boca e base do nariz, tratável com cirurgia
+fenda palatino	problema de formação do bebê que nasce com uma divisão do lábio superior, atinge o céu da boca, tratável com cirurgia
+fenômeno de marcus gunn	doença de "nascença" em que, quando criança mexe boca, seu olho fecha sozinho, ou se movimenta sozinho, por um problema nos nervos da boca e dos olhos. 
+feto	o bebê em formação dentro da barriga da mãe, antes de nascer
+fez diarreico	cocô líquido ou semilíquido
+fibrose cística	doença genética em o corpo produz muco mais grosso que o normal, afetando  pulmões, pâncreas e o sistema digestivo, principalmente. Causa aumento de infecções respitatórias
+fibrose periportal	doença nas veias do fígado, que provoca um aumento da pressão sanguínea dentro dessas veias que vão para o fígado
+fibrose pulmonar	doença respiratória rara, sem causa conhecida, em que os pulmões vão ficando endurecidos, causando dificuldades para a pessoa respirar
+fibrose pulmonar idiopática	doença respiratória rara, sem causa conhecida, em que os pulmões vão ficando endurecidos, causando dificuldades para a pessoa respirar
+filariose	doeça transmitida pela picada de mosquito. Conhecida como "elefantíase"; causa um inchaço muito grande principalmete na perna, mas pode afetar outro lugares do corpo
+fisiopatogenia de o ba	descrição dos mecanismos através dos quais a bronquite aguda (BA) se estabelece
+fisioterapia respiratória	tratamentos feitos por profissional habilitado para prevenir e cuidar de problemas nos pulmões e com a respiração
+fissurar	machucado em forma de rachadura, como as rachadurados no bico do seio
+fissura labial	
+problema de formação em que o bebê nasce com uma divisão do lábio superior, normalmente abaixo do nariz, tratável com cirurgia
+flúor	substância química adicionada à água e a diferentes produtos - como cremes e pastas para escovar dentes - para prevenir cáries
+fluorose	doença causa pelo uso exagerado de flúor durante o período de formação dos dentes da criança, causando manchas brancas nos dentes
+fluticasona hfa	remédio à base de corticóide, um tipo de antialérgico, que é respirado, utilizado no tratamento da asma e de rinite alérgica
+fluxo expiratório	quando a pessoa respira e faz o sair pelo nariz e pela boca
+folhinha amarela	o mesmo que “Declaração de Nascido Vivo”, documento fornecido pela maternidade onde o bebê nasceu necessário para registrar o nascimento no cartório
+fontanela	 moleira; espaço entre os ossos da cabeça do recém-nascido
+forma rizomélica	relativo à raiz de um membro
+formar	substância, na forma líquida, chamada de "formol"; pode estar em diversos produtos, como tintas, cosméticos, materiais de construção; deve ficar longe do alcance de crianças, pois pode ser tóxica quando não usada corretamente
+fórmula infantil anti regurgitação	fórmula alimentar especial, feita por nutricionista, para atender o bebê com dificuldades de digestão e que vomita muito
+fosfatase alcalino	proteína encontrada principalmente no fígado e nos ossos. Pode ser verificada em exame de sangue, tendo relação com doenças no fígado, em conjunto com outros exames como TGO, TGP e gama GT.
+fotoproteção	conjunto de medidas tomadas para diminuir a exposição ao sol e prevenir problemas causados pelo sol, como usar filtro solar, bonés, óculos de sol e roupas de proteção
+fotoprotetor	subtâncias que geram fotoproteção, como cremes de protetor solar
+fototerapia	banho de luz, com lâmpadas especiais, indicado pelo médico pediatra; serve para diminuir a quantidade de bilirrubina no sangue. Ver "bilirrubina"
+fpi	sigla de Fibrose Pulmonar Idiopática (FPI); doença respiratória rara, sem causa conhecida, em que os pulmões vão ficando endurecidos, gerando dificuldades para a pessoa respirar
+fração inspirar de oxigênio	medida de regulagem básica do aparelho de ventilação mecânica; é a concentração inspirada de oxigênio fornecida pelo respirador
+função adrenal	produção de um ou mais hormônios  pela "glândula adrenal", que
+produz diversos hormônios, como aldosterna, cortisol, hormônios sexuais e adrenalina
+função surfactante	produção da substância surfactante; os surfactantes são produzidos nos pulmões e sua função é deixar mais fácil a respiração e não deixar que as estruturas pulmonares se fechem
+gasometria arterial	exame feito com sangue de artérias para medir os níveis de oxigênio e gás carbônico, pH e outras substâncias, como sódio e potássio 
+gastrenterite	infecção no estômago ou no intestino, causando diarréia, náuseas e vômitos 
+gastrite hemorrágica	inflamação no estômago com sangramento; também conhecida por "Gastrite Erosiva". Causa vômitos com sangue e fezes escurecidas devido à presença do sangue. Geralmente causa queda da pressão arterial, palidez da pele, suor e aumento do ritmo do coração
+gastroenterite	
+infecção no estômago ou no intestino, causando diarréia, náusea e vômitos 
+gastroesofágico	relacionado ao estômago e ao esôfago
+gêmeos monozigótico	dois filhos originados na mesma gravidez, gerados de um mesmo óvulo fertilizado que se dividiu em dois embriões. São gêmeos geneticamente idênticos e do mesmo sexo.
+gene fmr1	pedaço do DNA do cromosso X que é responsável desenvolvimento cognitivo normal e a função reprodutiva feminina. Qaundo alterado, provoca a síndrome do X frágil, que é uma doença genética que provoca deficiência mental e distúrbios do comportamento
+gengivite	inflamação da gengiva, causa dor, inchaço e sangramento 
+genitália	conjunto dos órgãos sexuais, como pênis e vagina
+gestação	gravidez; período de 9 meses em que o corpo do bebê é formado dentro do corpo da mãe
+gestação pós termo	gestação que dure 42 semanas ou mais; em média, a gestação dura 40 semanas
+gestacional	da gravidez
+gestante	a mãe durante a gravidez
+giárdia	parasita presente em água e alimentos contaminados capaz de causar infeção no intestino
+girardiase	infecção do intestino causada pelo verme Giardia; associada ao consumo de alimentos e água contaminados; o mesmo que "giardíase" (com acento)
+girardíase	infecção do intestino causada pelo verme Giardia; associada ao consumo de alimentos e água contaminados; palavra também escrita sem o acento
+glândula	estrutura existente dentro do corpo que produz e libera substâncias necessárias para o bom funcionamento do organismo, que são os hormônios 
+glândula adrenal	glândula conhecida como " glândula supra-renal ou suprarrenal", par de glândulas que fica acima dos rins, produz hormônios importantes para o funcionamento do corpo
+glândula supra renal	par de glândulas que fica acima dos rins, produz de hormônios importantes para o funcionamento do corpo
+glândula suprarrenal	par de glândulas que fica acima dos rins, produz de hormônios importantes para o funcionamento do corpo
+glaucoma congêno	doença rara que afeta crianças até os três anos de idade,que causa um aumento da pressão dentro do olho, podendo levar à cegueira 
+glicemia	taxa de açúcar no sangue, quando medimos essa taxa, estamos medindo a glicemia
+glicemia de jejum	exame mais comum para medir o nível de açúcar no sangue, deve ser
+feito em jejum, quando se precisa ficar um período sem comer nada 
+glicose	açúcar, o mesmo que "glucose" ou "dextrose"
+glicosímetro	aparelho para medir a quantidade de açúcar no sangue
+glucose	açúcar, o mesmo que "glicose" ou "dextrose"
+gripe	também chamada "influenza";  doença causada por um vírus e geralmente provoca por febre alta, dor muscular, dor de garganta, dor de cabeça, coriza e tosse seca. A febre é o sintoma mais importante e dura em torno de três dias. Não confundir com "resfriado"
+grupo oligoarticular	quando artrite reumatóide juvenil afeta até quatro articulações 
+grupo poliarticular	quando a artrite reumatóide juvenil afeta cinco ou mais articulações
+habilidade motor	capacidade de realizar certos movimentos como correr, saltar, chutar, pegar objetos, equilibar 
+haemophilus influenza b	bactéria que atinge, principalmente, crianças de até 5 anos, causando infecções que começam geralmente no nariz e na garganta, mas que podem  se espalhar para outras partes do corpo, como pneumonia e meningite; há vacina contra essa bactéria
+haemophilus influenzae b	bactéria que atinge, principalmente, crianças de até 5 anos, causando infecções que começam geralmente no nariz e na garganta, mas que podem se espalharse para outras partes do corpo, como pneumonia e meningite; há vacina contra essa bactéria
+haste hipofisária	uma parte da glândula hipófise, que fica no cérebro
+hemófilus influenza b	bactéria que atinge, principalmente, crianças de até 5 anos, causando infecções que começam no nariz e na garganta, mas que se espalhar para outras partes do corpo, como pneumonia e meningite; há vacina contra essa bactéria
+hemoglobina	componente dos glóbulos vermelhos do sangue que tem como principal função transportar oxigênio para os tecidos.; baixos níveis de hemoglobina podem indicar anemia
+hemorragia	sangramento
+hemólise	renovação constante dos glóbulos vermelhos do sangue
+hemorragia digestivo alto	sangramento que vem da parte alta do sistema composto pelo estômago, duodeno e esôfago
+hemorragia intracraniana	sangramento dentro do crânio 
+sangramento dentro do cabeça
+hemorragia intraperiventricular	complicação neurológica; hemorragia dentro da cabeça, pode acontecer entre os recém-nascidos prematuros
+hemorragia intraventricular	hemorragia que surge, em geral, nos primeiros dias de vida do bebê; na maioria dos casos, trata-se de hemorragia pequena que acaba sendo reabsorvida espontaneamente pelo organismo, sem consequências graves
+hemorragia dentro da cabeça que surge, em geral, nos primeiros dias de vida do bebê; na maioria dos casos, trata-se de hemorragia pequena que acaba sendo reabsorvida espontaneamente pelo organismo, sem consequências graves
+hepatite a	infecção no fígado causada pelo vírus A da hepatite (HAV), também conhecida como “hepatite infecciosa". Transmitida pelo contato de fezes com a boca. Tem grande relação com alimentos ou água contaminados, falta de saneamento básico e de higiene pessoal 
+hepatite agudo viral	inflamação do fígado provocada por infecção por um dos cinco vírus da hepatite
+hepatite b	tipo de doença que gera inflamação no fígado; tipo de vírus que causa inflamação no fígado
+hepatopatia	doença do fígado
+hepatopatia crônica	doença no fígado que tem duração maior ou igual a seis meses.
+heptavalente conjugar	tipo de vacina que protege contra sete tipos de infecções
+herança autossômica recessivo	quando os pais de um indivíduo afetado por um problema ou doença não são afetados por ela, mas são portadores dos genes, de modo que transmitem para seus filhos
+hereditariedade	condição em que certas características são transmitidas dos pais para filhos; qualidade do que passa de uma geração a outra de uma família
+heredograma	tipo de desenho ou diagrama que representa a história gnética de uma família, mostra relações de parentesco e as características dos membros da família ao longo do tempo, como como por exemplo, quem teve  ou não uma doença determinada
+herpes	doença causada por dois tipos de vírus: o Vírus Varicela-Zóster (VVZ), que causa catapora (varicela) e também o popularmente conhecido "cobreiro" (herpes zóster) e os herpesvírus tipo 1 e tipo 2, que causam o chamado "herpes simplex"
+herpe vírus	vírus que causa feridas contagiosas, na maioria das vezes ao redor da boca ou nos órgãos genitais; pode ser transmitido para o bebê no parto quando a mãe está contamidada. A mãe pode pegar o vírus através de relações sexuais sem proteção.
+herpes zóster	doença causada pelo mesmo vírus da varicela (catapora); também conhecida com "cobreiro"; mais comum em idosos; causa lesões na pele e dor
+hidrato de cloral	remédio usado para fazer a pessoa dormir
+hidrofobia	raiva; doença transmitida por mordidas de animais; logo após mordida, a pessoa deve procurar atendimento médico para receber vacina contra raiva
+hidróxido de sódio	o mesmo que "soda cáustica"; produto químico super perigoso, bastante usado em limpezas pesadas e na produção de sabões; pode causar queimaduras graves
+higiene oral	limpeza da boca e dos dentes
+hiperatividade	quando a pessoa fica muito agitada em diferentes lugares e situações; ver "Transtorno do Déficit de Atenção e Hiperatividade"
+hipercalciúria	aumento do cálcio, um nutriente do corpo, na urina
+hiperglicemia	açúcar alto no sangue
+hipersensibilidade	quando o organismo reage de maneira exagerada e indesejável a alguma substância estranha; alergia
+hipertensão	doença definida pela alta pressão no sangue, causa problemas no coração
+hipertensão arterial	doença definida pela alta pressão no sangue, causa problemas no coração
+hipertensão arterial primária	quando a pressão alta no sangue está relacionada à familia e a outros fatores de risco, por exemplo: obesidade, falta de atividade física, muito sal na comida, etc
+hipertensão arterial secundária	quando quando a presão alta no sangue é causada por outras doenças
+hipertensão primária	quando a pressão alta no sangue está relacionada à familia e a outros fatores de risco, por exemplo: obesidade, falta de atividade física, muito sal na comida, etc
+hipertensão secundária	quando a presão alta no sangue é causada por outras doenças
+hipertenso	pessoa que sofre de pressão alta
+hipoclorito de sódio	água sanitária
+hipoglicemia	açúcar baixo no sangue
+hipotermia	queda da temperatura do corpo; quando a temperatura do corpo fica abaixo de 35 graus
+história alimentar	registro sobre o que a pessoa costuma comer no seu dia a dia
+história gestacional	registro feito pelo médico sobre o que acontece durante a gravidez
+hiv	HIV sigla em inglês para o nome do vírus da imunodeficiência humana, causador da aids
+iatrogenia	ação médica que causa dano à saúde do paciente, em vez de ajudá-lo
+icterícia	quando a pele fica amarela ou alaranjada; isso é causado pelo aumento, no sangue, de uma substância de cor amarela chamada bilirrubina. A "bilirrubina" é o que sobra da renovação constante dos glóbulos vermelhos do sangue
+icterícia não hemolítica	icterícia causada por problemas que não relacionados com a renovação das células do sangue. Ver "icterícia"
+icterícia neonatal	quando a pele fica amarela ou alaranjada; isso é causado pelo aumento, no sangue, de uma substância de cor amarela chamada bilirrubina. A "bilirrubina" é o que sobra da renovação constante dos glóbulos vermelhos do sangue
+idade gestacional	tempo de gravidez; é contado do último dia da menstruação até a data em que se está contando
+igg	sigla de imunoglobulina G;  exame de laboratório capaz de detectar presença de anticorpos para alguma doença; usado para exame de citomegalovírus em grávidas. IgG um anticorpo que mostra se a pessoa já teve uma determinada doença ou foi vacinada contra ela
+imunidade	sistema de defesa do corpo que tenta proteger contra microorganismos que causam doenças
+imunização	vacinação; proteger com vacinas
+imunizar	vacinar; aplicar vacina
+imunogenicidade	medida de quanto a defesa do corpo responde quando encontrar um remédio ou outra substância que não faz parte do organismo
+imunoglobulina	anticorpo
+inalação	quando a pessoa respira um medicamento que está misturado em um vapor ou aerossol
+inalador	o mesmo que "nebulizador"; aparelho que gera vapor de água, a parir de soro, para a pessoa respirar; usado quando a pessoa precisa receber um remédio através da respiração 
+inalar	quando a pessoa respira e absorve o ar
+inatividade física	estado de falta de atividade física
+índice de apgar	exame que avalia a condição do recém-nascido pela observação das batidas do coração, respiração, força muscular, cor e reações a estímulos; ver "Apgar"
+infecção congênita	infecção da criança durante a gestação
+infecção de o trato urinário	infecção dos rins, dos uretéres, da bexiga ou da uretra
+infecção externo	a pesquisar
+infecção gastrointestinal	infecção que pode acontecer no estômago ou no intestino, podendo causar diarreia, vômito e cólica
+infecção generalizar	quando a resposta do sistema de defesa do corpo a uma infecção cria problemas para o organismo, fazendo com que vários órgãos parem de funcionar
+infecção em  o trato urinário	infecção dos rins, dos uretéres, da bexiga ou da uretra.
+influenza	gripe; doença causada por vírus e que provoca febre; geralmente não é grave, mas pode ficar séria quando já se está com outras doenças
+ingurgitar	ficar "empedrado", ficar inchado
+ingugirtamento	leite empedrado"; aumento exagerado das mamas causado por por retenção de leite e inchaço
+injúria	dano à pessoa; causado por alguma força ou pela falta repentina de oxigênio ou calor
+injúrias física	danos à pessoa; asfixia, engasgos, afogamentos e quedas são exemplos de injúrias físicas na faixa de até dois anos
+inmetro	Sigla para Instituto Nacional de Metrologia, Qualidade e Tecnologia. Órgão do governo do Brasil que, entre outras coisas, cuida da fiscalização de produtos quanto à sua qualidade e segurança
+insolação	quando o corpo fica muito quente e não consegue baixar a temperatura, por falha na transpiração, excesso de calor ou pouca ingestão de água
+insuficiência adrenal	doença causada pela produção insuficiente dos hormônios da glândula situada acima do rim
+insuficiência renal crônica	quando os rins funcionam mal e não filtram a urina direito.
+insuficiência respiratória hipoxêmica	falta de ar intensa; dificuldade de respirar; dificuldade séria de funcionamento dos pulmões que exige uso de ventilação mecânica
+insuficiência supra renal	doença caracterizada pela produção insuficiente dos hormônios da glândula situada acima do rim
+insulina	hormônio produzido pelo corpo que tranforma em energia o açúcar presente no que comemos
+insulina inalável	insulina em pó para ser respirada pelo paciente; usada como forma de tratamento para diabetes
+integridade	qualidade do que é completo, inteiro
+Integridade é quando o corpo não sofreu nenhum dano e funciona normalmente.
+intensivista	médico especializado no atendimento de paciente internado em uma unidade de terapia intensiva
+intercorrência	quando aconte algo inesperado durante o atendimento de uma pessoa que tem uma doença
+intolerância a o lactose	quando o organismo não consegue absorver bem a lactose, um tipo de açúcar/carboidrato presente no leite
+intolerância a o lactose congênita	quando o bebê já nasce com problemas para absorver proteínas do leite
+intolerância a o lactose primária	quando a criança tem problemas ao ingerir leite ou outros alimentos que tenham leite
+intoxicação	quando a pessoa tem contato, pela pele, respiração ou alimentação, com alguma substância que prejudica o seu organismo
+intrauterino	dentro do útero
+ipdm conter cfc	tipo de bombinhas de spray com pressão, que libera remédio em forma de nuvem na boca, que é respirada, em uma dose controlada 
+irritabilidade	qualidade do que incomoda; reação de órgão ou tecido a algum estímulto. Quando a criança fica mais chorosa e agitada por causa de algum incômodo, como um sintoma de uma doença
+lábio leporino	problema de formação do bebê em que ocorre uma divisão do lábio superior, normalmente abaixo do nariz, tratável com cirurgia
+laceração	ferimento
+lactação	amametntação
+lactação adotiva	quando uma mulher que adota uma criança consegue amamentar essa criança no peito, mesmo sem ter passado pela gravidez
+lactante	a mãe que dá o leite do seu peito para o bebê
+lactente	criança que ainda mama no peito da sua mãe
+lactente	a criança, com até 24 meses de idade, que mama no peito da mãe
+lactéo	do leite, semelhante ao leite, com leite
+lactose	açúcar/carboidrato presente no leite
+lanolina	pomada natural feita com gordura da lã de ovelha, ajuda a curar machucados nos mamilos
+laringite	infecção na região das cordas vocais que, geralmente, dura menos de três semanas; alguns dos sintomas são dor de garganta, voz rouca, febre, pigarro, dor de cabeça
+laringite aguda	infecção na região das cordas vocais; em crianças, também pode atingir as vias rspiratórias; os principais sintomas são dor de garganta, voz rouca, tosse e problemas para engolir
+lesão	machucado, ferimento, injúria
+lesão cortante	machucado com corte
+liber	desejo sexual; tesão
+licença maternidade	direito que mulheres de carteira assinada possuem de se afastar do trabalho por pelo menos 120 dias, após darem à luz ou adotarem uma criança; durante o afastamento, elas continuam recebendo salário
+líquido amniótico	líquido que envolve o bebê quando está dentro da barriga da mãe
+líquido amniótico meconial	líquido que envolve o bebê quando está dentro da barriga da mãe que tem resíduos da digestão do bebê
+livre demanda	quando a criança mama em um ou nos dois seios, quando sentir fome, sem horário marcado, pelo tempo que quiser
+loquiação	sangramento natural, pela vagina, depois do parto
+lombriga	tipo de verme parecido com uma minhoca; o mesmo que "ascaridíase"; ver "verminose"
+longevidade	duração de vida
+luxação	quando articulações e ossos são deslocados, geralmente por batidas, lesões ou quedas
+má oclusão	quando os dentes de cima e os dentes de baixo não encaixam ao fechar a boca
+malformação	formação fora do normal de alguma função ou estrutura do corpo
+mamilo	bico do seio
+mamilo inverter	quando o bico do seio fica para dentro
+mamilo plano	quando o bico do seio não está muito para fora, ficando no mesmo nível do seio
+mastite	inflamação nas mamas; geralmente acontece nos primeiros três meses de amamentação. Causa dificuldades na amamentação, acúmulo de leite e lesões no bico do seio (fissuras). Os sintomas podem incluir dor nos seios, inchaço, calor, febre. 
+maturação biológica	mudanças no corpo, crescimento e desenvolvimento, que terminam na idade adulta
+mecônio	fezes produzidas pelo intestino do bebê enquanto ainda está dentro do útero
+medicação antiácida	remédio que diminui o nível de ácido no estômago
+medicamento antiácido	remédio que diminui o nível de ácido no estômago
+meninge	membranas que revestem o cérebro e a medula espinhal, com função de protegê-los
+meningite	doença em que há infecção das membranas que revestem o cérebro e a medula espinhal; alguns tipos podem ser evitados por vacina
+meningococo	bactéria capaz de causar a meningite, inflamação grave das membranas que envolvem o cérebro
+meningocococemia	tipo de meningite, inflamação grave das membranas que envolvem o cérebro
+infecção generalizada causada por meningococo
+mercúrio	elemento químico de símbolo Hg, é um metal líquido em temperatura ambiente. Presente em remédios como o merthiolate (timesoral) e em algumas vacinas, como conservante
+metabolismo	conjunto de reações que acontecem nas células do nosso corpo que tem diversas funções, como obter energia
+metabolização	transformação de uma substância em outra durante o metabolismo
+método canguru	programa de assistência ao recém-nascido de baixo peso e suas famílias. Promove, através do contato pele a pele precoce entre a mãe e o bebê, maior vínculo afetivo, controle térmico e melhor desenvolvimento. Ver "contato pele a pele"
+mialgia	dor muscular
+microbiota intestinal	flora intestinal
+microcefalia	quando o cérebro da criança não se desenvolve completamente, assim o tamanho da cabeça é menor do que o esperado
+microcefalia congênita	quando o bebê nasce com o tamanho da cabeça menor do que o esperado para a idade no momento do nascimento e para o sexo. Tem causa genética ou ambiental, como infecção durante a gravidez
+mineralização óssea	processo de formação dos ossos, quando adquirem massa e ficam fortes. Inicia no feto, dura toda a infância e vai até a adolescência
+miocardite	inflamação do músculo do coração (miocárdio)
+mioclonia	contração muscular brusca, involuntária e de brevíssima duração
+ml	abreviatura de "mililitro"; unidade de medida de líquidos; volume equivalente a uma parte em mil de um litro
+modelo biopsicossocial	modelo que estuda a causa e o avanço de doença com base em fatores da vida e do comportamento das pessoas
+moisés	tipo de berço pequeno que se pode carregar por alças
+moleiro	espaço entre os ossos da cabeça do recém-nascido; o mesmo que "fontanela"
+monilíase	"candidíase", infecção causada por um fungo chamado Candida albicans, o mesmo que causa o "sapinho" na boca das crianças
+mononucleose	tipo de virose transmitida pela saliva; conhecida como "febre do beijo"
+mordedura	ferimento causado por mordida
+morte súbita	morte repentina, que não se espera
+movimento respiratório por minuto	medida da frequência respiratória (quantas vezes uma pessoa respira por minuto)
+mutagênese	modo pelo qual as informações genéticas são alteradas, resultando na mutação
+naftalina	veneno em forma de bolinhas brancas usado em casas para afastar traças, baratas e outros insetos
+náusea	enjoo, ânsia, vontade de vomitar
+nebulizador	aparelho, geralmente elétrico, que gera vapor de água para a pessoa respirar; usado quando a pessoa precisa receber um remédio através da respiração 
+nebulizar	dar algum remédio, que a pessoa respira, sob a forma de vapor. O remédio vai para os pulmões, pela respiração do vapor em uma máscara 
+nefrologista pediátrico	médico pediatra que cuida do sistema urinário, principalmente rins e urina da criança
+nematelmintos	tipo de vermes como a lombriga, com forma semelhante à de uma minhoca
+neonatal	do recém-nascido; do período das quatro primeiras semanas de vida do bebê
+neonato	o recém-nascido com até 28 dias de vida
+neonatologia	especialidade médica, da Pediatria, que estuda e trata do recém-nascido, o bebê até 28 dias de vida
+neonatologista	médico pediatra que é especialista em tratar crianças do nascimento até os 28 dias de vida
+neurocomportamental	que diz respeito a como o cérebro se comporta e de que modo isso afeta no desenvolvimento
+notificação compulsória	informação obrigatória, feita pelo profissional de saúde para o governo ou Secretaria de Saúde, quando atender pessoa que tenha ou possa ter algum tipo de doença ou problema que precisa de atenção e controle de órgão públicos, por causa de sua gravidade ou pelo perigo de transmissão
+óbito	morte
+obstetra	médico que cuida do desenvolvimento do feto, além de cuidar da mulher na gravidez, no parto e no pós-parto
+obstrução nasal	quando algo entope o nariz
+ocitocina	hormônio produzido pela mãe com função de ajudar nas contrações do útero, diminuir o sangramento durante o parto e estimular a liberação do leite materno das mamas
+oclusão	fechamento; ramo da odontologia que trata do funcionamento da mordida 
+odinofagia	dor para engolir
+oclusão dentária	contato dos dentes superiores com os inferiores na mordida
+odontológico	da odontologia, relacionado com a especialidade do dentista
+odontopediatra	dentista especializado em crianças
+oligossintomático	a pesquisar
+ordenha	termo não recomendado por poder causar desconforto na mãe; retirada do leite do peito, feita com as mãos ou com bombinha 
+organismo	corpo; conjunto formado por órgãos e estruturas que interagem com objetivo de fazer processos essenciais à vida
+otite	inflamação de algumas das regiões do ouvido 
+otite média	infecção do ouvido médio, parte do ouvido que fica depois da membrana do tímpano, causada por vírus e bactérias, provocando inflamação
+oxímetro	aparelho, preso ao dedo da pessoa, que mede a quantidade de oxigênio sendo transportado no sangue 
+palatabilidade	grau de aceitação de um alimento
+palato	céu da boa
+palivizumabe	medicamento utilizado na prevenção de infecções por um tipo de vírus respiratório
+palpitação	batimento acelerado ou irregular do coração
+paramédico	profissional habilitado para auxiliar os médicos
+parassonias	movimentos anormais e inconscientes que atrapalham o período do sono
+parentalidade	função de cuidar desempenhada pelos adultos responsáveis pela criança
+parestesia	sensação de formigamento, agulhadas, adormecimento, pressão, que não é causada por algo de fora do corpo
+parotidite	o mesmo que "caxumba"; infecção causada por vírus que afeta as glândulas que produzem a saliva; prevenida com vacina
+parto de lótus	tipo de parto em que o bebê, depois de nascer, segue ligado à placenta da mãe pelo cordão umbilical, até que se solte naturalmente 
+parto múltiplo	parto de mais de um bebê
+parturiente	a mulher em trabalho de parto ou que acabou de parir
+parvovirose humano	infecção pelo parvovírus humano - que não tem relação com o parvovírus de cachorros; pode ser grave devido à chance de transmissão da mãe para o feto, podendo resultar em alterações no desenvolvimento, anemia intrauterina, problema do coração e até mesmo aborto
+parvovírus	tipo de vírus que geralmente atinge filhotes de cachorros; alguns dos menores vírus encontrados na natureza
+parvovírus 19	tipo de vírus que ataca pessoas e causa o eritema infeccioso, caracterizado por manchas e erupções vermelhas nos braços, pernas e rosto
+parvovírus humano	tipo de vírus que causa o eritema infeccioso, caracterizado por manchas e erupções vermelhas nos braços, pernas e rosto
+patogênese	origem das doenças; aquilo que causa a doença; o mesmo que "patogenia"
+patogênese viral	mecanismo pelo qual um vírus produz doenças em seus hospedeiros ou destrói células para produzir sinais e sintomas da doença
+patogenia	origem das doenças; aquilo que causa a doença; o mesmo que "patogênese"
+patogênico	que causa doença
+patógeno	micro-organismos, como bactérias, vírus, fungos etc. que causam doenças se conseguirem entrar no corpo do hospedeiro (pessoa, animal)
+patologia	que é fora do normal, podendo mostrar uma doença; área da medicina e da biologia que estuda as doenças e o que elas causam no organismo
+percentual de linfócitos t  cd4 +	quantidade de um subtipo de glóbulos brancos no sangue, responsáveis por defender o organismo
+perímetro cefálico	tamanho da cabeça
+perinatal	período que cobre o tempo da gravidez, do parto e de depois do parto
+períneo	região do corpo, na mulher, fica entre a entrada da vagina e o ânus; no homem, fica entre o saco escrotal e o ânus
+período intrauterino	fase em que a criança se desenvolve dentro da barriga da mãe
+período neonatal	medida de tempo que corresponde às quatro primeiras semanas de vida do bebê, ou seja, seus primeiros 28 dias de vida
+pertussis	coqueluche; tosse comprida; doença muito contagiosa causada por bactéria, provoca tosse intensa com som longo; prevenida com vacina
+ph	medida da quantidade de acidez de uma substância/solução. Uma solução neutra tem valor 7;  valores menores que 7 indicam uma solução ácida e os valores maiores que 7 mostram uma solução básica
+placenta	órgão que se forma dentro do corpo da mãe, durante a gravidez, para fazer trocas entre o organismo da mãe e o do bebê; é eliminado depois do parto
+plasticidade neural	capacidade do cérebro da criança tem em desenvolver novas conexões entre os neurônios a partir da experiência e do comportamento do indivíduo
+platelmintos	tipo de vermes que têm o corpo achatado, em forma de fita
+pneumococo	bactéria causadora de doenças como meningite, pneumonia, otite; esssa bactéria pode ser muito prejudicial para crianças menores de 5 anos; combatida através de vacina 
+pneumonia	inflamação no pulmão
+pneumonia por aspiração	inflamação no pulmão causada pela entrada de substâncias da boca e/ou do estômago para dentro do pulmão, traquéia ou brônquios
+poliomielite	doença contagiosa que pode causar a paralisia infantil, provocada pelo poliovírus, transmitida por água e alimentos contaminados ou contato com uma pessoa infectada. Prevenida por vacina tomada, em gotas, pela boca, por todas as crianças menores do que 5 anos
+posição canguru	quando se coloca o recém-nascido, em contato pele a pele, somente de fraldas, na posição vertical junto ao peito dos pais. Deve ser realizada de maneira orientada, segura e acompanhada por equipe de Saúde capacitada
+pré natal	série de consultas médicas para a mulher grávida com realização de diferentes exames para garantir que tudo esteja bem no momento do nascimento
+pré termo	prematuro; bebê que nasceu antes do tempo de 37 semanas de gestação
+predisposição	tendência; probabilidade alta contrair ou desenvolver certa doença
+prematuro	bebê que nasce antes de a gravidez completar 37 semanas 
+pressão arterial	medida da força que o sangue exerce contra as paredes das vias pelas quais ele circula
+pressão arterial normal	medida normal da força que o sangue exerce contra as paredes das vias pelas quais ele circula
+prevalência	medida do número de casos de uma doença existente em determinada população em um período específico (prevalência no período) ou determinado momento (prevalência pontual)
+primeira infância	período de vida da criança que vai até os 6 anos de idade
+primeiríssima infância	período de vida da criança que vai até os 3 anos de idade
+problema cardíaco	problema relacionado ao coração
+problema motor	problema no movimento
+problema neurológico	problema relacionado ao sistema nervoso, como o cérebro e os nervos
+como cérebro, medula e nervos periféricos
+profilaxia	cuidado para prevenir doenças; parte da medicina que trata de prevenir ou evitar doenças
+prognóstico	previsão, feita pelo médico, baseada em evidências científicas/estudos, sobre do que pode acontecer no tratamento de uma doença
+prolactina	hormônio da produção do leite materno
+prostração	estado de desânimo; sem ânimo ou força
+prostrar	desanimado, sem reação, sem ânimo ou força
+protusão de o mamilo	quando o bico do seio sai para a frente, facilitando a mamada do bebê
+prurir	coceira, irritação, desconforto
+psico afetivo	a pesquisar
+pterígio	membrana em forma de triângulo que cresce da conjuntiva (parte branca do olho) em direção a íris (parte colorida do olho)
+puericultura	ramo da medicina que estuda os cuidados para o bom desenvolvimento da criança
+puérpera	a mulher logo após o parto; processo de recuperação da gravidez com uma série de modificações físicas e psicológicas do corpo da mulher
+puerpério	período logo após o parto;  quando o corpo da mãe está em processo de recuperação da gravidez, sofrendo uma série de modificações físicas e psicológicas
+pus	líquido amarelado que se forma durante infecções no corpo
+quadro clínico	sinais e sintomas da doença
+quadro familiar	situação de saúde dos membros de uma família
+queimadura	ferimento causado por fogo, calor, sol ou por algum produto químico
+pode ser causada por gelo também
+queloide	cicatriz grossa e alta; que cresce de forma anormal
+raio ultravioleta	a pesquisar
+raticidar	veneno para matar ratos; substância perigosa que se deve evitar ter em casa 
+recém nascer	bebê até os 28 dias do seu nascimento
+recém nascer pré termo	bebê de até 28 dias que nasceu antes do tempo de 37 semanas de gestação
+recém nascer	bebê até os 28 dias do seu nascimento
+recém nascer pré termo	bebê de até 28 dias que nasceu antes do tempo de 37 semanas de gestação
+recém nascer prematuro	bebê de até 28 dias que nasceu antes do tempo de 37 semanas de gestação
+refluxo	quando o alimento que comemos volta ao esôfago, podendo chegar a boca, junto com o ácido do estômago, causando sensação de queimação, muito conhecida como azia
+refluxo de o bebê	quando o bebê, logo depois de mamar, devolve um pouco do que engoliu, como um leite coalhado; o mesmo que "regurgitação"
+refluxo fisiológico	refluxo leve que não causa inflamação nem precisa de tratamento médico
+refluxo gastroesofágico	refluxo grave que causa inflamação no esfôfago e precisa de tratamento médico
+refluxo doença	refluxo grave que causa inflamação no esfôfago e precisa de tratamento médico
+regurgitação	quando o alimento volta para a boca sem a criança fazer esforço, ao contrário do vômito
+relactação	técnica que provoca a produção de leite depois de uma interrupção temporária da amamentação
+resfriar	não confundir com "gripe"; geralmente causado por rinovírus e outros vírus; o resfriado causa febre baixa, tosse, e o nariz escorre; provoca mal-estar passageiro
+ressecção	procedimento cirúrgico em que se retira parte de um osso ou de um órgão
+de um osso, órgão ou tecido
+ressonância magnética	exame de imagem de alta definição usado para descobrir vários tipos de doenças
+retardar	atrasado; que demora; que acontece devagar
+retinoblastoma	tipo de câncer no olho, fazendo com a criança tenha a pupila branca, fique vesga ou tenha problemas para enxergar
+reto	parte final do intestino, que termina no ânus
+reumatismo infeccioso	doença gerada pelo próprio corpo como efeito de infecções que foram mal curadas, geralmente infecções de garganta; o mesmo que "febre reumática" 
+rinite	inflamação dentro do nariz causada por infecção, alergia ou irritação
+rinite alérgica	inflamação dentro do nariz causada por alergia
+rn	sigla de Recém-Nascido; a criança até 28 dias de vida
+rotavírus	tipo de vírus comum e muito contagioso que causa vômito e diarreia; o mesmo que "doença diarreica"
+é um dos vírus que pode causar doença diarréica
+rubéola	infecção contagiosa causada por um vírus; é evitada por vacina, causa febre, manchas avermelhadas e dor no corpo. Em mulheres grávidas, pode levar a problemas de formação no corpo do bebê
+rvu	sigla de Refluxo Vésico-Ureteral; quando a urina volta da bexiga, através do ureter, podendo chegar até o rim
+saciedade	sensação de estar satisfeito após comer, sem fome
+saliência óssea	elevação na superfície do osso, pode ser sinal de osteossarcoma
+saliva	líquido naturalmente presente na boca; baba; cuspe
+sangramento urinário	sangramento ao fazer xixi
+sarampo	doença causada por um vírus e transmitida por tosse e espirro; causa, principalmente, manchas vermelhas no corpo, febre e tosse; pode ser fatal 
+sbp	sigla de Sociedade Brasileira de Pediatria; organização sem finalidade lucrativa que reúne os médicos pediatras do Brasil
+sedativo	remédio que faz dormir; remédio que diminui a ansiedade; calmante
+sedentarismo	condição de quem pratica pouca ou nenhuma atividade física/exercícios
+sensação tátil	sensação do toque, tato
+sepse	quando a resposta do sistema de defesa do corpo a uma infecção cria problemas para o organismo, fazendo com que vários órgãos parem de funcionar
+septicemia	quando a resposta do sistema de defesa do corpo a uma infecção cria problemas para o organismo, fazendo com que vários órgãos parem de funcionar; o mesmo que "sepse"
+sequela	efeito ruim; algo ruim que é deixado depois de uma doença ou problema
+sesta	soneca, cochilo
+sesta diurno	cochilo ou soneca durante o dia, geralmente após o almoço
+sexualização	ação de tornar algo erótico, atraente para relação sexual
+sexualização precoce	ação de tornar algo erótico, atraente para relação sexual, antes da fase adulta; em crianças, pode favorecer abusos sexuais
+sinal vital	sinais de vida: temperatura, respiração, batimentos do coração e pressão
+sinapse	ponto de contato entre os neurônios, as células do cérebro
+síndrome de asperguer	condição em que a pessoa, embora tenha dificuldades de socialização e expressão, mostra-se muito inteligente e aplicada no que faz. Ver "espectro autista"
+síndrome de down	condição da pessoa, determinada por sua genética, que ocorre durante a formação do feto, e causa comprometimento intelectual e problemas do coração;  suas principais características são os olhos puxados, rosto arredondado e dificuldades de desenvolvimento
+síndrome de kawasaki	o mesmo que "doença de Kawasaki";  doença infantil rara que causa inflamação das paredes dos vasos sanguíneos
+síndrome de raye	tipo de complicação do herpes-zóster; doença rara que causa inflamação no cérebro e que pode matar, associada ao uso de AAS (analgésico), principalmente em crianças
+síntese	produção de algo a partir de um conjunto de elementos
+sintoma	o que a pessoa sente quando tem uma doença
+sistema imunitário	conjunto de células e moléculas que protegem nosso corpo de doenças, infecções, vírus, etc., como uma grande barreira de proteção
+sistema imunológico	conjunto de células e moléculas que protegem nosso corpo de doenças, infecções, vírus, etc., como uma grande barreira de proteção
+sistema nervoso central	rede de comunicação do nosso corpo formada pelo cérebro, medula espinhal e nervos
+sistema renal	sistema urinário; tem o importante papel de manter as diversas funções do nosso organismo em equilíbrio
+sobrepeso	peso acima do normal
+sobrar	prolongamento da vida
+socialização	convivência de uma criança com outras
+socialização alimentar	processo da criança conhecer novos alimentos e aprender hábitos alimentares pelo contato com outras pessoas 
+soda cáustica	produto químico super perigoso, muito usado em limpezas pesadas e para fazer sabão; pode causar queimaduras graves. O mesmo que "hidróxido de sódio"
+solução reidratante	mistura de subtâncias em líquidos usadas hidratar o organismo; o "soro caseiro" é um exemplo
+solvente	substâncias que dissolvem outras, sendo a água o solvente mais conhecido. Alguns solventes podem ser perigosos: querosene, gasolina, álcool, acetona e thinner 
+soro caseiro	mistura de 1 copo de água fervida com 1 medida rasa de sal e 2 medidas rasas  de açúcar, usada para tratar desidratação de crianças
+soro fisiológico	mistura de substâncias que pode ser usada para hidratação do corpo, limpeza de olhos e limpeza do nariz. Também conhecido como "cloreto de sódio 0,9%"
+subabdominal	que fica abaixo ou embaixo da barriga
+sufocação	dificuldade ou impossibilidade de respirar
+suplementador	aparelho usado para alimentar o bebê quando a mãe está com dificuldade de amamentar. É composto por um recipiente onde fica o leite e um tubo fino (sonda) que deve ser colado com uma fita no seio da mãe. O bebê é colocado no seio da mãe para mamar, o que ajuda a manter as mamas estimuladas, mas, na verdade, se alimenta do leite que vem por esse tubo fino
+sutura	dar pontos; quando o médico ou dentista "costura" a pele, os músculos, vasos sanguíneos e/ou outros tecidos do corpo humano, após uma lesão
+tabagismo	doença em que a pessoa fica viciada em nicotina, substância presente em produtos em que há fumo ou tabaco, como cigarros, cigarrilhas, cigarros eletrônicos, naguilés, charutos ou  cachimbos
+tabagista	pessoa viciada em nicotina que fuma produtos com fumo ou tabaco (cigarro, cigarrilhas, cigarros eletrônicos, naguilés, charutos, cachimbos)
+tgo	exame de sangue para verificar problemas no fígado. Mede os níveis da enzima transaminase glutâmico oxalacética (TGO)
+tgp	exame de sangue que para verificar problemas no fígado. Mede os níveis da enzima alanina aminotransferase, também chamada de transaminase glutâmico pirúvica (TGP)
+tandem	quando a mãe dá de mamar para dois filhos de idades diferentes
+tartrazina	substância que dá cor a alguns alimentos (como as gomas coloridas) e remédios; pode causar alergia em algumas pessoas 
+tdah	sigla de Transtorno do Déficit de Atenção com Hiperatividade; doença que costuma aparecer na infância e normalmente acompanha a pessoa por toda a sua vida, caracterizada por desatenção, inquietude e impulsividade 
+terapia curativo	quando um tratamento tem capacidade de curar uma pessoa; livrando-a de uma doença
+teratogênese	problema na formação do bebê durante a gravidez
+teste de o linguinha	teste para descobrir se o bebê tem língua presa. Feito logo após o nascimento examinando-se a boca e língua do bebê
+teste de o orelha	teste usado para descobrir problemas na audição do bebê. Consiste em colocar um pequeno aparelho na orelha do recém-nascido, produzir um som e verificar como ele é recebido pelo bebê
+teste de o coraçãozinho	teste para descobrir algumas doenças graves do coração do bebê. Costuma ser feito no segundo dia de vida do bebê e mede o nível de oxigênio no sangue com um aparelho chamado "oxímetro"
+teste de o olho	teste para verificar possíveis doenças nos olhos, é feito colocando-se uma luz especial nos olhos do bebê. Também conhecido como "teste do reflexo vermelho"
+teste de o pã©	exame obrigatório do bebê recém-nascido, entre o terceiro e o quinto dia de vida. Feito com gotas de sangue do calcanhar para testar a presença de uma série de doenças que poderão ser tratadas a tempo
+teste de o reflexo vermelho	"teste do olhinho"; teste para verificar doenças nos olhos dos bebês; é colocada uma luz específica nos olhos e observa-se os reflexos
+tétano	infecção causada por uma bactéria que entra no corpo através de machucados na pele; o corpo da pessoa com tétano fica mais rígido e isso pode dificultar a respiração e levar à morte. Não passa de pessoa para pessoa; prevenida com vacina
+tifo	doença causada por uma bactéria que entra em contato com os humanos pela picada de piolhos, pulgas e carrapatos. Não confundir com "febre tifoide" 
+timerosal	remédio líquido ou spray usado para desinfetar feridas e matar fungos conhecido pelo nome "merthiolate";
+substância usada para matar fungos e bactérias 
+tônus	firmeza; boa sustentação e elasticidade
+tônus muscular	condição dos músculos que permite a boa sustentação do corpo da pessoa, ajuda na sustentação dos órgãos dentro do corpo e favorece a movimentação
+tórax	o tronco do corpo; região do corpo que fica da base do pescoço até a barriga
+tosse comprido	o mesmo que "coqueluche"; doença muito contagiosa causada por bactéria, provoca tosse intensa com som longo; é prevenida com vacina
+toxina	substância de origem natural que pode causar danos à saúde
+toxoplasmose	doença infecciosa, não contagiosa, causada pelo protozoário chamado “Toxoplasma Gondii”, encontrado no cocô de gatos e de outros felinos, que pode se hospedar em humanos e em outros animais. Ligada ao uso de água ou de alimentos contaminados, é uma das doenças transmitidas por animais mais comuns no mundo
+toxoplasmose congênita	toxoplasmose transmitida da mãe para o bebê durante a gravidez; ocorre quando se toma água contaminada, come carnes e verduras cruas ou outros alimentos contaminados, podendo gerar problemas no cérebro, na visão e na audição do bebê. Causada pelo protozoário chamado “Toxoplasma Gondii”, encontrado no cocô de gatos e de outros felinos, que pode se hospedar em pessoas e em outros animais
+translactação	quando se coloca um copo ou xícara com leite (de preferência leite humano pasteurizado), entre as mamas da mãe, ligando o conteúdo do copo ao mamilo por meio de uma sonda, que fica presa na pele do seio. A criança, ao sugar, receberá o leite pela sonda, continuando a estimular a mama e ficando alimentada
+transmissão vertical	o que passa da mãe para o filho, durante a gravidez ou durante o parto
+transtorno de o déficit de atenção e hiperatividade	o mesmo que TDAH; doença crônica caracterizada pela desatenção extrema, desorganização, comportamento impulsivo, inquietude, entre outros
+tratamento curativo	quando um tratamento tem capacidade de curar a pessoa, que deixa de ter uma doença
+trato urinário	órgãos e partes do corpo relacionados diretamente ao processo de filtração das impurezas do sangue e de produção e eliminação do xixi
+trauma	machucado, ferimento ou lesão
+trauma mamilar	machucado no bico do seio
+traumatismo	machucado, ferimento ou lesão
+traumatismo cranioencefálico	problema no cérebro causado geralmente por golpe violento na cabeça (em quedas ou acidentes de carro, por exemplo); alguns sintomas são confusão mental e dificudade de concentração; em bebês, há irritação e choro persistente 
+traumatismo medular	lesão, trauma ou ferimento na medula espinhal (estrutura que fica na coluna),  pode levar à perda da sensibilidade ou do movimento do corpo
+triagem auditivo neonatal	teste da orelhinha; teste para verificar se o bebê tem algum problema para escutar
+triagem inicial	testes específicos, como por exemplo, teste pezinho, olhinho, coraçãozinho, orelhinha, linguinha,
+usados para descobrir doenças do bebê
+troca gasoso	troca de oxigênio presente no ar entre os pulmões e o sangue. Processo necessário para manter os órgãos do corpo funcionando
+trombocitopenia	baixa quantidade de plaquetas, responsáveis pela coagulação, no sangue
+causando sangramentos
+trompa de eustáquio	tubo que conecta o nariz ao ouvido
+tuba uterino	tubo que liga os ovários ao útero da mulher. Também conhecido como "trompas de Falópio"
+tuberculose	doença contagiosa muito grave que causa inflamação nos pulmões, causada pelo "bacilo de Koch" (Mycobacterium tuberculosis); curada com uso de medicamentos, se forem tomados de modo correto conforme indicado pelo médico
+tutela	guarda; responsabilidade de cuidar de algo ou de alguém
+ultravioleta b	tipo de radiação do sol que chega até a terra e causa danos na pele (exemplo: queimaduras) 
+umidificador	aparelho elétrico que libera vapor de água no ar; usado quando o ar do ambiente está muito seco
+uréter	tubo que liga o rim com a bexiga, levando a urina
+urina	xixi
+urticária	lesão de pele que costuma ficar vermelha e com bastante coceira. Pode ser causada por alérgia a remédios e alimentos, por exemplo 
+úvula	a campainha da garganta
+úvula bífida	quando a campainha da garganta aparece dividida em duas partes
+vacina	substância que se introduz no corpo para que o organismo aprenda a se proteger de uma doença infectocontagiosa
+vacina antipneumocócica	vacina que reduz o risco de infecções graves causadas pelo "pneumococo", bactéria que pode causar infecções respiratórias (otite, sinusite, pneumonia) e até infecções generalizadas (meningite, sepse)
+vacina heptavalente	combinação de 7 vacinas numa só. Até hoje nunca foram produzidas vacinas heptavalentes. Já houve planos de associar vacinas contra difteria, tétano, coqueluche, Haemophilus influenzae b, poliomielite, hepatite B e meningite C, assim como projetos de juntar numa só vacina sete subtipos de papilomavírus humano, mas ainda nenhum tipo desses foi concretizado para uso.
+vacina monodose	quando a vacina só precisa ser tomada uma única vez; quando tem uma dose da vacina por frasco. 
+vacina pneumocócica	vacina que protege contra infecções causadas pelo pneumococo, bactéria que pode causar infecções respiratórias (otite, sinusite, pneumonia) e até infecções generalizadas (meningite, sepse).
+vacina tetro viral	combinação de 4 vacinas contra vírus diferentes. Na prática, quando se diz "vacina tetraviral", estamos nos referindo à combinação das vacinas contra o sarampo, a caxumba, a rubéola e a varicela (catapora).
+vacina tetravalente	junção de 4 vacinas em uma só. Durante algum tempo, esse nome foi usado para se referir a um tipo específico de combinação de vacinas que protegia contra a difteria, o tétano, a coqueluche e infecções graves causadas pelo Haemophilus influenzae tipo b.
+vacina tetraviral	uma combinação de 4 vacinas contra vírus diferentes. Na prática, quando se diz "vacina tetraviral", estamos nos referindo à combinação das vacinas contra o sarampo, a caxumba, a rubéola e a varicela (catapora).
+vacina tríplice	junção de 3 vacinas em uma só. Hoje em dia, quando dizemos "vacina tríplice", estamos geralmente falando da chamada "vacina tríplice viral", que protege contra três doenças causadas por vírus: sarampo, caxumba e rubéola. Também existe a "vacina tríplice bacteriana", que protege contra três doenças causadas por bactérias: difteria, tétano e coqueluche
+valor calórico	número de calorias; quantidade de energia que o corpo recebe ao se alimentar
+valor energético	quantidade de energia gerada no corpo pelo alimento
+varicela	doença muito contagiosa, também chamada de "catapora"; causada pelo vírus varicela-zóster, que em geral ataca crianças e que se manifesta por lesões de pele, como bolhas e feridas, com coceira forte. Evitada com vacina
+varíola	primeira doença contagiosa a ser completamente eliminada (erradicada) com vacinação. Hoje não existe mais no mundo.
+vaso sanguíneo	canal pelo qual o sangue circula no corpo
+ventilação mecânica contínua	técnica de tratamento médico usada quando a pessoa por alguma razão não está conseguindo respirar por conta própria. Nesses casos, é usada uma máquina que faz a respiração pela pessoa
+ventilação oscilatória de alto frequência	um dos tipos de "ventilação mecânica", que é a técnica de tratamento médico utilizada quando a pessoa está com dificuldade para respirar por conta própria
+verminose	quando a pessoa tem vermes; grupo de doenças causadas por vermes que geralmente ficam no intestino; relacionadas com alimentos e água contaminados, falta de saneamento básico e hábitos de higiene. Os vermes também podem atingir órgãos, como fígado, pulmões e cérebro 
+vérnix	camada de gordura que recobre a pele do recém-nascido,
+protegendo contra infecções e perda da temperatura
+vérnix caseoso	camada de gordura que recobre a pele do recém-nascido, protegendo contra infecções e perda da temperatura
+vilosidade	espécie de "dobras" do intestino que ajudam na absorção dos nutrientes dos alimentos
+vírus influenza	vírus causador da gripe. Não confundir "gripe" com "resfriado"
+vitamina d	nome de substância que é, na verdade, um hormônio produzido pelo corpo humano; o melhor modo de ativar a vitamina D no organismo é tomar sol. É responsável pela saúde de nossos ossos e importante na força muscular. Durante a gravidez, a falta na mãe pode prejudicar o bebê
+vitamina de o complexo b	substância que faz parte de um conjunto de nutrientes presentes nos alimentos, importantes para várias funções no corpo
+vitamina k	grupo de vitaminas presente em vegetais que são importantes para o sangue e ossos
+volume urinário	medida da quantidade de xixi que a pessoa faz
+zica	infecção causada pelo vírus Zika (Zica), transmitido pelo mosquito Aedes aegypti, o mesmo transmissor da dengue e da febre chikungunya; é transmissível por relações sexuais ou da mãe para o bebê, durante a gestação. Se a infecção ocorrer durante a gestação, o bebê pode nascer com várias alterações
+zica vírus	vírus causador da zica/zika;infecção causada pelo vírus Zika (Zica), transmitido pelo mosquito Aedes aegypti, o mesmo transmissor da dengue e da febre chikungunya; é transmissível por relações sexuais ou da mãe para o bebê, durante a gestação. Se a infecção ocorrer durante a gestação, o bebê pode nascer com várias alterações
+zigoto	célula resultande da união do espermatozóide e do óvulo, fase inicial do feto
+zika	infecção causada pelo vírus Zika (Zica), transmitido pelo mosquito Aedes aegypti, o mesmo transmissor da dengue e da febre chikungunya; é transmissível por relações sexuais ou da mãe para o bebê, durante a gestação. Se a infecção ocorrer durante a gestação, o bebê pode nascer com várias alterações
+zika vírus	vírus causador da zica/zika;infecção causada pelo vírus Zika (Zica), transmitido pelo mosquito Aedes aegypti, o mesmo transmissor da dengue e da febre chikungunya; é transmissível por relações sexuais ou da mãe para o bebê, durante a gestação. Se a infecção ocorrer durante a gestação, o bebê pode nascer com várias alterações
 "
-cianose 	quando a pessoa fica com as mãos, unhas, lábios ou redor dos olhos em cor azulada ou roxa, sinal de falta de ar
-cirrose 	doença muito grave do fígado; pode levar à morte
-citomegalovírus 	sigla CMV; vírus da mesma família do herpes e catapora; pode causar doença grave em bebês que são infectados antes ou na hora do nascimento
-citronela 	substância derivada de plantas que ajuda a espantar insetos
-colestase obstétrica 	problema durante a gravidez em que o fluxo da bile fica prejudicado, fazendo com que toxinas se acumulem no fígado da mãe
-cólica de o lactente 	choro repentino, inexplicado e inconsolável, que não para ou diminui com medidas habituais de conforto do bebê 
-colite alérgica 	inflamação do intestino, geralmente causada por alergia ao leite
-colostro 	o leite da mãe logo após o parto entre 5 e 7 dias de vida do bebê; é mais grosso e amarelado, tem mais proteínas, menos gordura e mais anticorpos; oferece grande proteção contra infecções, sendo uma “primeira vacina” do bebê
-colutório 	remédio líquido usado na boca, em bochechos
-compor lácteo 	produto alimentício que é uma mistura de leite (no mínimo 51%) com outros ingredientes; não é sinônimo de "leite" ou de "leite em pó"
-concepção 	quando o óvulo é fecundado pelo espermatozóide
-concha 	peça, em geral feita de silicone, colocada sobre a mama, embaixo do sutiã, para prevenir ou ajudar a tratar bico do seio machucado, recolher o leite que vaza e aliviar possíveis dores. Também usada para corrigir problemas no bico do seio, como "mamilos planos" ou  "mamilos invertidos"
-concha de amamentação 	objeto plástico em forma de disco, com um buraco redondo no meio, colocado sobre o seio da mãe, para ajudar o bico do seio a sair para a frente, faciltando a mamada do bebê
-concha para seio 	objeto plástico em forma de disco, com um buraco redondo no meio, colocado sobre o mamilo da mãe, para ajudar o mamilo a sair para a frente, faciltando a mamada do bebê
-condições clínicas 	estado da pessoa verificado durante diagnóstico ou tratamento de saúde
-condições clínicas de base 	estado inicial da pessoa verificado durante diagnóstico ou tratamento de saúde
-congênito 	condição do que é transmitido dos pais para os filhos, antes do nascimento
-conjuntivite 	inflamação na membrana que envolve a parte branca do olho; causa desconforto e deixa o olho vermelho
-conjuntivite bacteriano 	inflamação na membrana que envolve a parte branca do olho; causa desconforto, deixa o olho vermelho e com um líquido amarelado; pode ser resolvida com antibióticos
-conjuntivite viral 	inflamação na membrana que envolve a parte branca do olho; é altamente contagiosa e causa desconforto, olhos vermelhos e pode causar gripe e resfriado
-constipação intestinal 	intestino preso, dificuldade de evacuar, dificuldade de fazer cocô
-contato pele a pele 	procedimento em que o recém-nascido é colocado nu em contato direto com a pele do peito na mãe, assim que ele nasce ou logo depois; o mesmo que "CPP"
-contraceptivo 	métodos usados para evitar a gravidez; podem ser instrumentos, dispositivos, comportamentos e medicamentos
-convulsão 	quando os músculos do corpo, todos ou uma parte, se contraem e causam movimentos descontrolados, podendo causar desmaio. Importante: convulsão não é sinônimo de epilepsia
-coqueluche 	tosse comprida; pertussis;  doença muito contagiosa causada por bactéria, provoca tosse intensa com som longo, prevenida com vacina
-cordão umbilical 	tubo que conecta o corpo do bebê ao corpo da mãe, durante a gravidez; leva nutrientes do corpo da mãe para o corpo do filho
-corpo estranho 	objetos que as crianças podem engolir, colocar no ouvido ou no nariz, como pedrinhas, moedas, papel, insetos, sujeira etc.
-córtex cerebral 	massa cinzenta; camada de substância cinza que fica na superfície do cérebro; responsável pelo pensamento, fala, capacidade de julgar, de sentir e pelos movimentos que fazemos por vontade própria
-coto umbilical 	cicatriz do umbigo; pedaço do cordão do umbigo que fica no bebê após o corte do cordão na hora do nascimento; seca e cai entre a primeira e segunda semana, sendo fundamental cuidar da sua limpeza a cada troca de fraldas
-cpp 	sigla de "contato pele a pele"; procedimento em que o recém-nascido é colocado nu em contato direto com a pele do peito na mãe, assim que ele nasce ou logo depois
-craniano 	da cabeça, do crânio, dos ossos da cabeça
-crânio 	os ossos da cabeça
-crise convulsivo 	situação em que músculos do corpo, todos ou uma parte, se contraem e causam movimentos descontrolados, podendo causar desmaio. Importante: convulsão não é sinônimo de epilepsia
-crônico 	sem cura
-cuidado paliativo 	cuidados que buscam dar a melhor qualidade de vida possível quando não há possibilidade de cura de uma doença
-curva de crescimento 	medida feita para avaliar o crescimento e a nutrição das crianças
-cutânea 	da pele
-cutâneo 	da pele
-dado epidemiológico 	dados científicos sobre uma doença e aos aspectos de saúde relacionados em certa população
-débito urinário 	quantidade de urina eliminada pelos rins em um dado tempo
-dech crônica 	Doença Enxerto Contra Hospedeiro (DECH) crônica; problema que ocorre quando se faz um transplante de medula e as células do doador reagem contra o organismo do paciente que recebeu o transplante
-declaração de nascido vivo 	o mesmo que “Folhinha Amarela”; documento fornecido pela maternidade onde o bebê nasceu necessário para registrar o nascimento no cartório
-dedetização 	uso de produtos e técnicas para eliminar insetos ou ratos, por exemplo. 
-déficit de atenção 	problema neurológico e biológico caracterizado por dificuldade de prestar atenção, agitação, inquietude e impulsividade
-deglutição 	engolir, ingestão
-drenar 	retirar líquido
-densitometria óssea 	exame que mede a dureza dos ossos, utilizado no diagnóstico da osteoporose
-dente de leite 	é o primeiro conjunto de dentes de uma pessoa; são temporários, quando caem, nascem os dentes definitivos
-dentifrício 	creme ou pasta para ecovar os dentes
-dentifrício fluoretado 	creme ou pasta para ecovar os dentes que contém flúor na sua fórmula
-depressão anaclítica 	tipo de depressão que pode atingir o bebê, entre 6 e 18 meses, geralmente por causa do afastamento da mãe
-depressão respiratória 	incapacidade para levar oxigênio adequado às células do organismo e para retirar o excesso de dióxido de carbono
-derivar imidazolínico 	produtos descongestionantes de ação rápida e prolongada, geralmente usados pelo no nariz ou olhos
-dermatite 	inflamação na pele que deixa a área afetada inchada e vermelha, podendo causar coceira, dor e outros efeitos
-dermatite atópica 	doença que causa inflamações na pele, levando ao aparecimento de lesões e coceira
-dermatite de contato 	reação na pele ao contato com certa substância, que deixa a área afetada inchada e vermelha, podendo causar coceira, dor e outros efeitos
-dermatite perineal 	assaduras na pele do bebê, geralmente na área onde ficam as fraldas
-dermatose 	doença da pele
-descongestionantes tópico 	medicamentos indicados para o descongestionamento das vias nasais, geralmente encontrados na forma de gotas ou sprays
-desenvolvimento neural 	a pesquisar
-desenvolvimento neuropsicomotor 	desenvolvimento da linguagem, dos movimentos e do comportamento da criança com outras pessoas
-desenvolvimento sociopsicomotor 	desenvolvimento de um indivíduo em relação ao corpo e à mente em meio à sociedade
-desidratação 	quando o corpo usa ou perde água, sais minerais e líquidos produzidos pelos próprio corpo, perdendo muito mais do que a pessoa tomou; o corpo desidratado pode ter dificuldade para funcionar de modo normal
-desmame 	quando o bebê para de mamar o leite materno
-desnutrição 	quando a pessoa não está bem alimentada; falta de um ou mais nutrientes necessários no corpo
-dextrose 	açúcar, o mesmo que "glicose" ou "glucose"
-diabete 	doença que causa o aumento do nível de açúcar no sangue
-diabetes 	doença que causa o aumento do nível de açúcar no sangue
-diabetes melito 	doença que causa o aumento do nível de açúcar no sangue
-diabetes mellitu 	doença que causa o aumento do nível de açúcar no sangue
-diabete tipo 1 	doença sem cura que causa o aumento do nível de açúcar no sangue; atinge principalmente crianças e adolescentes
-diabético 	pessoa que tem a doença do açúcar elevado no sangue
-diagnóstico 	definição do tipo de doença
-diagnóstico de avbeh 	a pesquisar
-diagnóstico de dm 	diagnóstico de Diabetes Mellitus (DM); ver *diabetes
-diagnóstico de insuficiência adrenal 	doença caracterizada pela produção insuficiente dos hormônios da glândula supra-renal ou adrenal (glândula situada acima do rim)
-diagnóstico de tdah 	diagnóstico de Transtorno do Déficit de Atenção com Hiperatividade (TDAH);  ver * déficit de atenção/hiperatividade
-diagnóstico etiológico 	determinação da causa de uma doença
-diagnóstico precoce 	identificação de problemas ou doenças em seus estágios iniciais
-diarreia 	quando o cocô fica aguado e solto e isso acontece com mais frequência do que o normal
-diátese hemorrágica 	sangramento espontâneo, sem uma causa aparente; ou sangramento mais intenso que segue um traumatismo 
-dieta de exclusão 	tipo de alimentação em que determinados alimentos não devem ser consumidos
-dieta enteral 	tipo de alimentação feita através de uma sonda colocada no estômago ou no intestino
-difteria 	crupe, é uma doença respiratória que atinge garganta, nariz, amígdalas e outras regiões no entorno, dificultando a respiração. A presença de placas acizentadas na garganta é o principal sintoma. A vacina éfundamental para a prevenção
-disfunção ventricular 	condição em que os ventrículos do coração mostram deficiência na sua função
-disfunções oral 	problemas na movimentação normal da boca
-displasia broncopulmonar 	lesão pulmonar causada por respirador artificial
-dispositivo de retenção 	a pesquisar 
-dispositivo restritivo 	a pesquisar
-distenção abdominal 	quando a barriga fica inchada, causando desconforto
-distrofia muscular 	a pesquisar
-distúrbio de o falar 	impossibilidade ou dificuldade da criança se comunicar por meio das palavras faladas
-distúrbio de comportamento 	a pesquisar
-distúrbio metabólico 	a pesquisar
-distúrbios de o sono 	problemas que atrapalham o sono, como insônia, apneia, etc.
-divertículo uretral 	dilatação anormal da uretra. Ocorre tanto em homens quanto em mulheres e pode ser congênito ou adquirido após o nascimento
-dobra cutânea 	dobras da pele; medida que avalia, indiretamente, a quantidade de gordura que existe embaixo da pele, a partir daí, estima a proporção de gordura em relação ao peso do corpo
-dobra cutânea subescapular 	dobras da pele abaixo das escápulas, nas costas
-dobra cutânea tricipital 	dobras da pele na região do trícceps, músculo dos braços
-doença arterial coronariana 	doença caracterizada pelo depósito de placas de gordura nas artérias que levam sangue ao coração
-doença celíaca 	doença em que não se pode comer alimentos com glúten, uma proteína encontrada principalmente no trigo 
-doença de o membrana hialino 	doença causada pelo desenvolvimento pulmonar do pulmão, comum em recém-nascidos prematuros
-doença de chagas 	doença infecciosa causada por um parasita chamado Trypanosoma cruzi, transmitido pelas fezes do inseto conhecido como barbeiro; pode causar problemas no coração
-doença de kawasaki 	o mesmo que "síndrome de Kawasaki"; doença infantil rara que causa inflamação das paredes dos vasos sanguíneos
-doença diarreico 	diarreia; doença em que a evacua fezes líquidas e abundantes várias vezes em um curto espaço de tempo
-doença de o refluxo gastroesofágico 	doença em que os ácidos do estômago, produzidos para a digestão, sobem e causam inflamação no esôfago 
-doença falciforme 	doença passada de pais para filhos em que os glóbulos vermelhos do sangue mudam sua forma redonda e elástica e ficam mais duros e parecidos com uma foice; gera uma série de problemas para a pessoa, principalmente anemia. Pode ser descoberta no "teste do pezinho"
-doença inflamatória 	doença que provoca uma inflamação, reação do corpo que envolve inchaço e produção/expulsão de substâncias
-doença pneumocócica 	doença causada pela bactéria Streptococus pneumoniae (pneumococo). Meningite, pneumonia, bacteremia e sepse (infecção na corrente sanguínea), sinusite e otite médica (infecção do ouvido) são exemplos desse tipo de doença.
-doença progressivo 	a pesquisar
-doença pulmonar crônica de o prematuridade 	a pesquisar
-doença pulmonar de o prematuridade 	a pesquisar
-doença renal 	doença nos rins
-dose de ataque 	dose de determinado remédio dada no início do tratamento, com o objetivo de atingir rapidamente a quantidade necessária do remédio no corpo do paciente.
-dose de manutenção 	a pesquisar
-drenagem torácica 	técnica cirúrgica que consiste na colocação de um dreno na cavidade do pulmão para tirar líquidos ou ar.
-droga antiepiléptica 	remédios usados produzidos controlar sintomas da epilepsia
-droga quimioterápica 	remédios usados para tratamento de câncer, que interferem na capacidade de multiplicação das células cancerosas.
-ducto biliar 	canal que liga a vesícula ao estômago, levando a bile
-ducto biliar comum 	canal biliar, formado pela junção do ducto cístico com o ducto hepático comum.
-duplo placebo 	tipo de pesquisa sobre efeito de remédios nas pessoas em que o pesquisador e os pacientes testados não sabem quem toma ou não o placebo (o remédio sem efeito).
-ecocardiograma transtorácico 	tipo de exame do coração, feito com equipamento de ultrassom
-eczema 	pequenas lesões na pele, geralmente em forma de bolhas
-eda normal 	Endoscopia Digestiva Alta (EDA); exame de doenças do esôfago, estômago e duodeno (primeira porção do intestino delgado) 
-edema cerebral 	inchaço e acumulação de líquido dentro do cérebro
-edema pulmonar 	acúmulo anormal de líquido nos tecidos dos pulmões
-educação alimentar 	processo de aprender sobre os alimentos e desenvolver hábitos saudáveis de alimentação
-efeito deletério 	efeitos prejudiciais
-efusão 	derramamento de algum líquido, espalhamento
-emissões otoacústica 	os sons dentro do ouvido, verificados em exame
-encefalite 	inflamação no cérebro; inflamação aguda no sistema nervoso central, que provoca a inflamação do cérebro. Se não for tratada, pode ser fatal. Afeta principalmente bebês, crianças e adultos com o sistema imunológico comprometido
-encefalopatia hipóxico isquêmica 	problema no cérebro causado por falta de oxigênio
-endócrino 	relativo à produção e regulação dos hormônios do corpo
-endocrinologista pediátrico 	médico responsável por descobrir e tratar os problemas hormonais que acontecem na infância e na adoslescência
-endoscopia digestivo alta 	veja EDA normal
-endoscopia respiratória 	exames, para avaliar, com auxílio de tubos com câmeras, as vias aéreas superiores (narinas, óstios, nasofaringe, laringe) e inferiores (traquéia e brônquios/pulmão)
-endotélio vascular 	camada de células que reveste os vasos sanguíneos
-enforcamento 	dificuldade ou impossibilidade de respirar causada pelo aperto do pescoço
-ensaio imunoenzimático 	tipo de teste para verificar a presença de anticorpos contra alguma infecção
-enterite infeccioso 	inflamação no intestino geralmente causada por algo que a pessoa comeu
-enterocolite necrosante neonatal 	inflamação muito grave dos intestinos caracterizada por barriga inchada, vômitos com bile e presença de sangue com cor vermelha viva nas fezes. Pode levar à morte
-enurese 	fazer xixi na cama; falta de controle da urina, geralmente durante o sono; pode ocorrer até os cinco anos de idade como parte do desenvolvimento normal da criança
-enurese noturna 	perda involuntária de urina, geralmente à noite, em idade em que a falta de controle da urina seja considerada anormal
-enzima pancreática 	enzimas produzidas pelo pâncreas, importantes para a digestão e na absorção de nutrientes 
-epigenética 	ciência que estuda as mudanças que ocorrem nas nossas células graças a fatores externos como traumas ou estresse, por exemplo.
-epilepsia 	doença em que há problema na atividade das céulas do cérebro, causando convulsões
-episiotomia 	procedimento cirúrgico durante o parto em que se faz um corte entre a vagina e ânus para facilitar a saída do bebê
-episódio de itu 	caso de Infecção do Trato Urinário (ITU); invasão do sistema urinário por bactérias
-epizootia 	doença ou morte de animal ou de grupo de animais que possa apresentar riscos à saúde pública
-erupção dental 	quando o dente começa a nascer
-erupção dentária 	quando o dente começa a nascer
-erupção de o dente 	quando os dentes começam a nascer
-escarlatina 	doença contagiosa provocada pela bactéria que causa inflmações de garganta; afeta especialmente crianças entre  2 a 10 anos, durante a primavera, depois de uma faringite ou amidalite. Produz manchas avermelhadas ásperas espalhadas no corpo; tratada com antibióticos
-esclerose tuberoso 	distúrbio hereditário caracterizado por erupções da pele, vários graus de retardo mental e convulsões
-esfíncter 	músculo que abre e fecha algum buraco do corpo, como o que permite a passagem de alimentos para o estômago, ou o da urina
-esofagite 	inflamação no esôfago
-esofagite de refluxo 	inflamação na mucosa do esôfago causada pelo refluxo (retorno) do conteúdo do estômago
-esôfago 	tubo que leva o alimento até o estômago
-espaçador 	aparelho usado para controlar a quantidade de vapor a ser liberada em uma inalação com algum remédio. Ao passar pelo espaçador, o vapor terá velocidade menor, permitindo que o paciente respire mais lentamente e melhor. Ajuda mais remédio chegar nos pulmões, evitando que fique na boca, língua e garganta.
-espectro autista 	escala dos diferentes graus do Autismo, problema grave de desenvolvimento que prejudica a capacidade de se comunicar e interagir
-espinha bífida 	defeito congênito que ocorre quando os ossos da coluna do bebê não se formaram completamente
-espinha dendrítica 	elementos muito pequenos localizados nos prolongamentos dos neurônios
-esquistossomose 	o mesmo que "barriga d'água";  doença transmitida ao homem por um verme que se desenvolve em caramujos de água doce
-estado vacinal 	avaliação de quantas vacinas a criança já tomou e de quantas ainda são necessárias
-estenose aórtica 	estreitamento do orifício da válvula aórtica, dificultando a passagem do sangue do ventrículo esquerdo para a artéria aorta.
-estenose pulmonar 	estreitamento da abertura da válvula pulmonar que bloqueia o fluxo de sangue do ventrículo direito para a artéria pulmonar
-estenose subglótica 	estreitamento das vias aéreas abaixo das pregas vocais (cordas vocais)
-estimulação motor 	a pesquisar
-estimulação precoce 	programa de acompanhamento e tratamento para recém-nascidos de risco ou com alguma deficiência que estimula o desenvolvimento do movimento e do cérebro
-estimulação sensorial 	incentivar as crianças a usarem seus sentidos (como visão, audição, toque, paladar), para que ela desenvolva melhor as suas habilidades; cantar músias para o bebê ou permitir que ele brinque com objetos de várias cores são formas de estimular seus sentidos
-estrangulamento 	aperto do pescoço por alguma força que causa falta de ar
-estudo randomizar 	método científico de pesquisa em que se usam elementos ou dados escolhidos ao acaso para um cálculo ou raciocínio
-esvaziamento gástrico 	quando o estômago e intestino ficam vazios; parte da nossa digestão que é importante para a absorção de nutrientes
-éter 	substância encontrada em alguns produtos que devem ser deixados fora do alcance de crianças; pode causar tonturas ou sonolência, por exemplo
-etiologia de o rm 	estudo das causas de retardo mental. (RM corresponde a Retardo Mental).
-etiologia de o tdah 	estudo das causas do Transtorno do Déficit de Atenção/Hiperatividade (TDAH).
-etiologia viral 	causa de determinada doença, que provém de um vírus.
-evento cardiovascular 	eventos relativos ao coração e aos vasos sanguíneos, como infarto agudo do miocárdio (IAM), acidente vascular cerebral (AVC), parada cardíaca e embolia pulmonar.
-evento paroxístico 	episódios clínicos que começam de repente e têm duração curta, caracterizados por mudanças na atividade motora, nas funções vitais, no comportamento ou na frequência da respiração
-evolução benigno 	desenvolvimento que não resulta em consequências graves
-exame de emissões otoacústica evocar 	teste da orelhinha
-exame endoscópico 	exame no qual os órgãos do paciente são examinados por dentro, com auxílio de um tubo com câmera
-exame pré natal 	série de consultas médicas para a mulher grávida com realização de diferentes exames para garantir que tudo esteja bem no momento do nascimento
-exantema 	ferida, mancha ou bolha na pele
-exantemático 	com feridas, manchas ou bolhas
-exercícios orofacial 	exercícios que trabalham as funções de sucção (sugar e chupar), respiração, mastigação, engolir e articulação da fala
-éxon 	parte de um gene
-exposição solar direta 	quando a pessoa toma sol nem nenhum tipo de proteção
-extração 	retirada do leite materno do peito com as mãos ou com a ajuda de bombas
-extrauterino 	fora do útero
-extubação 	retirada de tubos e mecanismos para auxiliar respiração depois que a pessoa volta a ter a respiração normal, espontânea e definitiva
-fadiga 	cansaço
-falso anorexia 	situação na qual a criança come pouco (na opinião dos familiares), mas apresenta crescimento e desenvolvimento normais.
-faringite 	inflamação da faringe, que é o canal entre o nariz e boca
-fase terminal de vida 	quando a pessoa está morrendo
-fator de necrose tumoral 	a pesquisar
-fator v leiden 	fator de risco genético para coagulação do sangue nas veias 
-febre amarelar 	vírus transmitido por mosquitos e que causa febre, dor de cabeça, dor no corpo, tontura e vômito. Em casos mais graves, pode levar à morte. O bom é que existe vacina que protege a pessoa por toda a vida. 
-febre reumática 	doença gerada pelo próprio corpo como efeito de infecções que foram mal curadas, geralmente infecções de garganta 
-febre tifóide 	doença transmitida pela Salmonella typhi, presente em água e alimentos contaminados por fezes. Não confundir com "tifo"
-fêmur proximal 	região superior do osso da coxa da perna, próximo ao encaixe com o quadril 
-fenda labial 	problema de formação do bebê em que ocorre uma divisão do lábio superior, normalmente abaixo do nariz, tratável com cirurgia
-fender lábio palatino 	problema de formação do bebê em que ocorre uma divisão do lábio superior, atinge o céu da boca e base do nariz, tratável com cirurgia
-fenda labioplatina 	problema de formação do bebê em que ocorre uma divisão do lábio superior, atinge o céu da boca e base do nariz, tratável com cirurgia
-fenda palatino 	problema de formação do bebê em que ocorre uma divisão do lábio superior, atinge o céu da boca e base do nariz, tratável com cirurgia
-fenômeno de marcus gunn 	a pesquisar
-feto 	o bebê em formação dentro da barriga da mãe, antes de nascer
-fez diarreico 	cocô líquido ou semilíquido
-fibrose cística 	a pesquisar
-fibrose periportal 	a pesquisar
-fibrose pulmonar 	doença respiratória rara, sem causa conhecida, em que os pulmões vão ficando endurecidos, causando dificuldades para a pessoa respirar
-fibrose pulmonar idiopática 	doença respiratória rara, sem causa conhecida, em que os pulmões vão ficando endurecidos, causando dificuldades para a pessoa respirar
-filariose 	a pesquisar
-fisiopatogenia de o ba 	descrição dos mecanismos através dos quais a bronquite aguda (BA) se estabelece
-fisioterapia respiratória 	tratamentos feitos por profissional habilitado para prevenir e cuidar de problemas nos pulmões e com a respiração
-fissurar 	machucado em forma de rachadura, no bico do seio
-fissura labial 	problema de formação do bebê em que ocorre uma divisão do lábio superior, normalmente abaixo do nariz, tratável com cirurgia
-flúor 	substância química adicionada à água e a diferentes produtos - como cremes e pastas para escovar dentes - para prevenir cáries
-fluorose 	doença causa pelo uso exagerado de flúor durante o período de formação dos dentes da criança
-fluticasona hfa 	remédio à base de corticóide, um tipo de antialérgico, que é respirado, utilizado no tratamento da asma e de rinite alérgica
-fluxo expiratório 	quando a pessoa respira e faz o sair pelo nariz e pela boca
-folhinha amarela 	o mesmo que “Declaração de Nascido Vivo”, documento fornecido pela maternidade onde o bebê nasceu necessário para registrar o nascimento no cartório
-fontanela 	 moleira; espaço entre os ossos da cabeça do recém-nascido
-forma rizomélica 	relativo à raiz de um membro
-formar 	substância que, na forma líquida, é chamada de formol e pode estar presente em diversos produtos (como tintas, cosméticos, materiais de construção etc); deve ser mantida fora do alcance de crianças, já que pode ser tóxica quando não usada corretamente
-fórmula infantil anti regurgitação 	fórmula alimentar especial, feita por nutricionista, para atender o bebê com dificuldades de digestão e que vomita muito
-fosfatase alcalino 	a pesquisar
-fotoproteção 	conjunto de medidas tomadas para diminuir a exposição ao sol e prevenir problemas causados pelo sol, como usar filtro solar, bonés, óculos de sol e roupas de proteção
-fotoprotetor 	a pesquisar
-fpi 	sigla de Fibrose Pulmonar Idiopática (FPI); doença respiratória rara, sem causa conhecida, em que os pulmões vão ficando endurecidos, gerando dificuldades para a pessoa respirar
-fração inspirar de oxigênio 	medida de regulagem básica do aparelho de ventilação mecânica; é a concentração inspirada de oxigênio fornecida pelo respirador
-função adrenal 	produção de um ou mais hormônios 
-função surfactante 	produção da substância surfactante; os surfactantes são produzidos nos pulmões e diminuem a tensão superficial, mantendo os alvéolos pulmonares abertos.
-gasometria arterial 	medida de oxigênio e dióxido de carbono no sangue.
-gastrenterite 	infecção do intestino
-gastrite hemorrágica 	inflamação no estômago com sangamento; também conhecida por Gastrite Erosiva, provoca vômitos com sangue e evacuação de fezes escurecidas (chamadas de melena) devido à presença do sangue. Nos casos de gastrite hemorrágica, é comum ocorrer queda da pressão arterial, palidez da pele, sudorese (suor) e aumento da frequência cardíaca.
-gastroenterite 	infecção do intestino
-gastroesofágico 	
-gêmeos monozigótico 	dois filhos originadas na mesma gravidez, gerados de um mesmo óvulo fertilizado que se dividiu em dois embriões. São gêmeos geneticamente idênticos e do mesmo sexo.
-gene fmr1 	a pesquisar
-gengivite 	inflamação da gengiva, causa dor, inchaço e sangramento 
-genitália 	conjunto dos órgãos sexuais, como pênis e vagina
-gestação 	gravidez; período de 9 meses em que o corpo do bebê é formado dentro do corpo da mãe
-gestação pós termo 	gestação que dure 42 semanas ou mais; em média, a gestação dura 40 semanas
-gestacional 	da gravidez
-gestante 	a mãe durante a gravidez
-giárdia 	parasita presente em água e alimentos contaminados capaz de causar infeção no intestino
-girardiase 	infecção do intestino causada pelo verme Giardia; associada ao consumo de alimentos e água contaminados; o mesmo que "giardíase" (com acento)
-girardíase 	infecção do intestino causada pelo verme Giardia; associada ao consumo de alimentos e água contaminados; palavra também escrita sem o acento
-glândula 	estrutura existente dentro do corpo que produz e libera substâncias necessárias para o bom funcionamento do organismo
-glândula adrenal 	glândula conhecida como " glândula supra-renal ou suprarrenal", par de glândulas que fica acima dos rins, produz hormônios importantes para o funcionamento do corpo
-glândula supra renal 	par de glândulas que fica acima dos rins, produz de hormônios importantes para o funcionamento do corpo
-glândula suprarrenal 	par de glândulas que fica acima dos rins, produz de hormônios importantes para o funcionamento do corpo
-glaucoma congêno 	doença rara que afeta crianças até os três anos de idade, podendo levar à cegueira 
-glicemia 	taxa de açúcar no sangue, quando medimos essa taxa, estamos medindo a glicemia
-glicemia de jejum 	exame mais comum para medir o nível de glicose (açúcar) no sangue
-glicose 	açúcar, o mesmo que "glucose" ou "dextrose"
-glicosímetro 	aparelho para medir a quantidade de açúcar no sangue
-glucose 	açúcar, o mesmo que "glicose" ou "dextrose"
-grupo oligoarticular 	quando artrite reumatóide juvenil afeta até quatro articulações 
-grupo poliarticular 	quando a artrite reumatóide juvenil afeta cinco ou mais articulações
-habilidade motor 	a pesquisar
-haemophilus influenza b 	bactéria que atinge, principalmente, crianças de até 5 anos, causando infecções que começam geralmente no nariz e na garganta, mas podem espalhar-se para outras partes do corpo, como pneumonia e meningite; há vacina contra a bactéria
-haemophilus influenzae b 	bactéria que atinge, principalmente, crianças de até 5 anos, causando infecções que começam geralmente no nariz e na garganta, mas podem espalhar-se para outras partes do corpo, como pneumonia e meningite; há vacina contra a bactéria
-haste hipofisária 	uma parte da glândula hipófise
-hemófilus influenza b 	bactéria que atinge, principalmente, crianças de até 5 anos, causando infecções que começam geralmente no nariz e na garganta, mas podem espalhar-se para outras partes do corpo, como pneumonia e meningite; há vacina contra a bactéria
-hemorragia 	sangramento
-hemorragia digestivo alto 	sangramento que vem da parte alta do sistema composto pelo estômago, duodeno e esôfago
-hemorragia intracraniana 	sangramento dentro do crânio 
-hemorragia intraperiventricular 	complicação neurológica; hemorragia dentro da cabeça, pode acontecer entre os recém-nascidos prematuros
-hemorragia intraventricular 	hemorragia que surge, em geral, nos primeiros dias de vida do bebê; na maioria dos casos, trata-se de hemorragia pequena que acaba sendo reabsorvida espontaneamente pelo organismo, sem consequências graves
-hepatite a 	infecção no fígado causada pelo vírus A da hepatite (HAV), também conhecida como “hepatite infecciosa". A transmissão é pelo contato de fezes com a boca. A doença tem grande relação com alimentos ou água contaminados, falta de saneamento básico e de higiene pessoal. 
-hepatite agudo viral 	inflamação do fígado provocada por infecção por um dos cinco vírus da hepatite
-hepatite b 	tipo de doença que gera inflamação no fígado; tipo de vírus que causa inflamação no fígado
-hepatopatia 	doença do fígado
-hepatopatia crônica 	doença sem cura do fígado
-heptavalente conjugar 	tipo de vacina que protege contra sete tipos de infecções
-herança autossômica recessivo 	quando os pais de um indivíduo afetado por um problema ou doença não são afetados por ela, mas são portadores dos genes, de modo que transmitem para seus filhos
-hereditariedade 	condição em que certas características são transmitidas dos pais para filhos; qualidade do que passa de uma geração a outra de uma família, transmitido "pelo sangue" (genes)
-heredograma 	a pesquisar
-herpes 	cobreiro; doença causada pelo vírus varicela-zóster, o mesmo vírus da catapora
-herpe vírus 	vírus que pode causar infecções em bebês, gerando problemas na pele e no cérebro, por exemplo; esses problemas podem ser transmitidos no parto quando as áreas genitas da mãe estão infetadas. A mãe pode pegar o vírus através de relações sexuais sem proteção.
-herpes zóster 	vírus da catapora
-hidrato de cloral 	medicamento utilizado no tratamento da insônia
-hidrofobia 	raiva; doença transmitida por mordidas de animais; logo após mordida, a pessoa deve procurar atendimento médico para receber vacina contra raiva
-hidróxido de sódio 	o mesmo que "soda cáustica"; produto muito perigoso, usado na fabricação de sabões
-higiene oral 	limpeza da boca e dos dentes
-hiperatividade 	quando a pessoas faz muitas atividades de modo intenso e sem descanso; ver "Transtorno do Déficit de Atenção e Hiperatividade"; 
-hipercalciúria 	aumento do cálcio, um nutriente do corpo, na urina
-hiperglicemia 	açúcar alto no sangue
-hipersensibilidade 	quando o organismo reage de maneira exagerada e indesejável a alguma substância estranha; alergia
-hipertensão 	doença definida pela alta pressão no sangue, causa problemas no coração
-hipertensão arterial 	doença definida pela alta pressão no sangue, causa problemas no coração
-hipertensão arterial primária 	quando a hipertensão, doença definida pela alta pressão no sangue que causa problemas no coração, é de família ou está relacionada a outros fatores de risco, como obesidade ou falta de atividade física
-hipertensão arterial secundária 	quando a hipertensão, doença definida pela alta pressão no sangue que causa problemas no coração, é resultado de outras doenças que aumentam a pressão
-hipertensão primária 	quando a hipertensão, doença definida pela alta pressão no sangue que causa problemas no coração, é de família ou está relacionada a outros fatores de risco, como obesidade ou falta de atividade física
-hipertensão secundária 	quando a hipertensão, doença definida pela alta pressão no sangue que causa problemas no coração, é resultado de outras doenças que aumentam a pressão
-hipertenso 	pessoa que sofre de pressão alta
-hipoclorito de sódio 	água sanitária
-hipoglicemia 	açúcar baixo no sangue
-hipotermia 	queda da temperatura do corpo; quando a temperatura do corpo fica abaixo de 35 graus
-história alimentar 	registro sobre o que a pessoa costuma comer no seu dia a dia
-história gestacional 	registro feito pelo médico sobre o que acontece durante a gravidez
-hiv 	HIV sigla em inglês para o nome do vírus da imunodeficiência humana, causador da aids
-iatrogenia 	efeito ou complicação de uma doença, gerados no seu tratamento
-idade gestacional 	medida do tempo de duração da gravidez; período entre o primeiro dia da última menstruação (DUM) até a data atual (dia em que está realizando o cálculo). Pode ser calculada em dias, semanas ou meses completos.
-igg 	sigla de imunoglobulina G;  exame de laboratório capaz de detectar presença de anticorpos para alguma doença; usado para exame de citomegalovírus em grávidas
-imunidade 	conjunto de mecanismos de defesa do corpo que impede que elementos estranhos possam causar doenças
-imunização 	vacinação; proteger com vacinas
-imunizar 	vacinar; aplicar vacina
-imunogenicidade 	capacidade de fazer que um organismo produza defesa contra uma doença
-imunoglobulina 	anticorpo
-inalação 	quando a pessoa respira um medicamento que está misturado em um vapor ou aerossol
-inalador 	o mesmo que "nebulizador"; aparelho que gera vapor de água, a parir de soro, para a pessoa respirar; usado quando a pessoa precisa receber um remédio através da respiração 
-inalar 	quando a pessoa respira e absorve o ar
-inatividade física 	estado de falta de atividade física
-índice de apgar 	exame que avalia a condição do recém-nascido pela observação das batidas do coração, respiração, força muscular, cor e reações a estímulos; ver "Apgar"
-infecção congênita 	infecção transmitida dos pais para os filhos, antes do nascimento
-infecção de o trato urinário 	infecção que ocorre em alguma parte do corpo relacionada diretamente ao processo de filtração das impurezas do sangue e de produção e eliminação da urina
-infecção externo 	infecção que ocorre na parte de fora do corpo
-infecção gastrointestinal 	infecção que atinge o estômago e o intestino, causando diarreia, vômito e cólica
-infecção generalizar 	quando a resposta do sistema de defesa do corpo a uma infecção cria problemas para o organismo, fazendo com que vários órgãos parem de funcionar
-infecção em  o trato urinário 	infecção que ocorre em alguma parte do corpo relacionada diretamente ao processo de filtração das impurezas do sangue e de produção e eliminação da urina
-influenza 	gripe; doença causada por vírus e que provoca febre; geralmente não é grave, mas pode ficar séria quando já se está com outras doenças
-ingugirtamento 	"leite empedrado"; aumento exagerado das mamas causado por por retenção de leite e inchaço
-injúria 	dano à pessoa; causado por alguma força ou pela falta repentina de oxigênio ou calor
-injúrias física 	danos à pessoa; asfixia, engasgos, afogamentos e quedas são exemplos de injúrias físicas na faixa de até dois anos
-inmetro 	Instituto Nacional de Metrologia, Qualidade e Tecnologia - Inmetro.Órgão do governo do Brasil que, entre outras coisas, cuida da fiscalização de produtos quanto à sua qualidade e segurança
-insolação 	quando falham os mecanismos de transpiração e o corpo não consegue controlar a sua própria temperatura
-insuficiência adrenal 	doença causada pela produção insuficiente dos hormônios da glândula situada acima do rim
-insuficiência renal crônica 	a pesquisar
-insuficiência respiratória hipoxêmica 	falta de ar intensa; dificuldade de respirar; dificuldade séria de funcionamento dos pulmões que exige uso de ventilação mecânica
-insuficiência supra renal 	doença caracterizada pela produção insuficiente dos hormônios da glândula situada acima do rim
-insulina 	hormônio produzido pelo corpo que tranforma em energia o açúcar presente no que comemos
-insulina inalável 	insulina em pó para ser respirada pelo paciente; usada como forma de tratamento para diabetes
-integridade 	qualidade do que é completo, inteiro
-intensivista 	médico especializado no atendimento de paciente internado em uma unidade de terapia intensiva
-intercorrência 	quando aconte algo inesperado durante o atendimento de uma pessoa que tem uma doença
-intolerância a o lactose 	quando o organismo não consegue absorver bem a lactose, um tipo de açúcar/carboidrato presente no leite
-intolerância a o lactose congênita 	quando o bebê já nasce com problemas para absorver proteínas do leite
-intolerância a o lactose primária 	quando a criança tem problemas ao ingerir leite ou outros alimentos que tenham leite
-intoxicação 	quando a pessoa tem contato, pela pele, respiracao ou alimentação, com alguma substância que prejudica o seu organismo
-intrauterino 	dentro do útero
-ipdm conter cfc 	tipo de bombinhas de spray com pressão, que libera remédio em forma de nuvem na boca, que é respirada, em uma dose controlada 
-irritabilidade 	qualidade do que incomoda; reação de órgão ou tecido a algum estímulto
-lábio leporino 	problema de formação do bebê em que ocorre uma divisão do lábio superior, normalmente abaixo do nariz, tratável com cirurgia
-laceração 	ferimento
-lactação 	amametntação
-lactação adotiva 	quando uma mulher que adota uma criança consegue amamentar seu filho no peito, mesmo sem ter passado pela gravidez
-lactante 	a mãe que dá o leite do seu peito para o bebê
-lactente 	criança que ainda mama no peito da sua mãe
-lactente 	a criança, com até 24 meses de idade, que mama no peito da mãe
-lactéo 	do leite, semelhante ao leite, com leite
-lactose 	açúcar/carboidrato presente no leite
-lanolina 	pomada natural feita com gordura da lã de ovelha, ajuda a curar machucados nos mamilos
-laringite 	infecção na região das cordas vocais que, geralmente, dura menos de três semanas; alguns dos sintomas são dor de garganta, voz rouca, febre, pigarro, dor de cabeça
-laringite aguda 	infecção na região das cordas vocais; em crianças, também pode atingir as vias rspiratórias; os principais sintomas são dor de garganta, voz rouca, tosse e problemas para engolir
-lesão 	machucado, ferimento, injúria
-lesão cortante 	machucado com corte
-liber 	desejo sexual; tesão
-licença maternidade 	direito que mulheres de carteira assinada possuem de se afastar do trabalho por pelo menos 120 dias, após darem à luz ou adotarem uma criança; durante o afastamento, elas continuam recebendo salário
-líquido amniótico 	líquido que envolve o bebê quando está dentro da barriga da mãe
-líquido amniótico meconial 	líquido que envolve o bebê quando está dentro da barriga da mãe que tem resíduos da digestão do bebê
-livre demanda 	quando a criança mama em um ou nos dois seios, quando sentir fome, sem horário marcado, pelo tempo que quiser
-lombriga 	tipo de verme parecido com uma minhoca; o mesmo que "ascaridíase"; ver "verminose"
-longevidade 	duração de vida
-luxação 	quando articulações e ossos são deslocados, geralmente por batidas, lesões ou quedas
-má oclusão 	quando os dentes de cima e os dentes de baixo não encaixam ao fechar a boca
-malformação 	formação fora do normal de alguma função ou estrutura do corpo
-mamilo 	bico do seio
-mamilo inverter 	quando o bico do seio fica para dentro
-mamilo plano 	 quando o bico do seio que não está muito para fora
-mastite 	inflamação nas mamas; geralmente acontece nos primeiros três meses de amamentação. Causa dificuldades na amamentação, acúmulo de leite e lesões no bico do seio (fissuras). Os sintomas podem incluir dor nos seios, inchaço, calor, febre. 
-maturação biológica 	crescimento/desenvolvimento do corpo
-mecônio 	material dentro do intestino do bebê enquanto está ainda dentro do útero
-medicação antiácida 	remédio que diminui o nível de ácido no estômago
-medicamento antiácido 	remédio que diminui o nível de ácido no estômago
-meninge 	camadas de proteção que revestem o cérebro e a medula espinhal 
-meningite 	doença em que há inflamação de membranas que revestem o cérebro e a medula espinhal; alguns tipo podem ser evitados por vacina
-meningococo 	bactéria capaz de causar a meningite, inflamação grave das membranas que envolvem o cérebro
-meningocococemia 	tipo de meningite, inflamação grave das membranas que envolvem o cérebro
-mercúrio 	elemento químico de símbolo Hg, é um metal líquido em temperatura ambiente. Presente em remédios como o merthiolate (timesoral) e em algumas vacinas, para mantê-las livre de contaminação 
-metabolismo 	reações que acontecem nas células do nosso corpo e que transformam o que a pessoa come em energia
-metabolização 	a pesquisar
-método canguru 	programa de assistência a bebês de baixo peso, que nascem antes do tempo, e a suas famílias. O contato pele a pele - entre bebê e pais - é essencial, começando com o toque até chegar na posição canguru, com o bebê encostado no corpo da mãe ou pai.
-microbiota intestinal 	flora intestinal
-microcefalia 	quando a cabeça de uma criança, ao nascer, tem tamanho muito menor do que o normal esperado
-microcefalia congênita 	quando a cabeça do bebê é muito menor do que o tamanho normal esperado por causa de algo transmitido durante a gravidez
-mineralização óssea 	processo de formação dos ossos, quando adquirem massa e ficam fortes, entre a infância e adolescência
-miocardite 	inflamação do músculo do coração (miocárdio)
-mioclonia 	contração muscular brusca, involuntária e de brevíssima duração.
-ml 	abreviatura de "mililitro"; unidade de medida de líquidos; volume equivalente a uma parte em mil de um litro
-modelo biopsicossocial 	modelo que estuda a causa e o avanço de doença com base em fatores da vida e do comportamento das pessoas
-moisés 	tipo de berço pequeno que se pode carregar por alças
-moleiro 	espaço entre os ossos da cabeça do recém-nascido; o mesmo que "fontanela"
-monilíase 	o mesmo que "candidíase mamária";  infecção  que pode atingir o bico do seio, aréola ou o interior da mama, causada por fungo (cândida ou monília), o mesmo que causa o “sapinho” na boca das crianças
-mononucleose 	tipo de virose transmitida pela saliva; conhecida como "febre do beijo"
-mordedura 	ferimento causado por mordida
-morte súbita 	morte repentina, que não se espera
-movimento respiratório por minuto 	medida da frequência respiratória (quantas vezes uma pessoa respira por minuto)
-mutagênese 	a pesquisar
-naftalina 	veneno em forma de bolinhas brancas usado em casas para afastar traças, baratas e outros insetos
-náusea 	enjoo, ânsia, vontade de vomitar
-nebulizador 	aparelho, geralmente elétrico, que gera vapor de água para a pessoa respirar; usado quando a pessoa precisa receber um remédio através da respiração 
-nebulizar 	aplicar tratamento usando aparelho, geralmente elétrico, que gera vapor de água para a pessoa respirar; usado quando a pessoa precisa receber um remédio através da respiração 
-nefrologista pediátrico 	pediatra que cuida da parte de urina e rins da criança
-nematelmintos 	tipo de vermes como a lombriga
-neonatal 	do recém-nascido; o período das quatro primeiras semanas de vida do bebê
-neonato 	o recém-nascido no primeiro mês
-neonatologia 	especialidade médica, da Pediatria, que estuda e trata do recém-nascido, o bebê até 28 dias de vida
-neonatologista 	a pesquisar
-neurocomportamental 	que diz respeito a como o cérebro se comporta e de que modo isso afeta no desenvolvimento
-notificação compulsória 	informação obrigatória, feita pelo profissional de saúde para o governo ou Secretaria de Saúde, quando atender pessoa que tenha ou possa ter algum tipo de doença ou problema que precisa de atenção e controle de órgão públicos, por causa de sua gravidade ou pelo perigo de transmissão
-óbito 	morte
-obstetra 	profissional da medicina que cuida da gravidez e do parto
-obstrução nasal 	quando algo entope o nariz
-ocitocina 	hormônio produzido pela mãe no trabalho de parto que ajuda na contração do útero. Depois o parto, estimula a liberação do leite materno da mama e contrai o útero, ajudando o útero a voltar ao tamanho normal
-oclusão 	fechamento; ramo da odontologia que trata do funcionamento da mordida 
-odontológico 	da odontologia, ramo da medicina que estuda e trata os dentes e doenças da boca
-odontopediatra 	dentista especializado em crianças
-ordenha 	quando se retira o leite do peito da mãe; termo não recomendado por poder causar desconforto na mãe
-organismo 	corpo
-otite 	infecção no ouvido
-otite média 	infecção no ouvido médio, parte do ouvido que fica além da membrana do tímpano, causada por vírus e bactérias
-palatabilidade 	grau de aceitação de um alimento
-palivizumabe 	a pesquisar
-palpitação 	falhas no ritmo dos batimentos do coração
-parassonias 	movimentos anormais que interrompem o sono
-parentalidade 	função de cuidar desempenhada pelos adultos responsáveis pela criança
-parestesia 	sensação de formigamento, agulhadas, adormecimento, pressão, que não é causada por algo de fora do corpo
-parotidite 	caxumba; infeção que afeta as glândulas que produzem a saliva, pode ser prevenida com vacina
-parto de lótus 	tipo de parto em que o bebê, depois de nascer, segue ligado à placenta da mãe pelo cordão umbilical, até que se solte naturalmente 
-parto múltiplo 	parto de mais de um bebê
-parturiente 	a mulher em trabalho de parto ou que acabou de parir
-parvovirose humano 	infecção pelo parvovírus humano - que não tem relação com o parvovírus de cachorros; pode ser grave devido à chance de transmissão da mãe para o feto, podendo resultar em alterações no desenvolvimento, anemia intrauterina, problema do coração e até mesmo aborto
-parvovírus 	tipo de vírus que geralmente atinge filhotes de cachorros
-parvovírus 19 	tipo de vírus que ataca pessoas e causa o eritema infeccioso, caracterizado por manchas e erupções vermelhas nos braços, pernas e rosto
-parvovírus humano 	tipo de vírus que causa o eritema infeccioso, caracterizado por manchas e erupções vermelhas nos braços, pernas e rosto
-patologia 	doença; área da medicina que estuda as doenças e o que elas causam nos organismos
-pé diabético 	quando há falta de sensibilidade ou quando aparecem feridas nos pés de uma pessoa que tem diabetes
-pediatra 	médico especializado no estudo e tratamento da saúde das crianças
-pediátrico 	ligado à area da medicina que estuda e trata os problemas da saúde da criança
-pegar 	forma como o bebê encaixa a boca no seio da mãe na hora de mamar
-pele a pele 	 o mesmo que "contato pela a pele"; tipo do cuidado do recém-nascido em que o corpo do bebê, apenas de fraldas, fica encostado no corpo da mãe
-percentual de linfócitos t  cd4 + 	quantidade de glóbulos brancos no sangue responsáveis por defender o organismo
-perímetro cefálico 	tamanho da cabeça
-perinatal 	período que cobre o tempo da gravidez, do parto e de depois do parto
-períneo 	região do corpo, na mulher, fica entre a entrada da vagina e o ânus; no homem, está entre a raiz do pênis e o ânus
-período intrauterino 	fase em que a criança se desenvolve dentro da barriga da mãe
-período neonatal 	medida de tempo que corresponde às quatro primeiras semanas de vida do bebê
-pertussis 	coqueluche; tosse comprida; doença muito contagiosa causada por bactéria, provoca tosse intensa com som longo, é prevenida com vacina
-ph 	índice que indica o nível de acidez de uma substância
-placenta 	órgão que se forma dentro do corpo da mãe, durante a gravidez, para fazer trocas entre o organismo da mãe e o do bebê; é eliminado depois do parto
-plasticidade neural 	a capacidade que o cérebro da criança tem de fazer com que a partes audável assuma funções adicionais para compensar uma parte que não está bem
-platelmintos 	tipo de vermes que têm o corpo achatado, em forma de fita
-pneumococo 	bactéria causadora de doenças como meningite, pneumonia, otite; esssa bactéria pode ser muito prejudicial para crianças menores de 5 anos, podendo ser combatida através de vacina 
-pneumonia 	inflamação no pulmão
-pneumonia por aspiração 	inflamação no pulmão causada pela entrada, via respiração, de substâncias da boca que deveriam ir para o estômago
-poliomielite 	doença contagiosa que pode causar a paralisia infantil, provocada pelo poliovírus, transmitida por água e alimentos contaminados ou contato com uma pessoa infectada. Prevenida por vacina que deve ser tomada, em gotas, pela boca, por todas as crianças menores do que 5 anos.
-posição canguru 	quando se coloca o recém-nascido, em contato pele a pele, somente de fraldas, na posição vertical junto ao peito dos pais. Deve ser realizada de maneira orientada, segura e acompanhada por equipe de Saúde capacitada
-pré natal 	série de consultas médicas para a mulher grávida com realização de diferentes exames para garantir que tudo esteja bem no momento do nascimento
-pré termo 	prematuro; bebê que nasceu antes do tempo de 37 semanas de gestação
-predisposição 	tendência; probabilidade alta contrair ou desenvolver certa doença
-prematuro 	bebê que nasce antes de a gravidez completar 37 semanas 
-pressão arterial 	medida da força que o sangue exerce contra as paredes das vias pelas quais ele circula
-pressão arterial normal 	medida normal da força que o sangue exerce contra as paredes das vias pelas quais ele circula
-prevalência 	medida do número de casos de uma doença existente em determinada população em um período específico (prevalência no período) ou determinado momento (prevalência pontual)
-primeira infância 	período de vida da criança que vai até os 6 anos de idade
-primeiríssima infância 	período de vida da criança que vai até os 3 anos de idade
-problema cardíaco 	problema relacionado ao coração
-problema motor 	problema no movimento
-problema neurológico 	problema relacionado ao sistema nervoso, como o cérebro e os nervos
-profilaxia 	"cuidado para prevenir doenças; parte da medicina que trata de prevenir ou evitar doenças
-"
-prognóstico 	previsão, feita pelo médico, sobre do que pode acontecer no tratamento de uma doença
-prolactina 	hormônio da produção do leite materno
-prostração 	estado de desânimo; sem ânimo ou força
-prostrar 	desanimado, sem reação, sem ânimo ou força
-protusão de o mamilo 	quando o bico do seio sai para a frente, facilitando a mamada do bebê
-prurir 	coceira, irritação, desconforto
-psico afetivo 	a pesquisar
-pterígio 	a pesquisar
-puericultura 	ramo da medicina que estuda os cuidados para o bom desenvolvimento da criança
-puérpera 	a mulher logo após o parto; processo de recuperação da gravidez com uma série de modificações físicas e psicológicas do corpo da mulher
-puerpério 	período logo após o parto;  quando o corpo da mãe está em processo de recuperação da gravidez, sofrendo uma série de modificações físicas e psicológicas
-pus 	líquido amarelado que se forma durante infecções no corpo
-quadro clínico 	sinais e sintomas da doença
-quadro familiar 	situação de saúde dos membros de uma família
-queimadura 	ferimento causado por fogo, calor, sol ou por algum produto químico
-raio ultravioleta 	a pesquisar
-raticidar 	veneno para matar ratos; substância perigosa que se deve evitar ter em casa 
-recém nascer 	bebê até os 28 dias do seu nascimento
-recém nascer pré termo 	bebê de até 28 dias que nasceu antes do tempo de 37 semanas de gestação
-recém nascer 	bebê até os 28 dias do seu nascimento
-recém nascer pré termo 	bebê de até 28 dias que nasceu antes do tempo de 37 semanas de gestação
-recém nascer prematuro 	bebê de até 28 dias que nasceu antes do tempo de 37 semanas de gestação
-refluxo 	quando o alimento que comemos volta ao esôfago, podendo chegar a boca, junto com o ácido do estômago, causando sensação de queimação, muito conhecida como azia
-refluxo de o bebê 	quando o bebê, logo depois de mamar, devolve um pouco do que engoliu, como um leite coalhado; o mesmo que "regurgitação"
-refluxo fisiológico 	refluxo leve que não causa inflamação no esôfago nem precisa de tratamento médico
-refluxo gastroesofágico 	refluxo grave que causa inflamação no esfôfago e precisa de tratamento médico
-refluxo doença 	refluxo grave que causa inflamação no esfôfago e precisa de tratamento médico
-regurgitação 	quando o alimento volta para a boca sem a criança fazer esforço, ao contrário do vômito
-relactação 	técnica que provoca a produção de leite depois de uma interrupção temporária da amamentação
-ressecção 	procedimento cirúrgico em que se retira parte de um osso ou de um órgão
-retardar 	atrasado, que demora, que acontece devagar
-retinoblastoma 	tipo de câncer no olho, fazendo com a criança tenha a pupila branca, fique vesga ou tenha problemas para enxergar
-reto 	parte final do intestino, que termina no ânus
-reumatismo infeccioso 	doença gerada pelo próprio corpo como efeito de infecções que foram mal curadas, geralmente infecções de garganta; o mesmo que "febre reumática" 
-rinite 	inflamação dentro do nariz causada por infecção, alergia ou irritação
-rinite alérgica 	inflamação dentro do nariz causada por alergia
-rn 	recém-nascido; a criança até 28 dias de vida
-rotavírus 	tipo de vírus comum e muito contagioso que causa vômito e diarreia; o mesmo que "doença diarreica"
-rubéola 	infecção contagiosa causada por um vírus; é evitada por vacina, causa febre, manchas avermelhadas e dor no corpo. Em mulheres grávidas, pode levar a problemas de formação no corpo do bebê.
-rvu 	Refluxo Vésico-Ureteral; quando a urina volta da bexiga para o rim, através do uréter. Ver *uréter
-saciedade 	sensação de estar satisfeito após comer, sem fome
-saliência óssea 	a pesquisar
-saliva 	líquido naturalmente presente na boca; baba; cuspe
-sangramento urinário 	sangramento ao fazer xixi
-sarampo 	doença causada por um vírus e transmitida por tosse e espirro; causa, principalmente, manchas vermelhas no corpo, febre e tosse; pode ser fatal 
-sbp 	Sociedade Brasileira de Pediatria; organização sem finalidade lucrativa que reúne os médicos pediatras do Brasil
-sedativo 	remédio que faz dormir; remédio que diminui a ansiedade; calmante
-sedentarismo 	condição de quem pratica pouca ou nenhuma atividade física/exercícios
-sensação tátil 	sensação do toque, tato
-sepse 	quando a resposta do sistema de defesa do corpo a uma infecção cria problemas para o organismo, fazendo com que vários órgãos parem de funcionar
-septicemia 	"quando a resposta do sistema de defesa do corpo a uma infecção cria problemas para o organismo, fazendo com que vários órgãos parem de funcionar; o mesmo que ""sepse""
-"
-sequela 	efeito ruim; algo ruim que é deixado depois de uma doença ou problema
-sesta 	soneca, cochilo
-sesta diurno 	cochilo ou soneca durante o dia, geralmente após o almoço
-sexualização 	a pesquisar
-sexualização precoce 	a pesquisar
-sinal vital 	sinais de vida: temperatura, respiração, batimentos do coração e pressão
-sinapse 	ponto de contato entre os neurônios, as células do cérebro
-síndrome de asperguer 	condição em que a pessoa, embora tenha dificuldades de socialização e expressão, mostra-se muito inteligente e aplicada no que faz. Ver *autismo
-síndrome de down 	condição da pessoa, determinada por sua genética, que ocorre durante a formação do feto, e causa comprometimento intelectual;  suas principais características são os olhos puxados, rosto arredondado e dificuldades de desenvolvimento
-síndrome de kawasaki 	o mesmo que "doença de Kawasaki";  doença infantil rara que causa inflamação das paredes dos vasos sanguíneos
-síndrome de raye 	tipo de complicação do herpes-zóster; doença rara que causa inflamação no cérebro e que pode ser fatal, associada ao uso de AAS (analgésico), principalmente em crianças
-síntese 	a pesquisar
-sintoma 	o que a pessoa sente quando tem uma doença
-sistema imunitário 	conjunto de células e moléculas que protegem nosso corpo de doenças, infecções, vírus, etc., como uma grande barreira de proteção
-sistema nervoso central 	rede de comunicação do nosso corpo formada pelo cérebro, medula espinhal e nervos
-sistema renal 	sistema urinário; tem o importante papel de manter as diversas funções do nosso organismo em equilíbrio
-sobrepeso 	peso acima do normal
-sobrar 	a pesquisar
-socialização 	convivência de uma criança com outras
-socialização alimentar 	processo de aprender hábitos alimentares através do contato com outras pessoas
-soda cáustica 	produto químico super perigoso, o mesmo que "hidróxido de sódio"; componente dos sabões
-solução reidratante 	mistura de subtâncias em líquidos usadas hidratar o organismo; o "soro caseiro" é um exemplo
-solvente 	substâncias que dissolvem outras e podem ser venenosas; querosene, gasolina, álcool, acetona, thinner são exemplos de solventes
-soro caseiro 	mistura de 1 copo de água fervida com 1 medida rasa de sal e 2 medidas rasas  de açúcar, usada para tratar desidratação de crianças
-soro fisiológico 	a pesquisar
-subabdominal 	que fica abaixo ou embaixo da barriga
-sufocação 	dificuldade ou impossibilidade de respirar
-suplementador 	aparelho composto de um recipiente (copo ou seringa) para armazenar leite materno (ou a fórmula infantil à base de leite de vaca), e um tubo fino (sonda), que deve ser fixado no seio da mãe; permite dar alimentação a mais para o bebê e pode ajudar na produção do leite
-tabagismo 	doença em que a pessoa fica viciada em nicotina, substância presente em produtos em que há fumo ou tabaco, como por cigarros, cigarrilhas, cigarros eletrônicos, naguilés, charutos ou  cachimbos
-tabagista 	pessoa que tem tabagismo, doença em que a pessoa fica viciada em nicotina, substância presente em produtos em que há fumo ou tabaco, como por cigarros, cigarrilhas, cigarros eletrônicos, naguilés, charutos ou  cachimbos
-tandem 	quando a mãe dá de mamar para dois filhos de idades diferentes
-tartrazina 	substância tóxica que pode causar alergia; pode ser encontrada nos fios de tecido das roupas de crianças 
-tdah 	doença crônica caracterizada pela desatenção extrema, desorganização, comportamento impulsivo, inquietude, entre outros
-terapia curativo 	a pesquisar
-teratogênese 	geração de problema para a formação do corpo do bebê durante a gravidez
-teste de o linguinha 	a pesquisar
-teste de o orelha 	teste usado para detectar problemas na audição do bebê. Consiste em colocar um pequeno aparelho na orelha do recém-nascido, produzir um som e verificar como ele é recebido pelo bebê
-teste de o coraçãozinho 	a pesquisar
-teste de o olho 	teste usado para verificar possíveis doenças nos olhos, é feito colocando-se uma luz especial nos olhos do bebê 
-teste de o pã© 	exame obrigatório do bebê recém-nascido, entre o terceiro e o quinto dia de vida. Feito com gotas de sangue do calcanhar para testar a presença de uma série de doenças que poderão ser tratadas a tempo
-teste de o reflexo vermelho 	teste usado para verificar possíveis doenças nos olhos, consiste em colocar uma luz específica nos olhos do bebê e observar os reflexos neles
-tétano 	infeccção causada por uma bactéria que entra no organismo por machucados na pele; o corpo endurece e isso pode dificultar a respiração, levando à morte
-tifo 	nome de várias doenças infecciosas e contagiosas transmitidas por picadas de insetos contaminados, como piolhos, pulgas e carrapatos. Não confundir com "febre tifóide"
-timerosal 	remédio líquido ou spray usado para desinfetar feridas e matar fungos conhecido pelo nome Merthiolate
-tônus 	a pesquisar
-tônus muscular 	condição dos músculos que permite a boa sustentação do corpo da pessoa, ajuda na sustentação dos órgãos dentro do corpo e favorece a movimentação
-tórax 	o tronco do corpo; região do corpo que fica da base do pescoço até a barriga
-tosse comprido 	o mesmo que "coqueluche"; doença muito contagiosa causada por bactéria, provoca tosse intensa com som longo, prevenida com vacina
-toxina 	substância de origem natural que pode causar danos à saúde
-toxoplasmose 	doença infecciosa, não contagiosa, causada pelo protozoário chamado “Toxoplasma Gondii”, encontrado nas fezes de gatos e outros felinos, que pode se hospedar em humanos e outros animais. Doença ligada com uso de água ou de alimentos contaminados, sendo uma das doenças transmitidas por animais mais comuns no mundo
-toxoplasmose congênita 	toxoplasmose transmitida da mãe para o bebê durante a gravidez; doença que ocorre quando se toma água contaminada, come carnes e verduras cruas ou outros alimentos contaminados, podendo gerar problemas no cérebro, na visão e na audição do bebê. Causada pelo protozoário chamado “Toxoplasma Gondii”, encontrado nas fezes de gatos e outros felinos, que pode se hospedar em pessoas e em outros animais. 
-translactação 	quando se coloca um copo ou xícara com leite (de preferência leite humano pasteurizado), entre as mamas da mãe, ligando o conteúdo do copo ao mamilo por meio de uma sonda, que fica presa na pele do seio. A criança, ao sugar, receberá o leite pela sonda, continuando a estimular a mama e ficando alimentada
-transmissão vertical 	o que passa da mãe para o filho, durante a gravidez ou durante o parto
-transtorno de o déficit de atenção e hiperatividade 	 o mesmo que TDAH; doença crônica caracterizado pela desatenção extrema, desorganização, comportamento impulsivo, inquietude, entre outros
-tratamento curativo 	a pesquisar
-trato urinário 	órgãos e partes do corpo relacionados diretamente ao processo de filtração das impurezas do sangue e de produção e eliminação do xixi
-trauma 	machucado, ferimento ou lesão
-trauma mamilar 	machucado no bico do seio
-traumatismo 	machucado, ferimento ou lesão
-traumatismo cranioencefálico 	problema no cérebro causado geralmente por golpe violento na cabeça (em quedas ou acidentes de carro, por exemplo); alguns sintomas são confusão mental e dificudade de concentração; em bebês, há irritação e choro persistente 
-traumatismo medular 	a pesquisar
-triagem auditivo neonatal 	teste da orelhinha
-triagem inicial 	testes específicos, como por exemplo, teste pezinho, olhinho, coraçãozinho, orelhinha, linguinha
-troca gasoso 	a pesquisar
-trombocitopenia 	baixa quantidade de plaquetas, responsáveis pela coagulação, no sangue
-trompa de eustáquio 	tubo que conecta o nariz ao ouvido
-tuba uterino 	a pesquisar
-tuberculose 	doença contagiosa muito grave que causa inflamação nos pulmões, causada pelo bacilo de Koch (Mycobacterium tuberculosis); pode ser curada com uso de medicamentos, se forem tomados de modo correto conforme indicado pelo médico
-tutela 	guarda; responsabilidade de cuidar de algo ou de alguém
-ultravioleta b 	a pesquisar
-umidificador 	aparelho elétrico que libera vapor de água no ar; usado quando o ar do ambiente está muito seco
-uréter 	tubo que liga o rim com a bexiga, levando a urina
-urina 	xixi
-urticária 	coceira; irritação na pele que causa coceira
-úvula 	a campainha da garganta
-úvula bífida 	quando a campainha da garganta aparece dividida em duas partes
-vacina 	substância que se introduz no corpo para que o organismo aprenda a se proteger de alguma doença
-vacina antipneumocócica 	vacina que reduz o risco de infecções graves causadas pelo "pneumococo", bactéria que pode causar infecções respiratórias (otite, sinusite, pneumonia) e até infecções generalizadas (meningite, sepse)
-vacina heptavalente 	tipo de vacina que protege contra 7 tipos de doenças:difteria, tétano, coqueluche, hepatite B, poliomielite, meningite C e outras infecções bacterianas
-vacina monodose 	quando a vacina só precisa ser tomada uma única vez
-vacina pneumocócica 	vacina que reduz o risco de infecções graves causadas pelo "pneumococo", bactéria que pode causar infecções respiratórias (otite, sinusite, pneumonia) e até infecções generalizadas (meningite, sepse)
-vacina tetro viral 	vacina que protege contra sarampo, caxumba, rubéola e varicela (catapora); está na rotina de vacinação de crianças entre 15 meses e 2 anos de idade que já tenham sido vacinadas com a primeira dose da vacina tríplice viral (sarampo, caxumba e rubéola)
-vacina tetravalente 	vacina obrigatória que protege contra  4 doenças: difteria, tétano, coqueluche e meningite, deve ser tomada aos 2, 4 e 6 meses
-vacina tetraviral 	vacina que protege contra sarampo, caxumba, rubéola e varicela (catapora); está na rotina de vacinação de crianças entre 15 meses e 2 anos de idade que já tenham sido vacinadas com a primeira dose da vacina tríplice viral (sarampo, caxumba e rubéola)
-vacina tríplice 	vacina que protege contra 3 doenças: difteria (ou crupe), coqueluche (ou tosse comprida) e tétano
-valor calórico 	número de calorias
-valor energético 	quantidade de energia gerada, número de calorias
-varicela 	catapora; doença infecciosa e altamente contagiosa causada pelo vírus Varicela-Zoster que se manifesta com maior frequência em crianças. A principal característica  são lesões - feridas e bolhas - com coceira forte
-varíola 	doença rara, mas que não tem cura, causada por um vírus; causa tosse, febre, marcas e bolhas por todo o corpom, podendo levar à cegueira 
-vaso sanguíneo 	canal pelo qual o sangue circula no corpo
-ventilação mecânica contínua 	a pesquisar
-ventilação oscilatória de alto frequência 	terapia complementar para ajudar o recém-nascido com insuficiência respiratória grave
-verminose 	quando a pessoa tem vermes; grupo de doenças causadas por vermes que geralmente ficam no intestino; relacionadas com alimentos e água contaminados, falta de saneamento básico e hábitos de higiene. Os vermes também podem atingir órgãos, como fígado, pulmões e cérebro 
-vérnix 	camada de gordura que recobre a pele do recém-nascido
-vérnix caseoso 	camada de gordura que recobre a pele do recém-nascido
-vilosidade 	tipo de saliência ou ponta, parte da superfície do intestino que permite uma absorção melhor de água e nutrientes
-vírus influenza 	vírus causador de infecções respiratórias
-vitamina d 	nome de substância que é, na verdade, um hormônio produzido pelo corpo humano; o melhor modo de ativar a vitamina D no organismo é tomar sol. É responsável pela saúde de nossos ossos e importante na força muscular. Durante a gravidez, a falta na mãe pode prejudicar o bebê
-vitamina de o complexo b 	substância que faz parte de um conjunto de nutrientes presentes nos alimentos, importantes para várias funções no corpo
-vitamina k 	grupo de vitaminas presente em vegetais, boa para a saúde do sangue e dos ossos; nome de diversas substâncias necessárias à coagulação normal do sangue
-volume urinário 	medida da quantidade de xixi que a pessoa faz
-zica 	infecção causada pelo vírus Zika, transmitido pelo mosquito Aedes aegypti, o mesmo transmissor da dengue e da febre chikungunya
-zica vírus 	infecção causada pelo vírus Zika, transmitido pelo mosquito Aedes aegypti, o mesmo transmissor da dengue e da febre chikungunya
-zika 	infecção causada pelo vírus Zika, transmitido pelo mosquito Aedes aegypti, o mesmo transmissor da dengue e da febre chikungunya
-zika vírus 	infecção causada pelo vírus Zika, transmitido pelo mosquito Aedes aegypti, o mesmo transmissor da dengue e da febre chikungunya

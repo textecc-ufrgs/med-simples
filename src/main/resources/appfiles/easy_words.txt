@@ -6874,3 +6874,4 @@ lúcio	PROP	5
 volver	V	5
 primavera	N	5
 covey	PROP	5
+sabão	-	-

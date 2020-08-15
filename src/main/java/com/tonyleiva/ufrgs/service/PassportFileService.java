@@ -23,7 +23,8 @@ public class PassportFileService {
 		Path path = Paths.get(PASSPORT_FILES_PATH, filename);
 		try {
 			// Change '\n' for ' ' - Before '\n' for '# ' to detect new line
-			Iterable<String> sc = () -> new Scanner(fileContent)
+			Iterable<String> sc = () -> new Scanner(
+					replaceSpecialCaracters(fileContent))
 					.useDelimiter(System.getProperty("line.separator"));
 			Files.write(path, sc, PASSPORT_WRITE_FILE_CHARSET);
 			fileCreated = true;
@@ -32,6 +33,11 @@ public class PassportFileService {
 		}
 
 		return fileCreated;
+	}
+
+	private String replaceSpecialCaracters(String text) {
+		return text.replace("“", " “ ")
+				.replace("”", " ” ");
 	}
 
 	public boolean deleteTextFile(String filename) {

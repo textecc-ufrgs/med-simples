@@ -3673,7 +3673,8 @@ complemento	auxílio
 completude	plenitude
 complexão	união
 complexidade	dificuldade
-complicação	confusão
+complicação	efeito ruim, problema, dificuldade
+complicações	efeito ruins, problemas, dificuldades
 complicado	complexo, difícil
 complô	conspiração, intriga
 componente	elemento
@@ -8086,6 +8087,7 @@ heterodoxia	ser contrário ao que está estabelecido, oposição, desequilíbrio
 hiato	buraco, falha, intervalo, buracos do interior do corpo 
 hierarquia	categorias, classificação, ordem, relação em que há superiores e inferiores, graduação
 hierático	que pertence à igreja, religioso, sagrado, santo
+higiene		cuidados com limpeza, asseio
 higiênico	limpo
 hilariar	alegrar
 hilarizar	alegrar
@@ -11643,7 +11645,7 @@ redimir	pagar, compensar, recuperar, desculpar
 redintegrar	restabelecer, devolver
 rédito	benefício, ganho, lucro, proveito, retorno
 redizer	insistir, repetir
-redobrar	ampliar, aumentar, intensificar
+redobrar	aumentar, fortalecer, ampliar
 redomoinho	movimento circular na água ou no ar, confusão
 redondear	fazer ficar redondo,  completar inteirar
 redondez	qualidade de ser redondo

@@ -134,7 +134,9 @@ funções essencial de o governo 	todos os serviços necessários para que o gov
 gastroenterite 	inflamação do revestimento do estômago e dos intestinos; pode ser causada por remédios ou outras substâncias e também por vírus, bactéria ou outro parasita; principais sintomas: enjoo, vômito e diarreia
 gene 	estruturas que contêm informações sobre as nossas características; a pessoa pode ter um gene que determina que a cor dos seus olhos é azul, ou castanha etc.
 genoma 	conjunto de genes de uma célula ou organismo vivo; uma célula humana contém dois genomas, um da mãe e outro do pai
+geriatria	ramo da medicina que estuda a prevenção, o tratamento de doenças e as incapacidades em pessoas de idades avançadas; casa de atendimento especializado para pessoas idosas
 germe 	micro-organismos, como vírus, bactérias, fungos e protozoários que podem causar doenças
+gerontologia	ramo da Medicina que estuda o envelhecimento
 glicemia 	açúcar no sangue
 glóbulos branco 	células do sangue que defendem o organismo contra doenças como infecções, alergias, resfriados e gripes; o mesmo que "leucócitos"
 glóbulos vermelho 	células do sangue importantes para levar oxigênio aos tecidos do corpo; também são responsáveis pela cor vermelha do sangue
