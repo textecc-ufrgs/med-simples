@@ -8087,7 +8087,7 @@ heterodoxia	ser contrário ao que está estabelecido, oposição, desequilíbrio
 hiato	buraco, falha, intervalo, buracos do interior do corpo 
 hierarquia	categorias, classificação, ordem, relação em que há superiores e inferiores, graduação
 hierático	que pertence à igreja, religioso, sagrado, santo
-higiene		cuidados com limpeza, asseio
+higiene	cuidados com limpeza, asseio
 higiênico	limpo
 hilariar	alegrar
 hilarizar	alegrar

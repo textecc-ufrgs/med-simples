@@ -114,6 +114,7 @@ epidemiologista 	profissional da saúde e de outras áreas que estuda fenômenos
 equipamento de proteção individual 	EPI - equipamentos para proteção do corpo contra riscos que podem causar doenças ou ferimentos
 escarro 	catarro persistente na garganta, que normalmente causa tosse
 estado de calamidade pública 	quando a cidade, estado ou país está passando por situações que causam sérios danos à saúde e aos serviços públicos e o "estado de calamidade pública" é declarado oficialmente pelos governos. Assim, governos podem obter e gastar dinheiro de forma mais facilitada 
+etiqueta respiratória	cuidados para não espalhar gotículas ao tossir ou espirrar, evitando contaminar outras pessoas; ao espirrar ou tossir, tapar boca e nariz com um lenço descartável ou usar o antebraço
 exame laboratorial 	exame feito em lugar especialmente equipado para verificar doenças 
 extubação 	remoção de tubo colocado para ajudar um paciente a respirar
 extubar 	retirar tubo ou sonda
