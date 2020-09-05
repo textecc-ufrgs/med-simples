@@ -2397,7 +2397,8 @@ azucrinar	aborrecer, atormentar, encher, esquentar, incomodar, irritar, persegui
 azuretar	atordoar, desconcertar, perturbar
 babaca	bobo, idiota, tolo, tonto
 babado	fofoca
-babão	bobo, idiota, tolo, tontobabaquice	bobagem
+babão	bobo, idiota, tolo, tonto
+babaquice	bobagem
 babélico	confuso
 babelizar	 confundir, misturar
 baboseira	bobagem
@@ -6000,7 +6001,8 @@ elisão	apagamento, corte, eliminação
 elite	alta sociedade, nobreza
 elo	ligação, afinidade,, relação, união
 eloqüente	claro, que se destaca, convincente, expressivo
-elucidação	esclarecimento, iluminação
+elucidação  explicação, esclarecimento
+elucidar    explicar, esclarecer
 em absoluto	absolutamente, totalmente, completamente
 em breve	logo, daqui a pouco
 em conformidade	conforme, de acordo com, segundo
@@ -10877,7 +10879,8 @@ postimeiro	extremo, final, último
 postremo	extremo, final, último
 postulação	pedido, requerimento, teoria, suposição
 postular	implorar, invocar, pedir,  supor
-potência	 intensidade, força, energia, autoridade, domínio, poder
+potencial   capacidade, poder
+potência	intensidade, força, energia, autoridade, domínio, poder
 potencializar	aumentar, esforçar, reforçar
 potente	poderoso, intenso, forte
 potestade	poder
@@ -11223,6 +11226,9 @@ protestação	protesto, reclamação
 protetorado	colônia
 protocolo	cerimônia, padrão, norma
 protótipo	exemplar, modelo, padrão
+protrusa    empurrada ou colocada para frente
+protrusão   ato que colocar para  frente
+protruso    empurrado ou colocado para frente
 protrair	colocar para fora, estender, adiar, atrasar
 provação	prova, teste
 provadura	prova
@@ -13904,6 +13910,7 @@ vincar	marcar, enrugar, dobrar
 vinco	dobra, marca, ruga, quebra
 vinculação	ligação, relação
 vincular	ligar, unir, relacionar, associar, conectar, forçar, obrigar
+vínculo     ligação
 vindicação	reclamação, protesto, exigência, cobrança, pedido
 vindicar	exigir,  reclamar,  pedir, cobrar, protestar, gritar, pretender, requerer
 vindiço	estrangeiro, que veio de fora

@@ -6875,3 +6875,4 @@ volver	V	5
 primavera	N	5
 covey	PROP	5
 sabão	-	-
+mamar   -   -
