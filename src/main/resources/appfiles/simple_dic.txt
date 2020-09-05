@@ -5982,7 +5982,8 @@ eiva	rachadura, imperfeição
 eivar	cair,  enfraquecer, contaminar, infectar
 eixo	centro
 ejacular	gozar, lançar esperma
-ejetar	expulsar, expelir
+ejeção  ação de expulsar, lançar para fora
+ejetar  lançar para fora
 elã	impulso
 elaboração	criação, produção, preparação, construção
 elação	arrogância
@@ -8102,11 +8103,15 @@ hipotecar	garantir, oferecer, empenhar
 hipoteticamente	supostamente,teoricamente, não baseado em fatos
 hipotético	suposto, imaginado, fictício, incerto
 hipotetizar	imaginar, supor
+hipoxia     falta de oxigênio
+hipóxia     falta de oxigênio
 hirto	imóvel, duro, endurecido, sem movimento, tenso, firme
 histeria	descontrole, acesso de loucura,  nervosismo, exagero,  irritação
 historiar	contar, relatar, narrar, expor, mencionar, declarar, dizer, referir
 histrião	bobo
 hit	que faz sucesso, que está na moda
+hígido  com saúde
+hígida  com saúde
 hodierno	atual, moderno
 hombridade	dignidade, honestidade, honra, virtude, coragem
 homicida	assassino
@@ -9807,6 +9812,7 @@ morosamente	devagar, lentamente
 morosidade	demora, lentidão, preguiça,fraqueza
 moroso	lento, demorado, fraco
 morredouro	mortal, que pode morrer, frágil
+mortalidade     quantidade de mortes
 mortandade	grande número de mortes, número de mortes, extermínio
 morticínio	grande número de mortes, extermínio
 mortiço	 morto, que pode morrer, frágil
