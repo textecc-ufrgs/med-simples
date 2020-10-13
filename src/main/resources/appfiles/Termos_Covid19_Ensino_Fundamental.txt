@@ -6,6 +6,7 @@ afebril 	pessoa sem febre
 agente etiológico 	micro-organismos, como bactérias, vírus, fungos etc. que podem causar doenças
 agente infeccioso 	micro-organismos como bactérias, vírus, fungos etc. que podem causar doenças
 agente patogênico 	micro-organismos como bactérias, vírus, fungos etc. que podem causar doenças
+ageusia     perda do paladar (sentir gostos)
 aglomerações 	muitas pessoas juntas num mesmo lugar
 álcool em gel 	tipo de álcool em consistência mais cremosa do que líquida; com 70% de álcool na fórmua, mata bactérias, vírus e fungos
 álcool etílico 	etanol; álcool produzido a partir da fermentação do açúcar
@@ -28,6 +29,7 @@ asma 	doença nos pulmões que faz com que os brônquios (tubos que ligam a traq
 aspiração traqueal 	retirada de secreções da traqueia (tubo abaixo da garganta, caminho para o pulmão) e dos brônquios (tubos que ligam a traqueia aos pulmões) feita com uma sonda introduzida na boca, no nariz ou em uma abertura feita na própria traqueia
 aspiração endotraqueal 	retirada das secreções da traqueia (tubo abaixo da garganta, caminho para o pulmão) e dos brônquios (tubos que ligam a traqueia aos pulmões) feita com uma sonda introduzida na boca, no nariz ou em uma abertura feita na própria traqueia
 assintomático 	pessoa sem sintomas
+astemia     cansaço
 atazanar 	remédio para tratar HIV que está sendo testado no tratamento da Covid-19, doença causada pelo novo coronavírus (SARS-CoV-2)
 atividade bactericida 	capacidade de matar bactérias
 atividades essencial 	atividades importantes para o funcionamento do país, como serviços de atendimento à saúde, transporte público, abastecimento das cidades (comida, água, remédios, gasolina), entre outros.
@@ -87,6 +89,7 @@ disgeusia 	perda do paladar; perda da capacidade de sentir gostos
 dispneia 	respiração difícil ou dolorosa; dificuldade para respirar
 distanciamento físico 	distância física entre pessoas; para que doenças transmitidas por gotículas de saliva não sejam passadas de pessoa para pessoa, recomenda-se que seja mantida uma distância de pelo menos 2 metros entre cada pessoa.
 distanciamento social 	medidas para reduzir o contato entre as pessoas e impedir que uma doença se espalhe muito rapidamente; exemplo: fechamento de bares e restaurantes, de escolas e o trabalho em casa - "home office" 
+distúrbios gastrointestinais    dores de barriga, vômito, diarreia
 dna 	conjunto de moléculas que carrega a informação genética de todos os seres vivos (características da espécie e do indivíduo); genes em sequência
 doença autoimune 	doença em que o sistema de defesa do nosso corpo ataca células saudáveis do próprio corpo
 doença infectocontagiosa 	doença de transmissão rápida e fácil provocada por micro-organismos como vírus ou bactérias
@@ -116,6 +119,7 @@ escarro 	catarro persistente na garganta, que normalmente causa tosse
 estado de calamidade pública 	quando a cidade, estado ou país está passando por situações que causam sérios danos à saúde e aos serviços públicos e o "estado de calamidade pública" é declarado oficialmente pelos governos. Assim, governos podem obter e gastar dinheiro de forma mais facilitada 
 etiqueta respiratória	cuidados para não espalhar gotículas ao tossir ou espirrar, evitando contaminar outras pessoas; ao espirrar ou tossir, tapar boca e nariz com um lenço descartável ou usar o antebraço
 exame laboratorial 	exame feito em lugar especialmente equipado para verificar doenças 
+exame clínico   quando o médico faz exames no paciente, como medir a pressão, ouvir os batimentos do coração, e faz perguntas sobre o que o paciente está sentindo para descobrir o que o paciente tem
 extubação 	remoção de tubo colocado para ajudar um paciente a respirar
 extubar 	retirar tubo ou sonda
 face shield 	proteção para o todo o rosto feita de plástico duro e transparente
@@ -154,6 +158,7 @@ higiene de o mãos 	forma de prevenir o contágio de uma doença, como a Covid-1
 hipertensão 	pressão alta;  quando o sangue faz muita pressão contra os vasos sanguíneos, que transportam sangue do coração para todas as partes do nosso corpo
 hipertenso 	pessoa com pressão alta
 hiperventilação 	ventilação dos pulmões além das necessidades normais do corpo
+hiporexia   diminuição da vontade do apetite (vontade de comer)
 hiposmia 	perda do olfato, capacidade de sentir cheiros
 hipóxia 	falta de oxigênio suficiente no sangue para que o nosso corpo continue funcionando bem
 hospedeiro 	organismo simples ou complexo, incluindo o homem, que é capaz de ser infectado por um agente específico, como vírus ou bactéria, entre outros
@@ -220,6 +225,7 @@ máscara caseiro 	máscara não médica, que pode ser feita em casa, lavável e 
 máscara cirúrgica 	máscara utilizada por médicos e outros profissionais de saúde durante cirurgias e outros procedimentos 
 medicamento 	remédio
 mers 	infecção por um tipo de coronavírus com sintomas parecidos aos da gripe; foi identificada, pela primeira vez, no Oriente Médio, em 2012 e causou um grande número de mortes
+mialgias    dores pelo corpo
 ministério de o saúde 	órgão do governo federal que organiza e elabora planos e políticas públicas voltados para a promoção, prevenção e assistência à saúde dos brasileiros
 morbidade 	número de pessoas que possuem uma doença em relação ao número de habitantes de um determinado local
 mortalidade 	número de mortes por uma determinada doença em uma população 
@@ -288,6 +294,7 @@ sedentarismo 	situação em que a pessoa não pratica qualquer tipo de atividade
 sepse 	quando substâncias químicas liberadas na corrente sanguínea para combater uma infecção desencadeiam uma inflamação em todo o corpo
 serviços essencial 	serviços considerados importantes para o funcionamento do país, como os serviços de atendimento à saúde, transporte público, serviços relacionados ao abastecimento das cidades (comida, remédios etc.), entre outros
 serviços não essencial 	serviços que não interferem diretamente no funcionamento do país, como restaurantes e lojas de roupas, cinemas, salões de beleza etc.
+sinais  aquilo que a pessoa mostra quando está doente, como machas na pele
 sinal de um doença 	o que a pessoa demonstra quando está doente
 sinal vital 	medidas básicas do funcionamento corpo de um ser humano, essenciais para que ele esteja bem; são elas: pressão arterial, pulso, respiração e temperatura
 síndrome de o desconforto respiratório agudo 	dificuldade respiratória causada por diversas doenças; os pulmões ficam cheios de líquido e os níveis de oxigênio no sangue são reduzidos. A pessoa sente falta de ar, a pele pode ficar azulada e o coração e o cérebro podem apresentar mau funcionamento
@@ -296,7 +303,7 @@ síndrome respiratória aguda grave 	infecção por um tipo de coronavírus com 
 síndrome respiratória aguda grave por  o novo coronavírus 	infecção pelo novo coronavírus com sintomas principalmente respiratórios, como tosse e dificuldade para respirar, mas que pode causar outros sintomas como perda da capacidade de sentir cheiros e gostos, entre outros
 síndrome respiratória de o oriente médio 	infecção por um tipo de coronavírus com sintomas parecidos aos da gripe; foi identificada, pela primeira vez, no Oriente Médio, em 2012 e causou um grande número de mortes
 sintomático 	pessoa que apresenta sintomas da doença
-sintoma 	sinais de doença; o que a pessoa sente quando está doente 
+sintoma 	aquilo que a pessoa sente quando está doente, como dor de cabeça
 sistema imune 	sistema que defende o nosso corpo contra infecções e outras doenças; ele é formado por vários órgãos, células e proteínas chamadas anticorpos. O sistema imune identifica, ataca e destrói germes e outras substâncias que tentam atacar o nosso corpo.
 sistema imunológico 	sietema que defende o nosso corpo contra infecções e outras doenças; ele é formado por vários órgãos, células e proteínas chamadas anticorpos. O sistema imune identifica, ataca e destrói germes e outras sustâncias que tentam atacar o nosso corpo.
 sistema respiratório 	conjunto de órgãos envolvidos na respiração, como nariz, faringe, laringe, traqueia, brônquios e pulmão
