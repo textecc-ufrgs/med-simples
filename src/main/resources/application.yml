@@ -14,6 +14,11 @@ application:
     dictionary: simple_dic.txt
 logging:
   level:
-    com.tonyleiva.ufrgs: ERROR
+    com.tonyleiva.ufrgs: INFO
 server:
   port: 8080
+  ssl:
+    key-store-type: PKCS12 # The format used for the keystore. It could be set to JKS in case it is a JKS file
+    key-store: classpath:keystore/medsimples.p12 # The path to the keystore containing the certificate
+    key-store-password: ufrgs-medSimples-cert1 # The password used to generate the certificate
+    key-alias: medsimples # The alias mapped to the certificate
